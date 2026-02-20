@@ -1,0 +1,52 @@
+id,name,aliases,organization_type,description,fist_appearance_book_id
+1,The Twelve,,criminal,"Shadowy organization of twelve powerful men who convene at Palazzo Falconieri. They conduct discussions in Russian and English, control capital flows, and commission assassinations through formal voting procedures using antique ivory fish tokens (red for death, yellow to spare). Villanelle works for them.",1
+2,Greci clan,['the Greci' 'Greci'],criminal,"Resurgent Sicilian Mafia clan led by Salvatore Greco. Allied with the Messini clan. The richest, most powerful, and most feared Sicilian clan. They control the Palermo drug trade through an alliance with Mexican cartels, with enterprises worth an estimated $20-30 billion.",1
+3,Ndrangheta,,criminal,"Criminal organization from the southern Italian region of Calabria. Until eighteen months before the story begins, they were the principal European distribution partners of the Mexican drug cartels for cocaine. They lost this role to the Greci clan.",1
+4,Cosa Nostra,['Sicilian Mafia'],criminal,The Sicilian Mafia. The overarching structure within which clans such as the Greci and Matteo families operate.,1
+5,Brothers' Circle,,criminal,One of the most violent and ruthless criminal organizations in Russia. Responsible for the death of Boris Vorontsov (Villanelle's father). Villanelle killed three of their foot soldiers in retaliation.,1
+6,Corriere della Sera,['Corriere'],media,Italian newspaper. Bruno De Santis works as a journalist there. Published an article criticizing Franca Farfaglia's connection to Greco.,1
+7,Messini clan,['the Messini'],criminal,"Sicilian Mafia clan, associates of the Greci. Part of the most powerful alliance in Sicily.",1
+8,Matteo family,['the Mattei'],criminal,Rival Sicilian Mafia clan. A member of this family murdered Salvatore Greco's father in the 1990s. Salvatore subsequently hunted down and killed all surviving Mattei.,1
+9,Special Boat Service,['SBS'],military,British special forces unit (Royal Navy). Frank was a former SBS instructor.,1
+10,Polizia di Stato,,government,Italian national police. Agent Paolo Vella mans the cordon at Teatro Massimo after Greco's assassination.,1
+11,Société Générale,,commercial,French bank where Villanelle holds a current account funded by the Twelve through a day-trading cover identity.,1
+12,MI5,['Security Service' 'Thames House'],intelligence_agency,"British domestic security service, headquartered at Thames House on Millbank. Eve works in the P3 section.",1
+13,MI6,['SIS' 'Secret Intelligence Service' 'Vauxhall Cross'],intelligence_agency,British foreign intelligence service headquartered at Vauxhall Cross. Richard Edwards heads the Russia desk.,1
+14,P3,['Joint Services Analysis Group'],intelligence_agency,Subsection of the Joint Services Analysis Group within MI5. Assesses threats to high-risk UK visitors and liaises with the Metropolitan Police for protection. Eve heads this section.,1
+15,Metropolitan Police,['the Met' 'Met Police'],government,London's police force. SO1 (Protection Command) and SO15 (Counter Terrorism) branches are involved in the story.,1
+16,GCHQ,['Government Communications Headquarters'],intelligence_agency,UK signals intelligence agency based in Cheltenham. Bill Tregaron was seconded here.,1
+17,FSB,,intelligence_agency,Russian Federal Security Service. Used Maria Golovkina for overseas assassinations.,1
+18,DIA,['Direzione Investigativa Antimafia'],government,Italian anti-Mafia investigation directorate. Investigated the Greco assassination.,1
+19,Eurasia UK,,other,Organization that arranged the Kedrin visit to the UK. Promotes a pro-Eurasian ideology centred on mystical bonds between Europe and Russia.,1
+20,White Dragon crew,,military,Chinese PLA cyber-warfare unit led by Lt. Col. Zhang Lei (codename FatPanda). Responsible for stealing Western military technology.,1
+21,People's Liberation Army,['PLA' 'Chinese Army'],military,Chinese military forces. Zhang Lei is an officer in PLA cyber-warfare operations.,1
+22,Ministry of State Security,['MSS' 'Guoanbu'],intelligence_agency,Chinese intelligence and security agency. Jin Qiang is an MSS officer.,1
+23,E Squadron,,military,Special Forces unit based at Dever Research Station. Conducts deniable operations in support of MI6/SIS.,1
+24,Triads,,criminal,Chinese organized crime syndicates. Simon's murder is staged to resemble a Triad hit using the traditional weapon of a cleaver.,1
+25,SVR,['Russian Foreign Intelligence Service'],intelligence_agency,Russian foreign intelligence service (Sluzhba Vneshney Razvedki). Maintains its own assassination directorate and controls the Zoloty Bratstvo gang. Aware of the Twelve's existence but unable to identify their members.,1
+26,Zoloty Bratstvo,['Golden Brotherhood'],criminal,"Mafia gang based in Odessa, headed by Rinat Yevtukh. Operates under SVR control. Abducted Konstantin for ransom, unaware of his connection to the Twelve.",1
+27,North Star,['North Star corporation'],commercial,"Cover company used by the Twelve for logistics. Its Learjet bears the North Star insignia, and Villanelle carries a reception pass identifying her as an employee.",1
+28,GIGN,['National Gendarmerie Intervention Group'],military,"France's elite counter-terrorism unit. Villanelle used the cover identity Sylvie Dazat, purportedly on secondment from GIGN, while training at Fort Bragg.",1
+29,D4 Branch,,intelligence_agency,MI5 division responsible for counter-espionage against Russia and China. Headed by Dennis Cradle.,1
+30,Sverdlovsk-Futura Group,['SFG'],commercial,Moscow-registered company that owns the Knock Tom platform. Serves as a front for the Twelve's North Sea operations.,2
+31,AISE,['Agenzia Informazioni e Sicurezza Esterna'],intelligence_agency,Italian external intelligence agency. Alerted the Venice police headquarters to Yevtukh's presence in the city.,2
+32,SF12,,commercial,"Company registered in the British Virgin Islands, serving as the offshore and deniable arm of the Sverdlovsk-Futura Group. Kent is a partner. Under Russian law, a private military company registered abroad falls outside the legal responsibility of the Russian parliament.",2
+33,Nouvelle Droite,,government,"French far-right party led by Magali Le Meur, advocating pan-European nationalism.",2
+34,Daughters of Odin,,government,Finnish far-right organization led by Inka Järvi.,2
+35,UK Patriots Party,,government,British far-right patriotic party led by Richard Baggot.,2
+36,Lapsit Exillis,,other,"Organization founded by Leonardo Venturi, described as an initiatory guild for aristocrats of the spirit. Its inspiration is esoteric and linked to the Grail legend.",2
+37,Panzerdämmerung,,other,"Dark/industrial music band associated with the far-right circuit. Three members: Petra Voss (vocals and guitar), Klaus Lorenz (bass), and Peter Lorenz (drums). Their music features political speeches as a counterpoint to extremely loud, dark instrumentation.",2
+38,Directorate S,['Upravleniye S'],intelligence_agency,The espionage and agent-handling division of the SVR (Russian foreign intelligence). Its Operations Department is the Russian equivalent of the British E Squadron: special forces for deniable and deep-cover operations. Konstantin Orlov formerly headed it.,2
+39,Andropov Academy,['Accademia Andropov'],military,"Spy training school outside Moscow, originally run by the KGB and later by the SVR. Yuri Modin taught the Active Measures course there (subversion, disinformation, and assassination). Konstantin Orlov trained at this institution.",2
+40,KGB,['Komitet Gosudarstvennoy Bezopasnosti'],intelligence_agency,The Committee for State Security of the USSR. Predecessor of the FSB. The Lubyanka was its historic headquarters. Tikhomirov describes it as the FSB with worse teeth.,2
+41,Tass,['Tass News Agency'],media,Russian state news agency. A Tass-captioned photograph from the Universiade allows Eve to identify Oxana Vorontsova (Villanelle) as the gold medallist in the shooting competition.,2
+42,Kazan Military Academy,,military,"Military academy in Kazan, Russia. Larissa Farmanyants was a cadet there and represented the academy in the shooting competition at the Universiade, winning a bronze medal.",2
+43,Gazprom,,commercial,Russian natural gas energy conglomerate. Eve is repatriated on a Gazprom Dassault Falcon private jet via Ostafyevo airport.,2
+45,Prekrasnaya Nevesta,['Beautiful Bride'],commercial,Russian bridal gown company with a warehouse in Saint Petersburg. Eve and Villanelle's shipping container is unloaded at their depot. Dasha Kvariani works as head of security for the owner.,3
+46,Kupchino Bratva,,criminal,"Russian criminal organization controlling the heroin trade in Saint Petersburg. Led by Pakhan Asmat Dzabrati with four brigadiers, including Dasha Kvariani. Hierarchical structure: Pakhan, brigadiers, boyevik (soldiers). Women play a marginal role, with Dasha being an exceptional case.",3
+47,GUSP,['15th Directorate'],intelligence_agency,Main Directorate for Special Programmes (Glavnoye Upravleniye Spetsialnykh Programm). Formerly the 15th Directorate of the KGB. An ultra-secret Russian security service that monitors Moscow's underground D-6 network. Guards wear a winged-shield insignia on their uniforms.,3
+48,DGSI,['Direction Generale de la Securite Interieure'],intelligence_agency,French domestic intelligence service. Balice requests the DGSI to place Villanelle's Parisian apartment under surveillance.,4
+49,Scheubner-Richter Pharmaceuticals,['Scheubner-Richter'],commercial,"Pharmaceutical company based in Oakland, California. Manufactures Gonzadril, a selective neurotransmitter and sexual-receptor agonist. In rat trials the drug causes cardiac arrest in over ten percent of subjects. Human side effects include palpitations, restless genital syndrome, sudden vision loss, tinnitus, nausea, panic attacks, and stroke.",4
+50,GRU,['Glavnoye Razvedyvatelnoye Upravleniye'],intelligence_agency,Russian military intelligence service. Senior officers Borzhko and Peskov attempted to abduct Valentin Dominik at a Mayfair club. Possible connection to the Russian presidential elections and Operation Sanctify.,4
+51,SO15,['Counter-terrorist Command'],intelligence_agency,Counter-terrorist Command of the Metropolitan Police in London. Responsible for the custody of Peskov (GRU) after the Poodlefaker incident. Peskov escapes during transfer to the Bayford detention centre.,4
+52,Buxor,,commercial,"Mining company owned by Majid Ismailov. Operates in Naziristan, extracting rare metals.",5

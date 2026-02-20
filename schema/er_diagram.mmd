@@ -1,0 +1,94 @@
+erDiagram
+    books {
+        INTEGER id PK
+        TEXT title
+        TEXT author
+        TEXT publisher
+        TEXT publication_date
+        TEXT language
+        INTEGER pages
+        INTEGER chapters
+    }
+
+    chapters {
+        INTEGER id PK
+        INTEGER book_id FK
+        INTEGER chapter
+        TEXT name
+    }
+
+    characters {
+        INTEGER id PK
+        TEXT name
+        TEXT full_name
+        TEXT aliases
+        TEXT description
+        TEXT role
+        TEXT nationality
+        TEXT gender
+        INTEGER first_appearance_book_id FK
+    }
+
+    characters_appearances {
+        INTEGER book_id FK
+        INTEGER chapter_id FK
+        INTEGER character_id FK
+    }
+
+    locations {
+        INTEGER id PK
+        TEXT name
+        TEXT location_type
+        TEXT parent_location
+        TEXT description
+        BOOLEAN real_place
+    }
+
+    locations_appearances {
+        INTEGER book_id FK
+        INTEGER chapter_id FK
+        INTEGER location_id FK
+    }
+
+    organizations {
+        INTEGER id PK
+        TEXT name
+        TEXT aliases
+        TEXT organization_type
+        TEXT description
+        INTEGER first_appearance_book_id FK
+    }
+
+    relationships {
+        INTEGER id PK
+        INTEGER book_id FK
+        INTEGER chapter_id FK
+        TEXT subject_type
+        INTEGER subject_id
+        TEXT subject_name
+        TEXT predicate
+        TEXT object_type
+        INTEGER object_id
+        TEXT object_name
+    }
+
+    glossary {
+        INTEGER id PK
+        TEXT term
+        TEXT category
+        TEXT description
+    }
+
+    books ||--o{ chapters : "has"
+    books ||--o{ characters_appearances : "context"
+    books ||--o{ locations_appearances : "context"
+    books ||--o{ relationships : "context"
+    books ||--o{ characters : "first_appearance"
+    books ||--o{ organizations : "first_appearance"
+
+    chapters ||--o{ characters_appearances : "appears_in"
+    chapters ||--o{ locations_appearances : "appears_in"
+    chapters ||--o{ relationships : "established_in"
+
+    characters ||--o{ characters_appearances : "appears"
+    locations ||--o{ locations_appearances : "appears"

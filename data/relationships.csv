@@ -1,0 +1,304 @@
+id,book_id,chapter_id,subject_type,subject_id,subject_name,predicate,object_type,object_id,object_name
+1,1,1,character,1,Villanelle,works_for,organization,1,The Twelve
+2,1,1,character,1,Villanelle,lives_at,location,23,Villanelle's apartment
+3,1,1,character,6,Boris Vorontsov,parent_of,character,1,Villanelle
+4,1,1,character,2,Konstantin,works_for,organization,1,The Twelve
+5,1,1,character,3,Salvatore Greco,leads,organization,2,Greci clan
+6,1,1,character,3,Salvatore Greco,married_to,character,7,Calogera Greco
+7,1,1,character,3,Salvatore Greco,parent_of,character,8,Valentina Greco
+8,1,1,character,9,Bruno De Santis,works_for,organization,6,Corriere della Sera
+9,1,1,organization,2,Greci clan,member_of,organization,4,Cosa Nostra
+10,1,1,character,12,Frank,member_of,organization,9,Special Boat Service
+11,1,1,character,14,Leoluca Messina,relative_of,character,3,Salvatore Greco
+12,1,1,character,14,Leoluca Messina,member_of,organization,7,Messini clan
+13,1,1,character,18,Paolo Vella,member_of,organization,10,Polizia di Stato
+14,1,1,organization,1,The Twelve,orders_assassination_of,character,3,Salvatore Greco
+15,1,1,character,1,Villanelle,reports_to,character,2,Konstantin
+16,1,1,character,2,Konstantin,recruits,character,1,Villanelle
+17,1,1,organization,5,Brothers' Circle,kills,character,6,Boris Vorontsov
+18,1,1,character,1,Villanelle,trains,location,15,Perm
+19,1,1,character,1,Villanelle,attracted_to,character,17,Yuliana
+20,1,1,character,3,Salvatore Greco,owns,location,14,Palermo
+21,1,1,character,3,Salvatore Greco,recruits,character,10,Franca Farfaglia
+22,1,1,character,3,Salvatore Greco,attempts_to_kill,character,9,Bruno De Santis
+23,1,1,organization,7,Messini clan,allies_with,organization,2,Greci clan
+24,1,1,organization,2,Greci clan,rivals_with,organization,3,Ndrangheta
+25,1,1,organization,2,Greci clan,rivals_with,organization,8,Matteo family
+26,1,1,character,10,Franca Farfaglia,trains,location,27,La Scala Theatre Academy
+27,1,1,character,12,Frank,trains,character,1,Villanelle
+28,1,1,character,1,Villanelle,trains,location,42,Essex coast
+29,1,1,character,1,Villanelle,trains,location,35,Mittenwald
+30,1,1,character,1,Villanelle,trains,location,43,Fort Bragg
+31,1,1,character,1,Villanelle,trains,location,37,Kiev
+32,1,1,character,1,Villanelle,trains,location,44,Severka sniper school
+33,1,1,character,1,Villanelle,trains,location,40,Volgograd
+34,1,1,character,13,Fantine,trains,character,1,Villanelle
+35,1,1,character,1,Villanelle,travels_to,location,39,Piraeus
+36,1,1,character,1,Villanelle,kills,character,15,Yiorgos Vlachos
+37,1,1,character,1,Villanelle,kills,character,16,Dragan Horvat
+38,1,1,character,1,Villanelle,travels_to,location,14,Palermo
+39,1,1,character,1,Villanelle,kills,character,3,Salvatore Greco
+40,1,1,character,14,Leoluca Messina,saves,character,1,Villanelle
+41,1,1,character,1,Villanelle,lover_of,character,14,Leoluca Messina
+42,1,1,character,1,Villanelle,deceives,character,18,Paolo Vella
+43,1,2,character,19,Eve Polastri,married_to,character,20,Niko Polastri
+44,1,2,character,19,Eve Polastri,works_for,organization,12,MI5
+45,1,2,character,19,Eve Polastri,leads,organization,14,P3
+46,1,2,character,27,Richard Edwards,works_for,organization,13,MI6
+47,1,2,character,25,Bill Tregaron,works_for,organization,16,GCHQ
+48,1,2,character,23,Anne-Laure Mercier,married_to,character,24,Gilles Mercier
+49,1,2,character,22,Viktor Kedrin,member_of,organization,19,Eurasia UK
+50,1,2,organization,14,P3,member_of,organization,12,MI5
+51,1,2,character,32,Vitaly Chuvarov,works_for,character,22,Viktor Kedrin
+52,1,2,character,1,Villanelle,deceives,character,23,Anne-Laure Mercier
+53,1,2,character,1,Villanelle,attacks,organization,5,Brothers' Circle
+54,1,2,character,19,Eve Polastri,reports_to,character,25,Bill Tregaron
+55,1,2,character,21,Simon Mortimer,reports_to,character,19,Eve Polastri
+56,1,2,character,19,Eve Polastri,confides_in,character,20,Niko Polastri
+57,1,2,character,1,Villanelle,travels_to,location,34,London
+58,1,2,character,1,Villanelle,lover_of,character,29,Sarah
+59,1,2,character,1,Villanelle,deceives,character,28,Lucy Drake
+60,1,2,character,1,Villanelle,kills,character,22,Viktor Kedrin
+61,1,2,character,1,Villanelle,kills,character,32,Vitaly Chuvarov
+62,1,2,character,26,DCI Gary Hurst,investigates,character,22,Viktor Kedrin
+63,1,2,character,27,Richard Edwards,recruits,character,19,Eve Polastri
+64,1,2,character,19,Eve Polastri,investigates,character,1,Villanelle
+65,1,3,character,34,Zhang Lei,leads,organization,20,White Dragon crew
+66,1,3,character,36,Jin Qiang,works_for,organization,22,Ministry of State Security
+67,1,3,character,37,Janie Chou,works_for,character,2,Konstantin
+68,1,3,character,1,Villanelle,travels_to,location,79,Shanghai
+69,1,3,organization,1,The Twelve,orders_assassination_of,character,34,Zhang Lei
+70,1,3,character,1,Villanelle,kills,character,34,Zhang Lei
+71,1,3,character,11,Miss Leonova,trains,character,1,Villanelle
+72,1,3,character,1,Villanelle,attracted_to,character,11,Miss Leonova
+73,1,3,character,39,Roman Nikonov,attacks,character,11,Miss Leonova
+74,1,3,character,1,Villanelle,attacks,character,39,Roman Nikonov
+75,1,3,character,35,Alice Mao,owns,location,92,The Aquarium
+76,1,3,character,1,Villanelle,lover_of,character,35,Alice Mao
+77,1,3,character,19,Eve Polastri,travels_to,location,79,Shanghai
+78,1,3,character,2,Konstantin,spies_on,character,19,Eve Polastri
+79,1,3,character,36,Jin Qiang,collaborates_with,character,19,Eve Polastri
+80,1,3,character,37,Janie Chou,deceives,character,21,Simon Mortimer
+81,1,3,character,1,Villanelle,kills,character,21,Simon Mortimer
+82,1,3,character,1,Villanelle,attracted_to,character,19,Eve Polastri
+83,1,3,character,19,Eve Polastri,investigates,character,1,Villanelle
+84,1,3,character,42,Calum Dennis,trains,character,19,Eve Polastri
+85,1,4,character,1,Villanelle,travels_to,location,103,Odessa
+86,1,4,character,50,Anton,works_for,organization,1,The Twelve
+87,1,4,character,51,Lara Farmanyants,works_for,organization,1,The Twelve
+88,1,4,character,52,Rinat Yevtukh,leads,organization,26,Zoloty Bratstvo
+89,1,4,character,45,Dennis Cradle,works_for,organization,1,The Twelve
+90,1,4,character,45,Dennis Cradle,leads,organization,29,D4 Branch
+91,1,4,character,48,Zbigniew,friend_of,character,20,Niko Polastri
+92,1,4,character,43,Lance Pope,collaborates_with,character,19,Eve Polastri
+93,1,4,character,44,Billy Primrose,collaborates_with,character,19,Eve Polastri
+94,1,4,character,1,Villanelle,rivals_with,character,51,Lara Farmanyants
+95,1,4,character,50,Anton,collaborates_with,character,2,Konstantin
+96,1,4,organization,26,Zoloty Bratstvo,abducts,character,2,Konstantin
+97,1,4,organization,25,SVR,owns,organization,26,Zoloty Bratstvo
+98,1,4,character,50,Anton,informs,character,1,Villanelle
+99,1,4,character,47,Tony Kent,works_for,organization,1,The Twelve
+100,1,4,character,19,Eve Polastri,investigates,character,45,Dennis Cradle
+101,1,4,character,1,Villanelle,kills,character,2,Konstantin
+102,1,4,organization,1,The Twelve,threatens,character,1,Villanelle
+103,1,4,character,49,Claudia,lover_of,character,48,Zbigniew
+104,1,4,character,51,Lara Farmanyants,lover_of,character,1,Villanelle
+105,2,5,character,45,Dennis Cradle,lover_of,character,54,Gabriela Vukovic
+106,2,5,character,1,Villanelle,travels_to,location,129,Venice
+107,2,5,character,52,Rinat Yevtukh,lover_of,character,55,Katya Goraya
+108,2,5,character,43,Lance Pope,abducts,character,45,Dennis Cradle
+109,2,5,character,19,Eve Polastri,recruits,character,45,Dennis Cradle
+110,2,5,character,19,Eve Polastri,threatens,character,45,Dennis Cradle
+111,2,5,character,1,Villanelle,operates_at,location,139,Hotel Excelsior
+112,2,5,character,1,Villanelle,deceives,character,52,Rinat Yevtukh
+113,2,5,character,1,Villanelle,interrogates,character,52,Rinat Yevtukh
+114,2,5,character,1,Villanelle,kills,character,52,Rinat Yevtukh
+115,2,5,character,19,Eve Polastri,attracted_to,character,1,Villanelle
+116,2,5,character,1,Villanelle,trains,character,51,Lara Farmanyants
+117,2,6,character,57,Rem Bakker,recruits,character,45,Dennis Cradle
+118,2,6,character,56,Sergei (Cradle recruiter),works_for,organization,1,The Twelve
+119,2,6,character,46,Penny Cradle,married_to,character,45,Dennis Cradle
+120,2,6,character,19,Eve Polastri,interrogates,character,45,Dennis Cradle
+121,2,6,character,1,Villanelle,spies_on,character,19,Eve Polastri
+122,2,6,character,1,Villanelle,attacks,character,19,Eve Polastri
+123,2,6,character,1,Villanelle,kills,character,45,Dennis Cradle
+124,2,6,character,20,Niko Polastri,informs,character,19,Eve Polastri
+125,2,6,character,1,Villanelle,spies_on,character,19,Eve Polastri
+126,2,6,character,43,Lance Pope,collaborates_with,character,19,Eve Polastri
+127,2,6,character,27,Richard Edwards,collaborates_with,character,19,Eve Polastri
+128,2,7,character,1,Villanelle,travels_to,location,174,Knock Tom
+129,2,7,organization,30,Sverdlovsk-Futura Group,owns,location,174,Knock Tom
+130,2,7,organization,30,Sverdlovsk-Futura Group,member_of,organization,1,The Twelve
+131,2,7,character,59,Abby,works_for,location,176,Met Police Forensics Lab
+132,2,7,character,62,Leila,lover_of,character,48,Zbigniew
+133,2,7,character,61,Fiona,works_for,character,65,Gareth Wolf
+134,2,7,character,50,Anton,supervises,character,1,Villanelle
+135,2,7,character,63,Marta,works_for,location,175,Villanelle apartment Paris
+136,2,7,character,50,Anton,orders_assassination_of,character,58,Max Linder
+137,2,7,organization,1,The Twelve,orders_assassination_of,character,58,Max Linder
+138,2,7,character,59,Abby,collaborates_with,character,19,Eve Polastri
+139,2,7,character,20,Niko Polastri,confides_in,character,19,Eve Polastri
+140,2,8,organization,31,AISE,informs,character,66,Armando Trevisan
+141,2,8,character,68,Claudio Forlani,lives_at,location,185,Palazzo Forlani
+142,2,8,character,19,Eve Polastri,travels_to,location,129,Venice
+143,2,8,character,70,Bianca,informs,character,19,Eve Polastri
+144,2,8,character,66,Armando Trevisan,investigates,character,52,Rinat Yevtukh
+145,2,8,character,66,Armando Trevisan,collaborates_with,character,19,Eve Polastri
+146,2,8,character,67,Giovanna Bianchi,collaborates_with,character,19,Eve Polastri
+147,2,8,character,1,Villanelle,travels_to,location,164,Innsbruck
+148,2,8,character,1,Villanelle,operates_at,location,188,Gasthof Lili
+149,2,8,character,68,Claudio Forlani,attracted_to,character,19,Eve Polastri
+150,2,9,character,47,Tony Kent,member_of,organization,30,Sverdlovsk-Futura Group
+151,2,9,character,47,Tony Kent,member_of,organization,32,SF12
+152,2,9,organization,32,SF12,member_of,organization,30,Sverdlovsk-Futura Group
+153,2,9,character,47,Tony Kent,friend_of,character,45,Dennis Cradle
+154,2,9,character,71,Magali Le Meur,leads,organization,33,Nouvelle Droite
+155,2,9,character,74,Inka Järvi,leads,organization,34,Daughters of Odin
+156,2,9,character,75,Richard Baggot,leads,organization,35,UK Patriots Party
+157,2,9,character,73,Leonardo Venturi,leads,organization,36,Lapsit Exillis
+158,2,9,character,77,Petra Voss,member_of,organization,37,Panzerdämmerung
+159,2,9,character,1,Villanelle,travels_to,location,173,Felsnadel
+160,2,9,character,81,Birgit,works_for,character,58,Max Linder
+161,2,9,character,1,Villanelle,deceives,character,58,Max Linder
+162,2,9,character,80,Johanna,informs,character,81,Birgit
+163,2,9,character,82,Maria (Felsnadel),informs,character,1,Villanelle
+164,2,9,character,72,Todd Stanton,collaborates_with,character,58,Max Linder
+165,2,9,character,77,Petra Voss,attracted_to,character,1,Villanelle
+166,2,9,character,47,Tony Kent,trains,location,195,Sandhurst
+167,2,9,character,83,Sim Henderson,collaborates_with,character,44,Billy Primrose
+168,2,9,character,19,Eve Polastri,investigates,character,1,Villanelle
+169,2,10,character,2,Konstantin,leads,organization,38,Directorate S
+170,2,10,character,27,Richard Edwards,friend_of,character,2,Konstantin
+171,2,10,character,84,Oleg,works_for,character,27,Richard Edwards
+172,2,10,character,2,Konstantin,trains,organization,39,Andropov Academy
+173,2,10,character,85,Yuri Modin,trains,character,2,Konstantin
+174,2,10,character,44,Billy Primrose,informs,character,19,Eve Polastri
+175,2,10,character,27,Richard Edwards,informs,character,19,Eve Polastri
+176,2,10,character,1,Villanelle,lover_of,character,77,Petra Voss
+177,2,10,character,66,Armando Trevisan,informs,character,19,Eve Polastri
+178,2,10,character,1,Villanelle,threatens,character,80,Johanna
+179,2,10,character,1,Villanelle,deceives,character,75,Richard Baggot
+180,2,10,character,84,Oleg,collaborates_with,character,19,Eve Polastri
+181,2,10,character,1,Villanelle,kills,character,58,Max Linder
+182,2,11,character,19,Eve Polastri,travels_to,location,102,Moscow
+183,2,11,character,86,Vadim Tikhomirov,collaborates_with,character,27,Richard Edwards
+184,2,11,character,82,Maria (Felsnadel),works_for,character,50,Anton
+185,2,11,character,87,Amanda Edwards,married_to,character,27,Richard Edwards
+186,2,11,character,27,Richard Edwards,parent_of,character,88,Chloe Edwards
+187,2,11,character,51,Lara Farmanyants,attempts_to_kill,character,19,Eve Polastri
+188,2,11,organization,17,FSB,abducts,character,19,Eve Polastri
+189,2,11,character,86,Vadim Tikhomirov,informs,character,19,Eve Polastri
+190,2,11,organization,17,FSB,abducts,character,51,Lara Farmanyants
+191,2,11,character,19,Eve Polastri,investigates,character,1,Villanelle
+192,2,11,character,51,Lara Farmanyants,informs,character,1,Villanelle
+193,2,11,character,1,Villanelle,travels_to,location,34,London
+194,2,11,character,50,Anton,orders_assassination_of,character,19,Eve Polastri
+195,2,11,character,20,Niko Polastri,confides_in,character,19,Eve Polastri
+196,2,11,character,88,Chloe Edwards,attracted_to,character,2,Konstantin
+197,2,11,character,19,Eve Polastri,confides_in,character,27,Richard Edwards
+198,2,12,character,50,Anton,leads,organization,23,E Squadron
+199,2,12,character,1,Villanelle,saves,character,19,Eve Polastri
+200,2,12,character,1,Villanelle,lover_of,character,19,Eve Polastri
+201,2,12,character,1,Villanelle,informs,character,19,Eve Polastri
+202,2,12,character,27,Richard Edwards,works_for,organization,1,The Twelve
+203,2,12,character,27,Richard Edwards,betrays,character,19,Eve Polastri
+204,2,12,character,50,Anton,collaborates_with,character,27,Richard Edwards
+205,2,12,character,88,Chloe Edwards,informs,character,19,Eve Polastri
+206,2,12,character,1,Villanelle,deceives,character,50,Anton
+207,2,12,character,1,Villanelle,allies_with,character,19,Eve Polastri
+208,2,12,character,1,Villanelle,recruits,character,19,Eve Polastri
+209,3,13,character,90,Igor,collaborates_with,character,19,Eve Polastri
+210,3,13,character,90,Igor,collaborates_with,character,1,Villanelle
+211,3,13,character,19,Eve Polastri,lover_of,character,1,Villanelle
+212,3,13,character,19,Eve Polastri,travels_to,location,4,Russia
+213,3,13,character,1,Villanelle,travels_to,location,4,Russia
+214,3,14,character,1,Villanelle,confides_in,character,19,Eve Polastri
+215,3,14,character,1,Villanelle,lover_of,character,19,Eve Polastri
+216,3,14,character,19,Eve Polastri,confides_in,character,1,Villanelle
+217,3,15,character,91,Dasha Kvariani,works_for,organization,45,Prekrasnaya Nevesta
+218,3,15,character,1,Villanelle,friend_of,character,91,Dasha Kvariani
+219,3,15,character,19,Eve Polastri,attacks,character,91,Dasha Kvariani
+220,3,15,character,91,Dasha Kvariani,attacks,character,19,Eve Polastri
+221,3,15,character,1,Villanelle,saves,character,19,Eve Polastri
+222,3,15,character,1,Villanelle,collaborates_with,character,91,Dasha Kvariani
+223,3,16,character,96,Gennadi Kvariani,parent_of,character,91,Dasha Kvariani
+224,3,16,character,91,Dasha Kvariani,leads,organization,46,Kupchino Bratva
+225,3,16,character,93,Asmat Dzabrati,leads,organization,46,Kupchino Bratva
+226,3,16,character,95,Pavel,married_to,character,94,Angelina
+227,3,16,character,98,Rushana,sibling_of,character,93,Asmat Dzabrati
+228,3,16,character,92,Kristina,lover_of,character,91,Dasha Kvariani
+229,3,16,character,97,Yelena,lover_of,character,93,Asmat Dzabrati
+230,3,16,character,99,Zoya,lover_of,character,93,Asmat Dzabrati
+231,3,16,character,19,Eve Polastri,attempts_to_kill,character,19,Eve Polastri
+232,3,16,character,1,Villanelle,saves,character,19,Eve Polastri
+233,3,16,character,19,Eve Polastri,attacks,character,1,Villanelle
+234,3,16,character,91,Dasha Kvariani,orders_assassination_of,character,93,Asmat Dzabrati
+235,3,17,character,19,Eve Polastri,collaborates_with,character,1,Villanelle
+236,3,17,character,91,Dasha Kvariani,informs,character,1,Villanelle
+237,3,17,character,1,Villanelle,attacks,character,93,Asmat Dzabrati
+238,3,17,character,19,Eve Polastri,kills,character,93,Asmat Dzabrati
+239,3,18,character,91,Dasha Kvariani,leads,organization,46,Kupchino Bratva
+240,3,18,character,1,Villanelle,works_for,organization,1,The Twelve
+241,3,18,character,92,Kristina,confides_in,character,19,Eve Polastri
+242,3,18,character,51,Lara Farmanyants,kills,character,92,Kristina
+243,3,18,character,91,Dasha Kvariani,rivals_with,character,51,Lara Farmanyants
+244,3,18,character,19,Eve Polastri,attacks,organization,1,The Twelve
+245,3,18,character,91,Dasha Kvariani,saves,character,19,Eve Polastri
+246,3,18,character,27,Richard Edwards,betrays,character,19,Eve Polastri
+247,3,18,character,50,Anton,orders_assassination_of,character,19,Eve Polastri
+248,3,18,character,1,Villanelle,saves,character,19,Eve Polastri
+249,3,19,character,100,Nadezhda Vorontsova,parent_of,character,1,Villanelle
+250,3,19,character,100,Nadezhda Vorontsova,married_to,character,6,Boris Vorontsov
+251,3,19,character,1,Villanelle,travels_to,location,102,Moscow
+252,3,19,character,1,Villanelle,confides_in,character,19,Eve Polastri
+253,3,19,character,1,Villanelle,lover_of,character,19,Eve Polastri
+254,3,19,character,27,Richard Edwards,recruits,character,1,Villanelle
+255,3,19,character,27,Richard Edwards,recruits,character,19,Eve Polastri
+256,3,19,character,19,Eve Polastri,attacks,character,1,Villanelle
+257,3,20,character,101,Dima,works_for,character,86,Vadim Tikhomirov
+258,3,20,character,86,Vadim Tikhomirov,recruits,character,19,Eve Polastri
+259,3,20,character,19,Eve Polastri,deceives,character,27,Richard Edwards
+260,3,20,character,1,Villanelle,travels_to,location,174,Knock Tom
+261,3,20,character,102,Nobby,trains,character,1,Villanelle
+262,3,20,character,103,Ginge,trains,character,51,Lara Farmanyants
+263,3,20,character,103,Ginge,trains,character,19,Eve Polastri
+264,3,20,character,1,Villanelle,betrays,character,19,Eve Polastri
+265,3,20,character,19,Eve Polastri,attacks,character,51,Lara Farmanyants
+266,3,21,character,50,Anton,deceives,character,19,Eve Polastri
+267,3,21,character,19,Eve Polastri,kills,character,50,Anton
+268,3,21,character,1,Villanelle,collaborates_with,character,19,Eve Polastri
+269,3,21,character,19,Eve Polastri,lover_of,character,1,Villanelle
+270,3,21,character,19,Eve Polastri,confides_in,character,1,Villanelle
+271,3,21,character,1,Villanelle,confides_in,character,19,Eve Polastri
+272,3,22,character,1,Villanelle,travels_to,location,102,Moscow
+273,3,22,character,19,Eve Polastri,informs,character,106,Inna Lapotnikova
+274,3,22,character,106,Inna Lapotnikova,collaborates_with,character,19,Eve Polastri
+275,3,22,character,19,Eve Polastri,deceives,character,27,Richard Edwards
+276,3,22,character,104,Valery Stechkin,threatens,character,105,Ronald Loy
+277,3,22,character,27,Richard Edwards,informs,character,1,Villanelle
+278,3,22,organization,1,The Twelve,orders_assassination_of,character,104,Valery Stechkin
+279,3,22,organization,1,The Twelve,orders_assassination_of,character,105,Ronald Loy
+280,3,22,character,51,Lara Farmanyants,informs,character,19,Eve Polastri
+281,3,23,character,107,Tolya,works_for,organization,1,The Twelve
+282,3,23,character,108,Gennadi,operates_at,location,271,Neglinka River Underground
+283,3,23,character,27,Richard Edwards,travels_to,location,272,Kremlin East Tower
+284,3,23,character,19,Eve Polastri,collaborates_with,character,51,Lara Farmanyants
+285,3,23,character,91,Dasha Kvariani,collaborates_with,character,86,Vadim Tikhomirov
+286,3,23,character,86,Vadim Tikhomirov,saves,character,19,Eve Polastri
+287,3,23,character,91,Dasha Kvariani,kills,character,51,Lara Farmanyants
+288,3,23,character,27,Richard Edwards,deceives,character,19,Eve Polastri
+289,3,24,character,19,Eve Polastri,travels_to,location,269,Bolshoi Theatre
+290,3,24,character,1,Villanelle,kills,character,104,Valery Stechkin
+291,3,24,character,1,Villanelle,kills,character,105,Ronald Loy
+292,3,24,character,86,Vadim Tikhomirov,saves,character,19,Eve Polastri
+293,3,24,organization,17,FSB,attacks,character,1,Villanelle
+294,3,25,character,109,Alexei,works_for,organization,17,FSB
+295,3,25,character,19,Eve Polastri,travels_to,location,15,Perm
+296,3,25,character,11,Miss Leonova,collaborates_with,character,19,Eve Polastri
+297,3,25,character,1,Villanelle,confides_in,character,19,Eve Polastri
+298,3,26,character,1,Villanelle,lives_at,location,234,St Petersburg
+299,3,26,character,86,Vadim Tikhomirov,deceives,character,19,Eve Polastri
+300,3,26,character,86,Vadim Tikhomirov,collaborates_with,organization,1,The Twelve
+301,3,26,organization,17,FSB,deceives,character,1,Villanelle
+302,3,26,character,86,Vadim Tikhomirov,saves,character,1,Villanelle
+303,3,26,character,1,Villanelle,travels_to,location,9,Paris

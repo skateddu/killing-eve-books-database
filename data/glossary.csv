@@ -1,0 +1,513 @@
+id,term,category,description
+1,the Twelve,organization_name,Shadowy organization that controls events from behind the scenes.
+2,omertà,cultural_reference,The Mafia code of silence.
+3,consigliere,title_rank,Mafia adviser or counsellor. Valentina Greco married the son of a consigliere.
+4,Cosa Nostra,organization_name,The Sicilian Mafia.
+5,Ndrangheta,organization_name,Calabrian criminal organization.
+6,Spetsnaz,technical_term,Russian special forces. Boris Vorontsov served as an instructor.
+7,shiza,slang,Prison slang for solitary confinement at Dobryanka remand centre.
+8,Grey Goose vodka Martini,food_drink,Villanelle's preferred drink at Le Jasmin.
+9,Vernaccia,food_drink,Chilled white wine served at the Palazzo Falconieri lunch.
+10,DEFLECT,technical_term,One-word coded text from Konstantin meaning abort or disengage.
+11,Pony Club,place_name,Location where Villanelle killed three Brothers' Circle members.
+12,day-trader,technical_term,"Villanelle's cover profession, specializing in currencies and interest-rate futures."
+13,Palazzo,cultural_reference,Italian term for a large building or palace. Used for Palazzo Falconieri.
+14,Louboutins,cultural_reference,Designer shoes worn by Villanelle at Le Jasmin.
+15,Systema Spetsnaz,technical_term,Russian military martial art. Oxana learned the basics from her father.
+16,angliski ublyodok,slang,Russian insult that Oxana mentally directs at Frank during combat training.
+17,Gerber knife,weapon,Combat knife with an eight-inch blade used by Frank during training.
+18,VSS,weapon,"Special Sniper Rifle (Vintovka Snayperskaya Spetsialnaya). Lightweight weapon with an integral silencer, used by Villanelle at Severka and for the Vlachos assassination."
+19,Dragunov,weapon,Standard-issue Russian sniper rifle. Oxana's primary training weapon at Severka.
+20,SP-5 round,weapon,Subsonic ammunition designed for the VSS. Used in the Vlachos assassination.
+21,Ruger,weapon,Lightweight automatic pistol with an integrated Gemtech suppressor. Chambered in .22 calibre low-velocity rounds. Used in the Greco assassination.
+22,etorphine,technical_term,Veterinary-strength opioid capable of inducing immediate paralysis. Delivered via a modified hairclip to Greco's frontal lobe during his assassination.
+23,steganography,technical_term,"The science of concealing secret information within computer files, such as hiding data in JPEG images. Oxana studied it in La Defense, Paris."
+24,Don,title_rank,Mafia honorific used by bodyguards and associates to address senior figures such as Salvatore Greco.
+25,Il bacio di Tosca,cultural_reference,"Tosca's kiss. A reference to the opera scene in which Tosca stabs Scarpia, referenced in connection with Greco's assassination at the Teatro Massimo."
+26,frappato,food_drink,"Sicilian red wine from Greco's own vineyards, served cold in his opera box."
+27,Comtesse du Barry,proper_name,"Jeanne Becu, Comtesse du Barry (1743-1793), the last royal mistress of Louis XV. Guillotined during the Revolution. Her favourite scent was called Villanelle; the perfume house later added a red ribbon to the bottle. Origin of Villanelle's codename."
+28,prêt-à-porter,cultural_reference,Ready-to-wear fashion. Fantine introduces Oxana to couture and ready-to-wear collections.
+29,Beretta Storm 9mm,weapon,Semi-automatic pistol carried by Leoluca Messina in a shoulder holster.
+30,exfiltration,technical_term,Tactical withdrawal from hostile territory after completing a mission.
+31,MV Agusta,cultural_reference,Italian motorcycle used by Leoluca Messina during the escape from Teatro Massimo.
+32,Thames House,place_name,"MI5 headquarters on Millbank, Westminster."
+33,Vauxhall Cross,place_name,MI6 headquarters location in London.
+34,SO1,organization_name,"Protection Command, Metropolitan Police. A specialist protection unit."
+35,COBRA,technical_term,Cabinet Office Briefing Room A. The UK government's emergency response committee.
+36,myszka,cultural_reference,Polish for little mouse. Niko's pet name for Eve.
+37,Evochka,proper_name,"Russian-style diminutive of Eve, used affectionately by Niko."
+38,kompromat,technical_term,Russian term for compromising material used for blackmail. Employed by Richard Edwards.
+39,Moscow rules,technical_term,Intelligence jargon for operating as if in hostile territory under maximum security protocols.
+40,pierogi,food_drink,Polish dumpling dish. Niko prepares it for Eve.
+41,Staraya Moskva,food_drink,Russian vodka brand. A bottle appears in the Kedrin hotel room.
+42,Chernaya Roza,weapon,Black Rose hollowpoint rounds. Russian-made ammunition whose copper jacket peels back on impact.
+43,CZ 75,weapon,Czech polymer-bodied 9mm handgun fitted with an Isis-2 suppressor. Used by Villanelle for the Kedrin assassination.
+44,Akhmatova,cultural_reference,Russian poet Anna Akhmatova. Her verse is referenced in connection with the Kedrin assassination.
+45,Tyvek,technical_term,White protective coverall worn at crime scenes.
+46,shlyukha,slang,Russian vulgar term for a prostitute. Referenced in the Pony Club flashback scene.
+47,E Squadron,organization_name,"Special Forces unit based at Dever Research Station, conducting deniable operations for SIS. According to Konstantin, tasked with eliminating Villanelle if caught in the UK."
+48,Makarov,weapon,Russian service pistol. Boris Vorontsov's old sidearm. Oxana used it at the Pony Club.
+49,gweipo,slang,"Cantonese term for a foreign woman, used in reference to Villanelle in Shanghai."
+50,kuai,slang,Chinese informal term for yuan or money.
+51,qipao,cultural_reference,Traditional Chinese dress worn by women at the Aquarium club.
+52,chukabocho,weapon,"Chinese cleaver purchased by Villanelle at Putua Parlour, used to kill Simon Mortimer."
+53,Manon Lescaut,cultural_reference,Puccini opera that young Oxana attended with Anna Leonova before being rejected.
+54,moy vrag,cultural_reference,Russian for my enemy. Whispered by Villanelle to a sleeping Eve.
+55,FatPanda,proper_name,Online alias and codename of Lt. Col. Zhang Lei.
+56,PLA,organization_name,People's Liberation Army. The Chinese military.
+57,MSS,organization_name,Ministry of State Security. The Chinese intelligence agency.
+58,Glock 19,weapon,Pistol that Eve trains with at Dever Research Station.
+59,dragon-fruit Martini,food_drink,Cocktail ordered by Simon at the Star Bar in Shanghai.
+60,Kosmos,cultural_reference,Russian cigarette brand smoked by Konstantin.
+61,Zoloty Bratstvo,organization_name,Golden Brotherhood. An Odessa mafia gang headed by Rinat Yevtukh.
+62,North Star,organization_name,"Front corporation used by the Twelve for logistics, including a Learjet and heliport."
+63,solyanka,food_drink,"Thick, spicy Russian soup served at the Bird Market cafe in Odessa."
+64,borscht,food_drink,Ukrainian and Russian beetroot soup. Anton orders it for Villanelle at an Odessa cafe.
+65,pirozhki,food_drink,"Small Russian buns filled with minced meat, served at an Odessa cafe."
+66,number station,technical_term,Shortwave radio station that broadcasts encrypted messages via number groups. Villanelle checks in twice daily.
+67,one-time pad,technical_term,Cryptographic method used by Villanelle to decrypt number station messages.
+68,KRISS Vector,weapon,Sub-machine gun used by Villanelle during the Odessa assault.
+69,Lobaev SVL,weapon,Russian precision sniper rifle used by Lara Farmanyants (Echo). Chambered for .408 Chey-Tac.
+70,Nomex,technical_term,Flame-resistant fabric used for tactical coveralls worn by the assault team.
+71,Little Bird,technical_term,Light military helicopter used for the assault on Yevtukh's villa.
+72,plasticuffs,technical_term,"Plastic restraint cuffs. Used to bind Konstantin to a chair, and among the items Villanelle brings in the container alongside a commando knife and ammunition."
+73,Ladurée,food_drink,Famous Parisian macaron maker. Villanelle favours the rose-petal and Marie-Antoinette tea flavours.
+74,haute couture,cultural_reference,High fashion. Villanelle attends a show on rue du Faubourg Saint-Honore.
+75,Negroni Sbagliato,food_drink,Italian cocktail consisting of a Negroni made with sparkling wine instead of gin. Villanelle orders one for Rinat at the Danieli bar.
+76,aconitine,technical_term,"Plant-derived poison extracted from wolfsbane (aconite). Causes paraesthesia, convulsions, and heart failure. Used by Villanelle to kill Rinat."
+77,paraesthesia,technical_term,"Tingling or burning skin sensation, a symptom of aconitine poisoning."
+78,motoscafo,cultural_reference,Italian term for a motorboat or motor launch. Used in Venice as a private water taxi. Villanelle uses one to take Rinat to the Ottagone.
+79,frutti di mare,food_drink,Italian seafood platter eaten by Villanelle and Lara at Hotel Excelsior.
+80,detka,cultural_reference,"Russian term of endearment meaning baby or darling, conveying intimacy and affection. Used by Villanelle for both Lara and Eve."
+81,kroshka,cultural_reference,"Russian term of endearment meaning sweetie or crumb, used by Lara for Villanelle."
+82,vory,slang,Russian criminal underworld term referring to thieves-in-law. Villanelle uses it to describe Yevtukh as an old-school vor.
+83,devushka,cultural_reference,Russian term for a young woman or girl. Rinat uses it to refer to Villanelle under her Marina alias.
+84,Babydoll,proper_name,"Name of Cradle's 42-foot motor yacht moored at Port Vauban, Antibes."
+85,CZ automatic,weapon,Silenced CZ pistol used by Villanelle to shoot Rinat.
+86,Nigerian dwarf goats,cultural_reference,"Breed of goats kept by Niko, named Thelma and Louise. Produce rich milk and weigh approximately 75 pounds."
+87,Domaine de la Romanée-Conti,cultural_reference,"Prestigious Burgundy wine estate, also known as DRC. Among the most expensive wines in the world."
+88,Van Diest,proper_name,Belgian luxury jewellery brand.
+89,Dvenadtsat,cultural_reference,"A 1918 poem by Aleksandr Blok, titled The Twelve."
+90,Aleksandr Blok,proper_name,"Russian Symbolist poet (1880-1921), author of Dvenadtsat."
+91,safe house,technical_term,Secure refuge used by intelligence services for interrogations or protection.
+92,Eurostar,proper_name,High-speed train connecting Paris to London through the Channel Tunnel.
+93,weir,technical_term,Hydraulic structure that regulates the water level in a river.
+94,A303,place_name,Major English road connecting London to the south-west of England.
+95,Goodge Street,place_name,Street in central London where Eve's operational team office is located.
+96,galani,food_drink,"Venetian fried pastries flavoured with grappa and vanilla, dusted with icing sugar."
+97,Felsnadel,place_name,"Luxury mountain hotel in the High Tauern, Austria, accessible only by helicopter."
+98,Knock Tom,place_name,Second World War anti-submarine marine platform in the North Sea off the Essex coast.
+99,Sverdlovsk-Futura Group,organization_name,Moscow-registered company that owns Knock Tom.
+100,Super Puma,technical_term,Twin-engine transport helicopter used to reach Knock Tom.
+101,Charvet,cultural_reference,"Parisian couture house founded in 1838, specializing in bespoke ties and shirts."
+102,Moët et Chandon,food_drink,Prestigious French champagne house.
+103,Eileen Gray,cultural_reference,"Irish-French designer and architect (1878-1976), a pioneer of modernism."
+104,Calle Vallaresso,place_name,"Street in Venice in the San Marco area, home to the Van Diest boutique and Zucchetti patisserie."
+105,High Tauern,place_name,Mountain range in the Eastern Alps of Austria.
+106,Whistles,cultural_reference,British mid-to-high-end fashion brand.
+107,questura,technical_term,Central police station of an Italian city.
+108,questore,title_rank,Head of the local police in Italy.
+109,vaporetto,technical_term,Waterbus used in the Venetian public transport system.
+110,angliskaya suka,slang,Russian insult used by Villanelle's companion Katya in reference to Eve.
+111,Laura Fracci,cultural_reference,Italian fashion brand. Eve purchases a red and white crepe wrap dress from the label.
+112,sprezzatura,cultural_reference,Studied nonchalance or seemingly effortless elegance. An Italian Renaissance concept.
+113,stolypin,technical_term,Russian railway prison wagon used for transporting detainees.
+114,Gasthof,technical_term,German term for a traditional inn or guesthouse.
+115,AISE,organization_name,"Agenzia Informazioni e Sicurezza Esterna, the Italian foreign intelligence service."
+116,Nastro Azzurro,food_drink,Premium Italian lager brewed by Peroni.
+117,Palazzo Forlani,place_name,"An 18th-century Venetian palace in the Dorsoduro district, owned by the Forlani family."
+118,Bund Deutscher Mädel,cultural_reference,Female equivalent of the Hitler Youth. Linder has the waitresses at the Felsnadel wear the uniform.
+119,trachten,cultural_reference,Traditional Bavarian high-buttoned jacket worn by Max Linder at the Felsnadel.
+120,ChVK,technical_term,Chastnye Voennie Companiy. Russian private military companies used for overseas operations.
+121,fag,cultural_reference,"In the traditional British public school system, a younger student who serves an older one."
+122,Maison Joliot,proper_name,"Historic Parisian perfumery on Rue du Faubourg Saint-Honore. Its Poesies range includes Kyrielle, Rondine, Triolet, and Villanelle."
+123,Villanelle perfume,cultural_reference,"Fragrance by Maison Joliot. Top notes of freesia, with a base of amber and white cedar. Distinguished by a scarlet ribbon. Favoured by the Comtesse du Barry."
+124,Pol Roger,food_drink,"French champagne house, favoured by Winston Churchill."
+125,Panzerdämmerung,cultural_reference,Far-right dark industrial music band. The name is a wordplay on Gotterdammerung (Twilight of the Gods).
+126,Flugrettungszentrum,place_name,Innsbruck heliport from which Linder's guests depart for the Felsnadel.
+127,Directorate S,organization_name,Espionage and agent-handling division of the SVR. Its Operations Department manages special forces for deniable operations.
+128,Andropov Academy,organization_name,"Spy training school outside Moscow, formerly run by the KGB and subsequently by the SVR."
+129,Fox-7,weapon,High-performance military explosive (DADNE). Villanelle conceals it inside a violet-scented soap and uses it to kill Linder.
+130,dirndl,cultural_reference,"Traditional Alpine women's dress consisting of a laced bodice, puff-sleeved blouse, and apron. Linder wears one while dressed as Eva Braun."
+131,Obergruppenführer,title_rank,"Nazi SS rank equivalent to general. In the story, it is the name given to a steel object found in Linder's briefcase, inside which Villanelle hides the explosive."
+132,Eva Braun,proper_name,"Eva Anna Paula Braun (1912-1945), companion and briefly wife of Adolf Hitler. Linder believes herself to be her reincarnation."
+133,Sachertorte,food_drink,Famous Viennese chocolate cake. Maria steals a slice from the kitchen for Villanelle.
+134,Active Measures,technical_term,"Course taught by Yuri Modin at the Andropov Academy covering subversion, disinformation, and assassination."
+135,bump key,technical_term,Tool for forcing pin tumbler locks. Villanelle carries one on her keyring alongside jigglers.
+136,do zavtra,slang,Russian farewell expression used by Oleg and Eve at the Goodge Street station.
+137,torpedo,slang,Russian intelligence slang for a professional killer. Tikhomirov uses the term to describe Larissa Farmanyants.
+138,Posledniy Raz,cultural_reference,"Russian song described as a popular dance track, played by a busker in the VDNKh metro station."
+139,walkin,technical_term,Intelligence jargon for an agent or source who presents themselves voluntarily to an intelligence service. Lance explains his role in screening genuine walk-ins from unreliable ones.
+140,Lubyanka Experience,cultural_reference,"An immersive project by Tikhomirov: a night as a political prisoner during the Stalinist purges, including a simulated NKVD execution."
+141,Dvenadtsat,organization_name,"Russian name for the Twelve. Tikhomirov uses it when explaining the origins of the organization, and Richard Edwards uses the term when speaking to Dasha."
+142,crypto-state,technical_term,Neologism coined by Tikhomirov to describe the Twelve: a new type of borderless crypto-state with its own economy and strategy.
+143,canary in a coal mine,cultural_reference,Key metaphor used by Tikhomirov in relation to Eve. He sends her an illustration of a caged canary. Eve is used as bait by MI6.
+144,VDNKh,place_name,Russian acronym for the All-Russia Exhibition Centre. A vast Moscow park with Soviet-era pavilions.
+145,Voltarol,technical_term,Painkiller (diclofenac). Villanelle takes it during her convalescence in Reichenau.
+146,cornetto alla Nutella,food_drink,Nutella-filled croissant. Eve has one for breakfast at the Cafe Torino along with a cappuccino.
+147,Ussurochka,cultural_reference,Rose variety cultivated in Vladivostok. Tikhomirov gives one to Eve at the Lubyanka.
+148,mir teney,cultural_reference,Russian expression meaning the shadow world. Used by Villanelle to describe the invisible criminal underworld that exists parallel to ordinary life.
+149,suka,slang,Russian insult used by Villanelle towards Eve during a confrontation in the apartment.
+150,housekeeping,technical_term,"Intelligence jargon for cleanup operations. Also the name of the Twelve's assassination department, a darkly ironic euphemism for their killing operations. Balice calls in housekeeping to remove Peskov's corpse from the hospital room."
+151,kotik,slang,Russian term of endearment used by Villanelle towards Eve.
+152,false flag operation,technical_term,"Intelligence tactic in which an operation is designed to appear as though conducted by another party. Eve realizes she has been the target of one, with Richard passing her intelligence to the enemy under the guise of investigating the Twelve."
+153,putain,slang,French expletive used by Villanelle upon learning that Lara is held at Butyrka.
+154,Ducati Multistrada 1260,technical_term,"Volcano grey motorcycle with side panniers and a top-box, powered by a Testastretta engine. Used as the escape vehicle by Villanelle and Eve."
+155,entry wound,technical_term,Ballistics term. Villanelle creates a fake entry wound on Eve's forehead using modelling wax and cosmetics to simulate a gunshot.
+156,Soyuz nerushimy,cultural_reference,Opening words of the USSR national anthem. Sung by Villanelle in Eve's bathtub to reveal her presence.
+157,suchka,slang,Russian insult used by Villanelle against Eve during an argument in the container.
+158,yebanutaya,slang,"Russian insult used by Villanelle towards Eve, implying mental instability."
+159,pupsik,slang,"Russian term of endearment similar to sweetie or baby. Used by Villanelle/Oxana for Eve, affectionate with a slightly ironic tone."
+160,pozhaluysta,cultural_reference,Russian for please or you're welcome. Used by Villanelle in a sarcastic exchange with Eve.
+161,Panamax,technical_term,"Vessel classification for the Kirovo-Chepetsk, indicating the maximum dimensions for transit through the Panama Canal."
+162,Kirovo-Chepetsk,proper_name,Container ship on which Eve and Villanelle stow away from Immingham to Saint Petersburg.
+163,Sig Sauer,weapon,Semi-automatic pistol carried by Villanelle. Brought along in the container crossing.
+164,Glock,weapon,Semi-automatic pistol carried by Eve along with 9mm ammunition in the container.
+165,ménage à trois,cultural_reference,Villanelle recounts having shared intimate encounters with Anne-Laure and occasional partners in Paris.
+166,Rinse-Aid,cultural_reference,"Villanelle is unfamiliar with rinse aid, revealing that she has never used a dishwasher. A comic moment that underscores her isolated upbringing."
+167,whipped,slang,Slang for being emotionally submissive. Villanelle uses it to tease Eve about her emotional dependence on Villanelle.
+168,vorovskoy mir,cultural_reference,Russian term for the criminal underworld. Dasha Kvariani's father was a respected boss in the vorovskoy mir of Saint Petersburg.
+169,Prekrasnaya Nevesta,organization_name,Bridal dress company whose warehouse is used as a clandestine landing point.
+170,Anglichanka,cultural_reference,Russian term meaning an English woman. Dasha uses it upon meeting Eve to identify her nationality.
+171,Necksnapper,proper_name,Nickname given to Dasha Kvariani in the Dobryanka penal colony after she broke a molester's neck on the metro.
+172,hi-vis jacket,technical_term,High-visibility vest worn by the security guard at the exit of the Prekrasnaya Nevesta warehouse.
+173,judas gate,technical_term,"Small door set within a larger main gate, used by workers to enter the warehouse."
+174,vorovskoy zakon,cultural_reference,"Russian term for thieves' law. According to this code, Oxana and Dasha are bound as sisters in crime and Dasha is obligated to help them."
+175,vor,cultural_reference,"Rank in the Russian criminal hierarchy. Dasha is described as a fully initiated vor, a respected figure in the underworld."
+176,brigadier,title_rank,Dasha is one of four brigadiers in the Kupchino Bratva. The rank sits below Pakhan.
+177,Pakhan,title_rank,Top-ranking boss in the Russian criminal hierarchy. Asmat Dzabrati holds this position in the Kupchino Bratva.
+178,boyevik,title_rank,Soldier rank within a bratva. Pavel serves as one of Dasha's boyeviks in the Kupchino Bratva.
+179,bratva,cultural_reference,Russian criminal brotherhood. The Kupchino Bratva controls the heroin trade in Saint Petersburg.
+180,na pososhok,cultural_reference,Russian tradition of a final toast at the end of an evening. Observed at the Pakhan's dinner.
+181,drozhala / drochila,slang,"Two similar-sounding Russian words with very different meanings: drozhala (I trembled) and drochila (I masturbated). Eve confuses the two during dinner, creating a comic misunderstanding."
+182,spasibo,cultural_reference,Russian for thank you. Used by Oxana when toasting Dasha.
+183,pchelka,slang,Russian term of endearment meaning little bee. Used by Oxana for Eve from Chapter 5 onwards.
+184,banya,cultural_reference,"Russian public bathhouse. The Elizarova banya features steam rooms with stone furnaces, wooden benches, birch-twig flogging, a cold plunge pool, and a tea room with a samovar."
+185,Politsiya,organization_name,Russian police. Officers enter the McDonald's where Eve and Oxana are hiding after the assassination. Oxana poses as a British tourist.
+186,Ne govorim po Russki,slang,Russian phrase meaning we don't speak Russian. Used by Oxana while posing as a British tourist with a deliberately poor accent.
+187,Ty amerikanets?,slang,Russian question meaning are you American. Asked by a police officer after Oxana feigns ignorance of Russian.
+188,Sozhaleyu,slang,Russian word meaning sorry. Used by Oxana while maintaining her tourist cover at the McDonald's.
+189,Gazelle,technical_term,A decade-old Gazelle ambulance with stripped-out interior but functioning siren and emergency lights. Repurposed as a getaway vehicle for the Pakhan's assassination.
+190,ambulance-taxi,cultural_reference,Service common in Saint Petersburg in which decommissioned ambulances are rented out to bypass city traffic using sirens and lights.
+191,samovar,cultural_reference,Traditional Russian heated metal container for tea. Present in the tea room of the Elizarova banya.
+192,Napoleon cake,food_drink,Russian layered pastry. Oxana eats it at the Elizarova banya during a reconnaissance visit.
+193,Izvestia,cultural_reference,Russian daily newspaper. Eve reads a copy at McDonald's reporting on the New Year summit in Moscow between the Russian and American presidents.
+194,Digoxin,technical_term,Medication taken by Pakhan Dzabrati for atrial fibrillation.
+195,Serdyukov,weapon,Automatic pistol kept by Dasha under her pillow.
+196,Hedgehog in the Fog,cultural_reference,"Soviet animated short film from 1975 by Yuri Norstein, regarded as a masterpiece of world animation. The story follows a hedgehog who gets lost in fog while searching for a white horse, eventually reuniting with his friend bear to count the stars."
+197,Kim Philby,cultural_reference,"British double agent who spied for the Soviet Union. Referenced by Eve in conversation with Richard Edwards, both being products of the British establishment."
+198,Maria Bogomolova,proper_name,"Name on the forged Russian passport used by Oxana, provided by Dasha."
+199,Galina Tagaeva,proper_name,"Name on the forged Russian passport used by Eve, provided by Dasha."
+200,baby bee,slang,"English version of pchelka. Term of endearment used by Oxana/Villanelle for Eve, first used during a declaration of love."
+201,Château Pétrus,food_drink,"Extremely expensive Bordeaux red wine, described as the unofficial wine of the Twelve. Eve drinks it at the Twelve's Moscow headquarters."
+202,deadname,cultural_reference,"Term referring to the former name of a person who has changed their identity. Used by Lara, who now goes by Charlie."
+203,oiling,cultural_reference,"A rhetorical technique described as the art of politely but firmly persuading others. Associated with the British public school tradition, particularly Eton."
+204,vindaloo,food_drink,"Spicy Indian chicken dish, served at Johnny's club."
+205,Suvorov,cultural_reference,"Russian Field Marshal Alexander Suvorov, known for the military motto to train hard and fight easy. Referenced in connection with Anton's regiment."
+206,Chuvashia,place_name,Federal republic in Russia. The homeland of Oxana's mother Nadezhda's family.
+207,Romanian Chardonnay,food_drink,White wine served at a dinner hosted by the Twelve.
+208,Bullington,place_name,Shooting range where Eve undergoes firearms training. She learns to shoot and maintain a standard-issue Glock.
+209,AX sniper rifle,weapon,"British sniper rifle used by Charlie and Eve during training at Knock Tom. Lightweight and accurate, fitted with a Nightforce optic. Chambered in .338 Lapua Magnum."
+210,.338 Lapua Magnum,weapon,High-powered rifle calibre used in the AX sniper rifle during training at Knock Tom.
+211,Leupold spotting scope,weapon,"Observation scope assigned to Eve in the spotter role. Offers significantly higher magnification than the rifle optic, allowing the spotter to track bullet trace and observe impact."
+212,Coriolis effect,technical_term,"Ballistic concept relevant to long-range shooting. Over distances of a kilometre or more, the bullet's flight time of several seconds means the Earth's rotation shifts the target, requiring compensation in precision shooting."
+213,Lefortovo,place_name,FSB detention and interrogation centre in Moscow. Referenced by Eve when discussing the dangers of operating in Russia.
+214,Mick Herron,cultural_reference,"British espionage novelist. His Slough House series is among the books found at the Knock Tom facility, alongside works by Andrei Kivinov."
+215,Marmite,food_drink,British yeast extract spread. Present on the breakfast tray at Knock Tom alongside honey and strawberry jam.
+216,spoki noki,slang,"Childish Russian expression for goodnight, derived from spokojnoj nochi. Used by Oxana as a term of affection towards Eve."
+217,marrons glacés,food_drink,Candied chestnuts from Fauchon in Paris. Mentioned by Oxana in a self-deprecating anecdote about eating an entire box at her computer.
+218,satphone,technical_term,Satellite phone. Ginge searches for one at the Knock Tom facility to contact their handlers after Anton's disappearance.
+219,Birds of the North Sea,cultural_reference,Hardback reference book found at the Knock Tom facility. Eve uses it as an improvised weapon.
+220,force eight,technical_term,"Wind strength on the Beaufort scale, indicating gale-force conditions. Referenced by Ginge to rule out the possibility of anyone leaving Knock Tom by boat."
+221,boyo,slang,Colloquial Welsh expression of address. Typical of the South Wales dialect. Used by Ginge.
+222,The Invisible Man,cultural_reference,"Classic literary character referenced by Oxana in a reflection on identity: just as the Invisible Man is perceived only through his effect on the world around him, Oxana recognises her own existence through the fear she produces in others."
+223,Ghostbusters,cultural_reference,1984 comedy film. Referenced humorously by Nobby when Ginge proposes using the satellite phone to call their handlers.
+224,muffin top,slang,English slang for a roll of fat visible above the waistband. Oxana teases Eve with the term.
+225,New Year's Eve,cultural_reference,The assassination of the presidents is scheduled for New Year's Day. Moscow's streets are closed for the preparations.
+226,Russia's Got Talent,cultural_reference,Russian television talent show. Referenced as a joke by Charlie while reviewing compromising video material.
+227,strap-on,slang,Sexual device visible in the compromising video used as kompromat.
+228,fast-tracked,technical_term,The Twelve's paramilitaries expedite the group through security and passport control at both Ostend and Sheremetyevo airports.
+229,gold damask,other,Luxurious fabric. Describes the bedspread in the hotel suite featured in the kompromat video.
+230,kroty,technical_term,Russian term for moles. Richard explains that Gennadi is one of the last kroty who know the network of underground tunnels beneath Moscow.
+231,D-6 / deep rail,technical_term,Secret underground railway network beneath Moscow. Built under Stalin to connect the Kremlin to KGB command posts and to evacuate the Politburo. Its existence is officially denied.
+232,dezinformatsiya,technical_term,Russian term for disinformation. Charlie had previously assumed the rumours about the D-6 were disinformation.
+233,GUSP,organization_name,"Armed guards at the D-6 shaft base wear the winged shield of the GUSP, identified by Richard as the former 15th Directorate of the KGB."
+234,Schelkunchik,cultural_reference,"Russian name for The Nutcracker. The Bolshoi Theatre is staging the ballet on New Year's Eve, as observed by Eve through a spotting scope."
+235,Ferragamo,proper_name,Italian luxury fashion brand. Villanelle and Eve pause at the Ferragamo window on New Bond Street.
+236,reverse world,slang,"Term used by Richard for the underground tunnel network beneath Moscow. A system of tunnels, sewers, and waterways inhabited by outcasts."
+237,Dima Bilan,proper_name,Russian pop singer. His music is heard from Red Square during events at the Kremlin.
+238,"one shot, one kill",technical_term,Sniper motto. Used during the briefing in the Kremlin tower and previously by Ginge during training at Knock Tom.
+239,sotto voce,cultural_reference,Italian expression meaning in a subdued voice. Theatre staff speak sotto voce in the hushed foyer.
+240,tannoy,technical_term,Public address system. The theatre tannoy announces the start of the second act.
+241,The Nutcracker,cultural_reference,Tchaikovsky ballet being performed at the Bolshoi Theatre when presidents Stechkin and Loy are assassinated.
+242,The Waltz of the Snowflakes,cultural_reference,Orchestral piece from The Nutcracker playing as Eve walks through the corridor after the assassination.
+243,unctuous,other,Excessively flattering or ingratiating. Describes the manner of the Bolshoi's front-of-house manager.
+244,mezzanine floor,technical_term,Intermediate floor between the main levels of the theatre. Eve exits onto the mezzanine during the performance.
+245,Glazunov,proper_name,"Aleksandr Glazunov, Russian composer. Alexei identifies one of his violin concertos on the radio during the journey towards Perm."
+246,Rachmaninoff,proper_name,"Sergei Rachmaninoff, Russian composer and Alexei's favourite. His Piano Concerto No. 1 provides Eve with emotional solace."
+247,Dubrovka Theatre siege,cultural_reference,2002 hostage crisis in Moscow in which 130 hostages died. Referenced as Alexei's first experience of action.
+248,Perm Krai,place_name,"Administrative region in central Russia, deep in the Russian interior. Characterised by frozen rivers, forests, and remote landscapes."
+249,Pravda,cultural_reference,Russian newspaper. Eve reads its official coverage of the presidents' assassination at the Cafe Skazka.
+250,padar,cultural_reference,Dari/Persian word for father. Used by Shirin and Farad Ismailov to address Majid.
+251,Alpha counter-terrorist group,organization_name,FSB special unit. Visible surrounding Oxana's body in the Pravda photograph.
+252,Nikolskaya tower,place_name,Kremlin tower. The official Pravda account places Charlie's body with the sniper rifle at this location.
+253,lyubimaya,slang,Russian term of endearment meaning my beloved. Used by Oxana when reuniting with Eve at the Tchaikovsky Theatre in Perm.
+254,simulacra,cultural_reference,"Concept discussed by Tikhomirov during the journey to Sheremetyevo. Eve later reflects on its double meaning, recognising its relevance to her situation."
+255,backstop,technical_term,"Intelligence term for a cover guarantee. Eve realises that her role for Tikhomirov was dual: undercover agent and backstop, providing plausible cover for the operation."
+256,tableau mort,cultural_reference,The macabre scene arranged in the Bolshoi's antechamber circulates rapidly online as a statement of power by the Twelve.
+257,Café Singer,place_name,Cafe located above the House of Books (Dom Knigi) on Nevsky Prospekt in Saint Petersburg. Eve and Oxana dine there in the final scene.
+258,Sadovaya Ulitsa,place_name,"Street in Saint Petersburg near Oxana's university, where Dasha Kvariani has opened a nightclub."
+259,blank cartridges,weapon,"Cartridges loaded with no projectile. Oxana reveals that the shots that appeared to kill her at the Bolshoi were blanks, with a blood pouch concealed under her shirt."
+260,varenye,food_drink,Russian berry preserve. Oxana recalls eating it at breakfast with tea during her childhood.
+261,duma,other,Russian elected assembly. Oxana's linguistics lecturer is married to a deputy of the Saint Petersburg city duma.
+262,Apokalipsis,proper_name,Name inscribed on the invitation card delivered to Oxana by two strangers in the park.
+263,babushka,slang,Russian term for elderly women. Used to describe the regulars at the coin-operated launderette in the Saint Petersburg suburbs.
+264,bandersha,slang,Russian slang for a madam or brothel keeper. A woman at the launderette mentions that the landlord's wife was a bandersha near the Vasileostrovsk port.
+265,moya lyubimaya,slang,Russian term of endearment meaning my beloved. Used by Oxana when addressing Eve.
+266,tyolki,slang,Dismissive Russian slang for women. Used by Oxana to describe the well-dressed women at the entrance of the Apokalipsis club.
+267,Plyazh Lyubvi,cultural_reference,Russian reality television show. Eve watches it alone in the evening while Oxana is at the club.
+268,Valenki,cultural_reference,Russian folk song. Used as the signal tune for the Twelve's number station before broadcasting coded transmissions.
+269,Galeria,place_name,Department store in Saint Petersburg. Oxana stole a Chanel lipstick there as a birthday gift for Eve.
+270,СТАНДАРТ,other,Cyrillic inscription on the silk ribbon of the sailor's cap worn by the pale youth who delivers messages to Villanelle on the beach.
+271,TQ (tactical questioning),technical_term,Military and intelligence interrogation technique. Villanelle warns the Twelve that all agreements are void if Eve is subjected to tactical questioning.
+272,Malgorzata Spurrell,proper_name,"False identity provided by MI6 for Villanelle's flight from Saint Petersburg to London. UK passport, born in Gdansk, listed occupation as commodities broker."
+273,Transept House,place_name,MI6 office located behind Victoria Station in London. An anonymous building with government-level security.
+274,Les Pivoines,place_name,Ron Tiberius's villa on the Cote d'Azur. French for peonies. Features exceptional gardens and serves as the planned site of an assassination operation.
+275,El Tiburón,place_name,Ron Tiberius's superyacht. Spanish for shark. Rejected as an assassination location due to excessive exposure.
+276,Balice,proper_name,"True name of the MI6 agent known as Maria. Named after the Polish town near Krakow where she was conceived, while her parents were living in Moscow."
+277,custody suite,technical_term,Temporary detention facility at Heathrow Airport where Eve was held for two days following her arrest.
+278,deep-cover operation,technical_term,MI6 proposes reframing Eve's time in Russia with Villanelle as an authorised deep-cover intelligence operation against the Twelve.
+279,broderie anglaise,cultural_reference,Type of embroidered and perforated fabric. Describes Balice's white blouse.
+280,Ossa and Pelion,proper_name,"Name of the horticultural tour company. A reference to Greek mythology, in which the Giants stacked Mounts Ossa and Pelion to reach Olympus."
+281,Topsoil,cultural_reference,"Gardening television programme on Channel 4, presented by Dan Melbury."
+282,The Gumdrops,cultural_reference,"1970s television series about a female pop group. Teazel Vance played Milly Mauve, the lead singer."
+283,Contra vim mortis non crescit salvia in hortis,cultural_reference,"Latin inscription above the entrance to the Chateau de Faycelles. Translates roughly as: against the power of death, no sage grows in the gardens."
+284,profiteroles d'escargots,food_drink,Dish served as an entree at the hotel dinner: snails in choux pastry with chocolate and whipped cream. Villanelle refuses to eat them.
+285,Pavillon du Rossignol,place_name,Country estate belonging to the Comtesse de Quincy in the Provencal countryside. Features a memorial garden to her late husband. Rossignol is French for nightingale.
+286,renew their vows,cultural_reference,"Ceremony in which a married couple reaffirms their wedding promises. Eve and Niko do so as part of a strategic arrangement with MI6, though Villanelle suspects it is a calculated move by Eve."
+287,Parliamentary Oversight committee,technical_term,Body responsible for overseeing MI6 expenditure. Balice is concerned about justifying operational costs to the committee.
+288,papochka,cultural_reference,Affectionate Russian diminutive for father. Villanelle recalls her father Boris Vorontsov teaching her Spetsnaz techniques at age sixteen.
+289,tickety-boo,slang,Informal British expression meaning everything is in order. Used by Johnny Fernandes after the Tiberius assassination to indicate the operation went to plan.
+290,the looking-glass world,cultural_reference,"Expression used by Johnny during a chess game. A reference to Lewis Carroll's Through the Looking-Glass, used to describe how reality was the opposite of what Villanelle believed she was seeing."
+291,Second Directorate,technical_term,Reference to Soviet and Russian intelligence structure. Used by Johnny to draw a parallel between MI6's current commissioning of assassinations and similar KGB practices.
+292,Meursault Premier Cru,food_drink,Fine white Burgundy wine. Consumed by Balice during the final dinner of the tour at Cap Ferrat.
+293,"Mama, ya doma",cultural_reference,"Russian for Mother, I am home. Murmured by Villanelle while losing consciousness in the Thames, recalling her mother Nadezhda who died during her childhood."
+294,Oxanochka,proper_name,"Affectionate diminutive of Oxana. Used by an inner voice, possibly her mother's, as Villanelle loses consciousness in the Thames."
+295,warrior princess,cultural_reference,Expression used by Eve to describe Villanelle climbing through a window at night in Teffont.
+296,Sanctify,technical_term,Codename for a Twelve operation connected to the Russian presidential elections.
+297,shepherd's hut,cultural_reference,"Traditional English rural structure: a wheeled caravan on cast-iron wheels, originally used by shepherds. Eve and Villanelle live in one for six weeks in the West Sussex countryside."
+298,Chocolate Digestive,food_drink,Typical British biscuit. Served at the Russia Group meetings at MI6.
+299,Lapua .338 Magnum,weapon,High-powered sniper ammunition. Johnny speculates this was the type used against Villanelle at London Bridge.
+300,Third Lancers,title_rank,Indian Army cavalry regiment. Johnny Fernandes's unit.
+301,White Guard,technical_term,Anti-Bolshevik military force during the Russian Civil War (1917-1922). Nikolai Dominik's grandfather Feliks served as a White Guard general.
+302,Anna Akhmatova,proper_name,Russian poet (1889-1966). Villanelle reads one of her books under the plane trees in Berkeley Square.
+303,Branston pickle,food_drink,British sweet and tangy condiment. Anastasia Dominik uses it in the cheese and tomato sandwiches she prepares.
+304,corridor-creeping,slang,Humorous expression for sneaking between separate bedrooms in a large house. Used by Eve to describe navigating the Dominik mansion.
+305,A4 watcher team,technical_term,"Elite MI5 surveillance unit, directed by Charlie St Clair. Considered superior to the surveillance teams used by Balice at MI6."
+306,Agent Provocateur,cultural_reference,Luxury lingerie brand. Charlie purchases a gift for Balice from the label.
+307,uxorious,cultural_reference,"Excessively devoted to one's wife. Used to describe Charlie's recent behaviour towards Balice, attempting to rekindle their relationship."
+308,Vsemu svoye vremya,cultural_reference,"Russian phrase meaning everything in its own time. Spoken by Sergei Stepanenko at dinner, with Villanelle translating for Eve."
+309,Standart,proper_name,"Imperial yacht of the Romanov family, shown in a silver-framed photograph in the dining room of the Dominik Mansion."
+310,the royal martyrs,cultural_reference,"Expression used by Anastasia Dominik to refer to the Romanov family, reflecting devotion to the Russian monarchy."
+311,Resistance to Evil by Force,cultural_reference,"Book by Russian philosopher Ivan Ilyin (1883-1954). Found on a bedside table in the Dominik Mansion, where Villanelle reads it."
+312,rosy-fingered dawn,cultural_reference,Homeric epithet from the Iliad. Quoted by Nikolai at dinner to encourage Valentin to read Homer.
+313,Mishka,proper_name,"Name of the Dominik family cat. Serves as a metaphor in the narrative: the declawed cat parallels attempts to domesticate or neutralise a dangerous individual, with Eve drawing a comparison to Villanelle."
+314,adorkable,slang,"Portmanteau of dorky and adorable, coined by Eve after Villanelle describes her as both."
+315,Ya lyublyu tebya,cultural_reference,"Russian for I love you. Balice asks Bili to say the phrase during an intimate moment, revealing Balice's projected feelings."
+316,Rakia Grappa,food_drink,"Dusty bottle offered by Bili. A Balkan fruit brandy, typical of Bulgaria."
+317,Dobroye utro,cultural_reference,Russian for good morning. Used by Bili to greet Balice upon waking. Ironic as Bili is Bulgarian and dislikes Russians.
+318,Targovishte Tigers,proper_name,Bilyana Ilieva's judo team. Visible in a photograph on her bedroom wall.
+319,oleaginous,other,Meaning excessively flattering or sycophantic. Used by Balice to describe her deputy Cecil Phipps.
+320,clotted cream,slang,"A wordplay by Valentin to describe an exclusive party crowd: thick, white, and rich — comparing the attributes of clotted cream to those of the wealthy elite."
+321,double-headed eagle,cultural_reference,"Heraldic symbol of the Russian Empire, engraved on the silverware in the Romanov Room of the Dominik Mansion."
+322,Virtue with the crown on it is a greater enemy to the world revolution than a hundred tyrant tsars,cultural_reference,"Quote attributed to Lenin following the assassination of Grand Duchess Elizabeth Feodorovna. Nikolai begins the quotation and Valentin completes it, demonstrating shared knowledge of family history."
+323,Poodlefaker,proper_name,One of the Mayfair clubs mentioned by Valentin as a possible venue for Nate Paget's party.
+324,Philippe de Lyon,proper_name,Historical French doctor. His portrait appears in both the Dominik Mansion and a Russian art gallery. The mystery of his arrival as a poor man and return as a wealthy one suggests a connection to the Twelve through Sergei.
+325,Preacher's Daughter,cultural_reference,Album by Ethel Cain that Villanelle listens to obsessively. She has a habit of fixating on a single album and playing it on repeat until she memorises every lyric.
+326,Bleu de Chanel,cultural_reference,Fragrance worn by Villanelle. She applies it from the bottle cap while discussing what to wear.
+327,Imperial St Petersburg,proper_name,Book by Igor Trepov that Eve reads in Villanelle's room. Contains information on Philippe de Lyon and the Romanov court.
+328,kukushka,cultural_reference,"Russian for cuckoo. Valentin uses it to describe himself upon revealing he is adopted, referencing the cuckoo bird that lays its eggs in other birds' nests."
+329,lapwing,cultural_reference,"Valentin's favourite bird. He admires their flight as a symbol of freedom, contrasting with his own constrained life."
+330,Mrs P,proper_name,Codename used by Johnny Fernandes for Eve Polastri during a conversation with Bili at the Polo Bar.
+331,Gonzadril,technical_term,Experimental drug (yellow pills) also known as gonad or gonzo. A selective neurotransmitter manufactured by Scheubner-Richter Pharmaceuticals in Oakland. Reduces sexual anxiety but causes cardiac arrest in over ten percent of rat trials. Nate distributes them at his party. Valentin cannot take them due to his heart condition.
+332,Iron Cross,cultural_reference,"German military decoration. Nate Paget wears one on a black moire ribbon beneath his white silk shirt, a provocative accessory for a British socialite."
+333,St Laurent tuxedo,cultural_reference,Designer tuxedo worn by Villanelle to the club. Eve finds the look striking.
+334,GRU,organization_name,"Glavnoye Razvedyvatelnoye Upravleniye, Russian military intelligence. Borzhko and Peskov are senior GRU officers who attempt to abduct Valentin at the club."
+335,GRU Second Directorate,technical_term,"The GRU's overseas operations and assassination branch. Responsible for sending Borzhko and Peskov to abduct Valentin, and considered a formidable adversary by Balice."
+336,Kak zovut koshku,cultural_reference,"Russian for what is the cat called. Balice uses the phrase when speaking to Anastasia, demonstrating her knowledge of Russian."
+337,full disclosure,technical_term,Condition imposed by Balice for an alliance: all parties must share all relevant information. Villanelle and Eve accept the terms.
+338,haemophilia B,technical_term,"Hereditary blood disorder affecting Valentin, the same form that afflicted Tsarevich Alexei Romanov. Transmitted through the maternal line from Tsarina Alexandra. Nikolai conceals the condition by describing it as a weak heart."
+339,Alexandra Nikolaevna,proper_name,"Secret daughter of Nicholas II and Alexandra, born in 1903. Philippe de Lyon took her to France where she grew up in Avignon. She is Valentin's biological great-grandmother. This secret lies at the heart of Operation Sanctify."
+340,Golos Moskvy,proper_name,"Pro-Kremlin online newspaper. Publishes a fabricated account of the Poodlefaker incident, claiming Russian tourists were attacked by dwarfs on NATO orders."
+341,gallantry award,technical_term,"According to the Golos Moskvy article, the four dwarfs who restrained Peskov are to receive a gallantry award from the British government."
+342,royal disease,cultural_reference,"Historical term for haemophilia, so called because it affected many European royal families. Valentin uses it to refer to his own condition."
+343,pork pie with cranberry topping,food_drink,Snack retrieved by Villanelle from the kitchen at three in the morning. A mouse ends up eating it.
+344,big-bummed nerd,slang,Dismissive description used by Balice in an internal monologue about Eve.
+345,plus-size rat,slang,Humorous description used by Anastasia when calling pest control about an unusually large rodent in the Dominik Mansion.
+346,intercranial bleeding,technical_term,Dr. Sen's diagnosis of Valentin's condition: cranial trauma with intracranial haemorrhage.
+347,Kensington Extermination Bureau,organization_name,Pest control service called by Anastasia. Balice uses it as cover to gain access to the mansion.
+348,shit-faced,slang,British slang for extremely drunk. Used by Villanelle to describe the lifestyle of wealthy young Londoners at nightclubs.
+349,ongoing electric storm,cultural_reference,Eve's internal metaphor for her relationship with Villanelle: a perpetual electric storm with no destination and no higher state of love.
+350,Pernach,weapon,Russian automatic pistol belonging to GRU officer Borzhko. Villanelle takes it from the Poodlefaker club. Eve later uses it to defend Valentin.
+351,close-protection officer,technical_term,Police bodyguard assigned by Balice to protect Valentin in hospital.
+352,blinis,food_drink,"Warm blinis with fresh dill, caviar, and sour cream. Eve brings them to the hospital in a picnic basket."
+353,Royal Siberian caviar,food_drink,Large tin of premium caviar brought by Eve to the hospital for Valentin.
+354,Mr Green,other,Codename used by Villanelle to refer to Johnny Fernandes (a Twelve agent) during a phone call.
+355,fire selection catch,weapon,"Safety mechanism on a firearm that switches between safe, semi-automatic, and automatic firing modes. Eve sets the Pernach to automatic while preparing to defend Valentin."
+356,hospital porter,technical_term,Hospital orderly who transports patients and equipment. Peskov disguises himself as one to infiltrate Valentin's hospital room.
+357,compression bandage,technical_term,Medical bandage applied with pressure to control bleeding. Peskov wears one over stained dressings on his injured hand.
+358,Crocs,other,Rubber footwear. Nurse Irene Mendoza wears them in the hospital corridor.
+359,rotting gourd,slang,Vivid simile used by Eve in her internal narration to describe the impact of Peskov's head hitting the floor.
+360,Chloé Nomade,cultural_reference,Fragrance worn by Balice in the hospital room. Eve notices it in a moment of surreal calm.
+361,other fish to fry,slang,English idiom meaning to have other priorities. Used by Balice when dismissing Eve's provocations about Villanelle.
+362,not going to see much change from twenty grand,slang,British expression meaning it will cost nearly twenty thousand pounds. Used by Balice in reference to the cost of rhinoplasty.
+363,Home Office,organization_name,UK government department responsible for immigration and security. Balice shows a Home Office identification card as cover for MI6 operations at the hospital.
+364,trofeinaya zhena,cultural_reference,"Russian term for a trophy wife: a young, attractive spouse of a wealthy man. Anastasia uses it self-deprecatingly to Eve while demonstrating her cooking ability."
+365,unregenerate,other,Meaning stubbornly resistant to reform or correction. Used by Balice in an internal monologue about Eve.
+366,Emmental de Savoie,food_drink,Large piece of Savoyard Emmental cheese that Eve retrieves from the fridge. Bili ends up eating it.
+367,lost sheep,cultural_reference,"Biblical allusion used by Villanelle in a note, referring to protecting Valentin from danger. An unusually literary turn of phrase for her."
+368,Bozhe moĭ,cultural_reference,Russian exclamation meaning my God. Used by Bili during a conversation with Eve about Balice.
+369,rapid onset anaesthetic,technical_term,Fast-acting anaesthetic gas delivered by drone. Used by Bili to sedate the rat in the Dominik Mansion.
+370,Lyubov' yest' lyubov',cultural_reference,"Russian phrase meaning love is love. Villanelle reflects on the difference between English and Russian, noting that the Russian expression is unambiguous. She prefers to express her feelings in Russian."
+371,Big bum,slang,Derogatory nickname used by Balice for Eve. Bili inadvertently reveals it to Eve.
+372,wedding list,other,Gift registry for a wedding. Bili asks Eve about the convention in preparation for her marriage to Balice. She plans to register at Harrods.
+373,mugged off,slang,British slang meaning to be deceived or taken advantage of. Used by Nate Paget to tell Farad that Mimi has tricked him.
+374,tradecraft,technical_term,Techniques and methods used by intelligence officers to conduct espionage. Balice cites Eve's tradecraft knowledge as a reason she is difficult to track.
+375,good shepherd,cultural_reference,"Biblical parable from the Gospel of John about one who lays down his life for his sheep. Eve researches it after receiving Villanelle's lost sheep reference, using it to decode Villanelle's message."
+376,"No ifs, no buts",slang,Emphatic British expression meaning without conditions or objections. Used by Golovkin to Balice when insisting that Valentin must be at Anna's side.
+377,Slava,proper_name,"Diminutive of Vyacheslav. Balice addresses Golovkin by this familiar name, indicating an established rapport."
+378,spit-and-sawdust,slang,"British expression describing a basic, unpretentious pub. Used to describe The Swallow village pub."
+379,Strictly Come Dancing,cultural_reference,Popular British television dance competition. Balice and Bili watch it together with Alice the rat.
+380,skein of geese,other,"A flock of geese in flight formation. Eve observes one at sunset, their wings beating in unison."
+381,terra incognita,cultural_reference,Latin for unknown territory. Eve uses it to describe the perpetually unfamiliar nature of her intimate relationship with Villanelle.
+382,kozyr,cultural_reference,Russian for trump card. Villanelle uses it to describe Valentin's role as Volkonskaya's key asset in the Sanctify operation.
+383,Rose Pouchong tea,food_drink,Fragrant rose-scented tea. Balice sips it in bed while watching Russian election news coverage.
+384,skupa,cultural_reference,Bulgarian term of endearment. Used by Bili when addressing Balice while cooking breakfast.
+385,no rabbit in the hat,slang,"English idiom meaning the expected reveal or surprise fails to materialise. Eve uses it to describe the sabotage of Operation Sanctify, in which Volkonskaya's planned unveiling of Valentin falls apart."
+386,torch,other,British English for flashlight. Villanelle uses a steel torch as an improvised weapon.
+387,peacoat,other,Short double-breasted wool jacket. Worn by Villanelle at Regent's Park.
+388,Aquazzura,proper_name,Italian luxury shoe brand. Villanelle wears leopard-print Aquazzura loafers.
+389,Polinka,cultural_reference,Short story by Anton Chekhov. Used by Villanelle as a cover for the Russian book group.
+390,higgledy-piggledy,slang,British expression meaning in a disorderly manner. Eve uses it to criticise Villanelle's dishwasher loading.
+391,Barbour,proper_name,British brand of waxed outdoor jackets. Villanelle wears a Barbour jacket.
+392,bougie,slang,"Abbreviation of bourgeois, meaning pretentiously middle-class. Villanelle uses it self-deprecatingly."
+393,Olverum,proper_name,Luxury bath oil. Among the upmarket products purchased by Villanelle and Eve in London.
+394,Ortigia Sicilia,proper_name,Artisanal Sicilian soap brand. Among the luxury products of Villanelle and Eve.
+395,Perverts,cultural_reference,"Album by Ethel Cain, Villanelle's favourite artist. Villanelle listens obsessively to the track Punish."
+396,loufoque,slang,French word meaning crazy or unhinged. Used by Villanelle to tell Eve she is not right in the head.
+397,farfelue,slang,French word meaning eccentric or scatterbrained. Used by Villanelle as a synonym for loufoque.
+398,Ovcharkas,other,Russian guard dogs (Caucasian Shepherds). Villanelle feared them as a child and during her imprisonment in Perm.
+399,Glastonbury,cultural_reference,Famous British music festival held in Somerset. Dido mentions having bought pink boots for the festival.
+400,chica,slang,"Spanish word for girl. Villanelle uses it to refer to Uttara at the club bar, reflecting her multilingualism."
+401,chickenhead,slang,Derogatory term used by Nate Paget to describe Mimi Stackridge.
+402,dark-horsing,slang,Slang for lurking alone and unnoticed. Nate asks Farad if he is there dark-horsing it.
+403,caisse,other,French term for the casino counter where chips are purchased.
+404,Annick Goutal,proper_name,French perfume brand. Villanelle sprays Balice's perfume on herself in the bathroom.
+405,Vechna Zima,cultural_reference,"Bulgarian death metal band, Bili's favourite. The name means Eternal Winter in Bulgarian."
+406,fancy rat,other,"Term for domesticated rats kept as pets. Balice and Bili have three: Alice, Edith, and Virginia."
+407,Palang,proper_name,Mysterious figure in Naziristan who seeks to eliminate the Ismailov family. The name means tiger in Dari/Persian.
+408,filly,technical_term,"In British horse racing, a female horse under five years old. Budoor is a filly."
+409,colt,technical_term,"In British horse racing, a male horse under five years old. Beulah Boy is a colt."
+410,bloodstock,technical_term,The thoroughbred racehorse breeding industry.
+411,broodmare,technical_term,A mare designated for breeding. Majid owns several broodmares at Newmarket.
+412,Prix de l'Arc de Triomphe,cultural_reference,"The most prestigious flat race in the world, held at Longchamp in Paris. It is Majid Ismailov's ultimate aspiration."
+413,Oxfam,cultural_reference,British charity shop chain selling second-hand clothing. Shaw suggests Villanelle shop there.
+414,Sartorius,proper_name,Reference to equine art. A conversation topic at the Ismailov estate.
+415,Stubbs,proper_name,"George Stubbs, 18th-century English painter known for equine art. A painting called Nightshade is attributed to him."
+416,entire horse,technical_term,An uncastrated male horse. Entire horses earn the highest fees at stud.
+417,at stud,technical_term,"Refers to a stallion standing for breeding, commanding high fees for covering mares."
+418,Racing Post,cultural_reference,British daily newspaper devoted to horse racing. A Racing Post calendar hangs in the stable.
+419,Sambuca,food_drink,"Italian anise-flavoured liqueur, suggested as a drink."
+420,Sandhurst,proper_name,"The Royal Military Academy Sandhurst, Britain's officer training establishment."
+421,gallops,technical_term,Extensive grass tracks set aside for the training of racehorses. Newmarket has over fifty miles of gallops.
+422,breezing,technical_term,Running horses at a fast but controlled pace during training.
+423,stable lad,technical_term,A person who works in a racing stable caring for the horses. Both men and women fill this role (stable lads and lasses).
+424,Shergar,cultural_reference,"Famous racehorse and Derby winner stolen for ransom in Ireland, killed within four days."
+425,horse box,technical_term,A vehicle or trailer used to transport horses.
+426,khoshmar,other,Russian word meaning nightmare. Used by Oxana as an exclamation.
+427,Voisins de Zero,technical_term,A roulette betting system covering the numbers neighbouring zero on the wheel.
+428,Orphelins,technical_term,"A roulette betting system known as the orphans, requiring a five-chip stake."
+429,jungly,slang,Slang suggesting someone is rough or not entirely legitimate. Used to describe Farad and the Ismailov money.
+430,farrier,technical_term,A specialist who shoes horses and cares for their hooves. Pete is the farrier at the Ismailov stable.
+431,cadence,technical_term,"In equestrianism, the rhythm and air time between hoof beats, describing the phrasing of a horse's stride."
+432,Group 1 race,technical_term,The highest classification of thoroughbred flat races. Winners of Group 1 races carry the greatest prestige.
+433,hands,technical_term,Unit of measurement for a horse's height (one hand equals four inches). Budoor stands 15.3 hands.
+434,bay,technical_term,"One of the most common racehorse coat colours, a reddish-brown body with black mane and tail. Budoor is a bay filly."
+435,Purdeys,proper_name,"A pair of hammerless shotguns made by the prestigious British gunmaker James Purdey & Sons, dated 1890."
+436,Eton mess,food_drink,"Traditional British dessert of strawberries, meringue, and cream, historically served at Eton College cricket matches against Harrow."
+437,claret,food_drink,British term for red Bordeaux wine. A 2016 vintage is served with partridge.
+438,duchtaram,cultural_reference,Dari/Persian word meaning my daughter. Majid uses it when responding to Shirin.
+439,fallow deer,other,A spotted deer species. Oxana spots one in the grounds of Great Ditton during a night patrol.
+440,eiderdown,other,A silk-covered quilted bedspread filled with eider duck down. Found on Eve's bed at Great Ditton.
+441,satellite state,technical_term,A nominally independent country under heavy political and economic influence of another power. Oxana explains that Naziristan was a Soviet satellite state.
+442,Nichevo,cultural_reference,"Russian word meaning nothing or it's nothing. Shirin uses it after a riding lesson with Oxana, downplaying her gratitude."
+443,Eto ne nichevo,cultural_reference,"Russian phrase meaning it is not nothing — it is a lot. Oxana's reply to Shirin, refusing to let her gratitude be dismissed."
+444,shell jacket,technical_term,A short close-fitting jacket worn by jockeys as part of their uniform during exercise.
+445,breeches,technical_term,"Close-fitting trousers extending to the knee, part of the standard jockey uniform."
+446,string,technical_term,A group of racehorses exercising together on the gallops. Oxana and Joe separate from the string for a faster gallop.
+447,piss-artist,slang,British slang for a heavy drinker. Farad describes Oliver Reynolds this way.
+448,jodhpurs,technical_term,Full-length riding trousers. Farad uses the image of a daughter in muddy jodhpurs to describe his father's rural fantasy.
+449,Grand National,cultural_reference,Britain's most famous steeplechase. Rory Reynolds won it on The Bizzler before becoming a trainer.
+450,knackered,slang,British slang for worn out or broken. Farad describes Great Ditton as full of knackered furniture and second-rate paintings.
+451,public schoolboy,cultural_reference,"In Britain, a former pupil of an elite fee-paying school. Eve tells Farad he sounds like any other former public schoolboy."
+452,Royal Military Academy,cultural_reference,The British Army's officer training establishment at Sandhurst. Farad attended it.
+453,lay-by,technical_term,A paved area beside a road where vehicles can pull over. Used as a rendezvous point in the ransom instructions.
+454,gold ingots,technical_term,"Bars of refined gold. The ransom for Budoor consists of gold ingots carried in a backpack, valued at roughly half a million pounds."
+455,Breckland,place_name,"A forested area between Mundford and Thetford in Norfolk, designated as the ransom delivery location."
+456,sergeant's stripes,technical_term,Chevron insignia on the epaulettes indicating the rank of sergeant.
+457,Range Rover,other,A British luxury SUV. The police vehicle transporting Oxana is a Range Rover with remote central locking.
+458,service station,technical_term,A roadside facility on a motorway offering fuel and amenities. The Range Rover stops at one on the M11.
+459,Commissioner of Police,title_rank,The head of the Metropolitan Police. Sir Gavin Rycart holds this position.
+460,gold bullion,technical_term,Gold in bulk form (bars or ingots). The ransom for Budoor is discussed in these terms during the briefing.
+461,drawing room,cultural_reference,A formal sitting room in a private house. Eve visits Balice's drawing room in Westminster.
+462,Metropolitan Police,organization_name,London's police force. Its Commissioner Sir Gavin Rycart liaises with Balice.
+463,taser,weapon,An electroshock weapon firing two barbed darts. Wayne uses one against Oxana at the motel.
+464,chinstrap beard,other,A narrow beard following the jawline. One of the two corrupt officers has one.
+465,cock sarnie,slang,A crude sexual insult. One of the corrupt officers distorts Oxana's name into this term.
+466,cockwomble,slang,British slang insult meaning a foolish or obnoxious person. Wayne uses it to reprimand his partner for using real names.
+467,mongrel whore,slang,A racist and sexist insult directed at Oxana by Wayne.
+468,Flopsy Bunnies,cultural_reference,Characters from Beatrix Potter's children's books — rabbits who eat too much lettuce and are caught by a gardener. Eve mentions them as the reason she cannot eat rabbit.
+469,quid,slang,British slang for pound sterling. Eve says half a million quid when discussing Farad's debt.
+470,kroliki flopsi,cultural_reference,"Russian rendering of Flopsy Bunnies. Oxana translates the name for Eve, revealing her longing for the childhood she never had."
+471,murder-high,technical_term,A state of frantic agitation following a killing. Eve recognises these episodes in Oxana by her erratic driving.
+472,council estate,cultural_reference,A housing development built by a local authority. Oxana abandons a stolen car in a council estate in Newmarket.
+473,Vauxhall Corsa,other,"A small British car. The vehicle taken from the two killed officers, used by Oxana to flee to Newmarket."
+474,tactical gear,weapon,Four sets of tactical equipment sent by Johnny to Great Ditton for the ransom operation.
+475,Bluebeard's bloody chamber,cultural_reference,An allusion to the fairy tale of Bluebeard and his secret room of murdered wives. Oxana uses it to describe the scene at the motel.
+476,convent,cultural_reference,A religious community or school run by nuns. Mimi reveals she and Shirin attended the same convent.
+477,starveling,other,An extremely thin person. Mimi displays her starveling physique while modelling in a hotel room.
+478,night-vision headset,weapon,"Helmet-mounted goggles with a white-phosphor display. Oxana, Azim, and Zafar wear them for surveillance in Breckland Forest."
+479,tracker,technical_term,A microscopic GPS device no larger than a pin. Oxana conceals one in a seam of the ransom backpack and monitors it via a phone app.
+480,plastic ties,technical_term,Disposable restraints used to bind a person's wrists. Zafar secures the kidnapper's hands behind his back with them.
+481,Alenka,cultural_reference,A Russian chocolate brand. Oxana compares the gold ingots to the Alenka chocolate bars she craved as a child.
+482,frog-march,slang,To force someone to walk by holding and pushing them from behind. Azim and Zafar frog-march the prisoner into Great Ditton.
+483,game pie,food_drink,"A savoury pie made with mixed game meats. Majid prepares game pie with cheddar, pickles, and crusty bread for the post-operation meal."
+484,second lot,technical_term,The second group of racehorses exercised each morning. Oxana will ride Sofie in the second lot at six a.m.
+485,aspduzd,slang,A Naziristani insult used by Majid to describe Viktor during the interrogation.
+486,shisha lounge,cultural_reference,A venue where flavoured tobacco is smoked through water pipes. The Cafe Bulbul in Pakhtun is a shisha lounge run by Viktor's family.
+487,burner phone,technical_term,A cheap prepaid mobile phone used for untraceable communication. Viktor uses one with a single contact to reach Dzhuraev; the number is deactivated after the operation.
+488,dead ringer,slang,"Colloquial expression meaning an exact double. Used to say that if it was not Budoor, it was someone identical to her."
+489,lasses,slang,Northern English colloquial term for girls or young women. Used for the women working in racing stables (stable lasses).
+490,Na zdorov'ye,cultural_reference,An informal Russian toast. Balice uses it; Oxana responds with the more elaborate form Budem zdorovy (to our health).
+491,double yellow line,cultural_reference,Road markings in Britain indicating an absolute no-parking zone. Oxana parks illegally on one outside the Grafton Street Hotel.
+492,Cesarewitch Trial,proper_name,A historic horse race at Newmarket marking the start of the autumn season. Viktor approached Reynolds at the paddock during this race.
+493,Y-fronts,cultural_reference,A style of men's underwear with a Y-shaped front seam. An old pair is found draped over the Aga in the Reynolds kitchen.
+494,Aga cooker,cultural_reference,"A traditional British cast-iron range cooker, typical of country homes. Present in the dilapidated Reynolds kitchen."
+495,going dark,technical_term,Intelligence term for ceasing all communication and becoming untraceable. Balice describes Oxana to Gladstone as a field officer going dark.
+496,mess hall,technical_term,A communal dining facility on a military base. The one at Dever has a corrugated-iron roof and is open for tea.
+497,Willow pattern,cultural_reference,A traditional blue-and-white design on ceramics inspired by Chinese porcelain. Majid's favourite tea mug bears this pattern.
+498,buzkashi,cultural_reference,"The national sport of Naziristan, described as a form of polo played with a dead goat. Based on the real Central Asian equestrian sport."
+499,tantalum,technical_term,"A rare metal (atomic number 73). Naziristan holds significant tantalum reserves, mentioned by Shirin when describing the country to Mimi."
+500,Alovert News Agency,organization_name,"A Central Asian news agency that published a report on activists killed in Togul, Naziristan. The dossier is sent by Balice to Oxana in an A4 envelope."
+501,crystal meth,technical_term,A powerful stimulant drug. Used by Farad and Mimi during a 48-hour binge at the Grafton Street Hotel.
+502,poppers,slang,Inhaled vasodilator drugs. Used alongside crystal meth and ketamine by Farad and Mimi.
+503,Nikto krome nas,cultural_reference,"Motto of the Russian special forces (Spetsnaz), meaning nobody but us. Often tattooed on the wrist. Oxana's father was Spetsnaz and bore the same tattoo."
+504,Baby's Leg,food_drink,A traditional British military dessert: a suet pastry roll filled with jam. Served in the mess hall at Dever.
+505,the Lawn,technical_term,"The public area at Longchamp racecourse where spectators wear elaborate hats. Distinct from the enclosure and boxes, where attire is more understated."
+506,furlongs,technical_term,A unit of distance used in horse racing. The Arc de Triomphe is run over a mile and four furlongs (approximately 2400 metres).
+507,false straight,technical_term,"A distinctive feature of Longchamp racecourse: a straight stretch that appears to be the home straight but then curves, tricking inexperienced jockeys into launching their sprint too early."
+508,drawn,technical_term,The starting-stall number assigned by lot. Low numbers give an inside advantage; high numbers are disadvantaged. Beulah Boy drew 16; Prince D'Aquitaine drew 2.
+509,slon,slang,"Russian for elephant, but in organised crime it is an acronym for a vulgar phrase. Used by GRU personnel as a provocation toward Oxana in the mess hall at Dever."
+510,racing silks,technical_term,The coloured uniform worn by a jockey identifying the horse's owner. Joe wears indigo (Ismailov colours); Ayako Tanaka wears cherry blossom pink (Goto colours).
+511,lyagushka,cultural_reference,Russian term of endearment meaning little frog. Oxana uses it affectionately for Eve in the clinic.
+512,Golden Score,technical_term,"A judo rule: when scores are tied at the end of regulation time, the match continues until a decisive throw or submission."
