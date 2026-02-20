@@ -69,9 +69,9 @@ id,book_id,chapter_id,subject_type,subject_id,subject_name,predicate,object_type
 68,1,3,character,1,Villanelle,travels_to,location,79,Shanghai
 69,1,3,organization,1,The Twelve,orders_assassination_of,character,34,Zhang Lei
 70,1,3,character,1,Villanelle,kills,character,34,Zhang Lei
-71,1,3,character,11,Miss Leonova,trains,character,1,Villanelle
-72,1,3,character,1,Villanelle,attracted_to,character,11,Miss Leonova
-73,1,3,character,39,Roman Nikonov,attacks,character,11,Miss Leonova
+71,1,3,character,11,Anna Leonova,trains,character,1,Villanelle
+72,1,3,character,1,Villanelle,attracted_to,character,11,Anna Leonova
+73,1,3,character,39,Roman Nikonov,attacks,character,11,Anna Leonova
 74,1,3,character,1,Villanelle,attacks,character,39,Roman Nikonov
 75,1,3,character,35,Alice Mao,owns,location,92,The Aquarium
 76,1,3,character,1,Villanelle,lover_of,character,35,Alice Mao
@@ -294,7 +294,7 @@ id,book_id,chapter_id,subject_type,subject_id,subject_name,predicate,object_type
 293,3,24,organization,17,FSB,attacks,character,1,Villanelle
 294,3,25,character,109,Alexei,works_for,organization,17,FSB
 295,3,25,character,19,Eve Polastri,travels_to,location,15,Perm
-296,3,25,character,11,Miss Leonova,collaborates_with,character,19,Eve Polastri
+296,3,25,character,11,Anna Leonova,collaborates_with,character,19,Eve Polastri
 297,3,25,character,1,Villanelle,confides_in,character,19,Eve Polastri
 298,3,26,character,1,Villanelle,lives_at,location,234,St Petersburg
 299,3,26,character,86,Vadim Tikhomirov,deceives,character,19,Eve Polastri
