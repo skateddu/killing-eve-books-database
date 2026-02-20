@@ -243,6 +243,13 @@ python scripts/export_to_gephi.py
 
 This generates `database/killing_eve_graph.gexf`, ready to open in [Gephi](https://gephi.org/).
 
+### Option 4: Explore on Kaggle
+
+The full dataset is available on Kaggle with an interactive Quickstart notebook:
+
+📊 [**Dataset**](https://www.kaggle.com/datasets/skateddu/killing-eve-books-database)
+📓 [**Quickstart Notebook**](https://www.kaggle.com/code/skateddu/quickstart-exploring-the-killing-eve-universe)
+
 ## Recommended Tools
 
 Here are some tools to explore and visualize the data:
