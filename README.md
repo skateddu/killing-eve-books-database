@@ -201,7 +201,7 @@ The `data/` folder contains all tables as CSV files. Load them with any tool —
 ```python
 import csv
 
-with open("data/characters.csv", encoding="utf-8") as f:
+with open(file="data/characters.csv", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     for row in reader:
         print(row["name"], row["role"])
