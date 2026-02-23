@@ -30,13 +30,6 @@ TABLE_CSV_MAP: list[tuple[str, str]] = [
 ]
 """Ordered so that parent tables are populated before children (FK safety)."""
 
-COLUMN_RENAMES: dict[str, dict[str, str]] = {
-    "organizations": {
-        "fist_appearance_book_id": "first_appearance_book_id",
-    },
-}
-"""Map CSV column names to DB column names when they differ (e.g. typos in source)."""
-
 
 def _aliases_to_json(raw: str) -> str:
     """Convert a Python-like alias list to a JSON array.
@@ -125,7 +118,6 @@ def import_csv(connection: sqlite3.Connection, table: str, csv_path: Path) -> in
     ValueError
         If the CSV file has no header row.
     """
-    renames = COLUMN_RENAMES.get(table, {})
     transforms = COLUMN_TRANSFORMS.get(table, {})
 
     with open(file=csv_path, newline="", encoding="utf-8") as f:
@@ -134,9 +126,8 @@ def import_csv(connection: sqlite3.Connection, table: str, csv_path: Path) -> in
         if csv_columns is None:
             raise ValueError(f"No header found in {csv_path}")
 
-        db_columns = [renames.get(c, c) for c in csv_columns]
-        placeholders = ", ".join(["?"] * len(db_columns))
-        col_names = ", ".join(db_columns)
+        placeholders = ", ".join(["?"] * len(csv_columns))
+        col_names = ", ".join(csv_columns)
         sql = f"INSERT INTO {table} ({col_names}) VALUES ({placeholders})"
 
         rows: list[list[str | int | None]] = [
