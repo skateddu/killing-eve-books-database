@@ -24,10 +24,10 @@ This dataset captures the narrative universe of the *Killing Eve* book series in
 | # | Title | Publisher | Date | Pages | Chapters |
 | --- | --- | --- | --- | ---: | :---: |
 | 1 | Codename Villanelle | Hodder & Stoughton | 2017-06-29 | 224 | 4 |
-| 2 | No Tomorrow | Hodder & Stoughton | 2018-03-15 | 256 | 8 |
-| 3 | Die For Me | Hodder & Stoughton | 2020-06-18 | 240 | 14 |
-| 4 | Resurrection | Boldwood Books | 2024-10-31 | 256 | 46 |
-| 5 | Long Shot | Boldwood Books | 2025-06-12 | 264 | 50 |
+| 2 | No Tomorrow | Hodder & Stoughton | 2018-10-25 | 256 | 8 |
+| 3 | Die For Me | Hodder & Stoughton | 2020-04-09 | 240 | 14 |
+| 4 | Resurrection | Boldwood Books | 2025-06-02 | 256 | 46 |
+| 5 | Long Shot | Boldwood Books | 2025-11-01 | 264 | 50 |
 | 6 | Medusa | Boldwood Books | 2026-05-11 | — | — |
 
 ## Dataset Structure
