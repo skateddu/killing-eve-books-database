@@ -1,0 +1,128 @@
+{
+  "title": "Killing Eve Books Database",
+  "description": "A comprehensive structured database and knowledge graph of the complete Killing Eve literary universe by Luke Jennings.",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "source": "Killing Eve Books Database",
+  "source_url": "https://github.com/skateddu/killing-eve-books-database",
+  "databases": {
+    "killing_eve": {
+      "description": "Covers all published novels in the Killing Eve series. Includes characters, locations, organizations, relationships, glossary terms, and chapter-level appearance tracking.",
+      "tables": {
+        "books": {
+          "description": "Books in the Killing Eve series by Luke Jennings.",
+          "columns": {
+            "id": "Primary key",
+            "title": "Book title",
+            "author": "Author name",
+            "publisher": "Publisher",
+            "publication_date": "Publication date (ISO 8601)",
+            "language": "Language",
+            "pages": "Page count",
+            "chapters": "Number of chapters"
+          },
+          "label_column": "title",
+          "sort": "id"
+        },
+        "chapters": {
+          "description": "Chapters across all books, with chapter number and title.",
+          "columns": {
+            "id": "Primary key",
+            "book_id": "FK \u2192 books",
+            "chapter": "Chapter number within the book",
+            "name": "Chapter title"
+          },
+          "label_column": "name",
+          "sort": "id"
+        },
+        "characters": {
+          "description": "Characters with roles, nationalities, aliases, and descriptions.",
+          "columns": {
+            "id": "Primary key",
+            "name": "Common name",
+            "full_name": "Full name (if known)",
+            "aliases": "Known aliases (JSON array)",
+            "description": "Character description",
+            "role": "protagonist / supporting / antagonist / minor / mentioned",
+            "nationality": "Nationality",
+            "gender": "Gender",
+            "first_appearance_book_id": "FK \u2192 books"
+          },
+          "label_column": "name",
+          "sort": "id"
+        },
+        "characters_appearances": {
+          "description": "Chapter-level character appearances (many-to-many: characters \u2194 chapters).",
+          "columns": {
+            "book_id": "FK \u2192 books",
+            "chapter_id": "FK \u2192 chapters",
+            "character_id": "FK \u2192 characters"
+          },
+          "sort": "chapter_id"
+        },
+        "locations": {
+          "description": "Locations in a hierarchical structure (continent \u2192 country \u2192 region \u2192 city \u2192 building).",
+          "columns": {
+            "id": "Primary key",
+            "name": "Location name",
+            "location_type": "continent / country / region / city / district / building / room / other",
+            "parent_location": "Parent in the location hierarchy",
+            "description": "Location description",
+            "real_place": "1 = real place, 0 = fictional"
+          },
+          "label_column": "name",
+          "sort": "id"
+        },
+        "locations_appearances": {
+          "description": "Chapter-level location appearances (many-to-many: locations \u2194 chapters).",
+          "columns": {
+            "book_id": "FK \u2192 books",
+            "chapter_id": "FK \u2192 chapters",
+            "location_id": "FK \u2192 locations"
+          },
+          "sort": "chapter_id"
+        },
+        "organizations": {
+          "description": "Organizations: criminal, intelligence agencies, commercial, military, government, media.",
+          "columns": {
+            "id": "Primary key",
+            "name": "Organization name",
+            "aliases": "Known aliases (JSON array)",
+            "organization_type": "criminal / intelligence_agency / commercial / military / government / media / other",
+            "description": "Organization description",
+            "first_appearance_book_id": "FK \u2192 books"
+          },
+          "label_column": "name",
+          "sort": "id"
+        },
+        "relationships": {
+          "description": "Knowledge-graph triples (subject \u2192 predicate \u2192 object). Currently covers books 1\u20133 only.",
+          "columns": {
+            "id": "Primary key",
+            "book_id": "FK \u2192 books",
+            "chapter_id": "FK \u2192 chapters",
+            "subject_type": "character / organization / location",
+            "subject_id": "Subject entity ID",
+            "subject_name": "Subject name (denormalized)",
+            "predicate": "Relationship type (e.g. works_for, kills, lover_of)",
+            "object_type": "character / organization / location",
+            "object_id": "Object entity ID",
+            "object_name": "Object name (denormalized)"
+          },
+          "sort": "id"
+        },
+        "glossary": {
+          "description": "Glossary terms: cultural references, slang, technical terms, organization names, and more.",
+          "columns": {
+            "id": "Primary key",
+            "term": "Term",
+            "category": "Category (e.g. cultural_reference, slang, technical_term)",
+            "description": "Definition or explanation"
+          },
+          "label_column": "term",
+          "sort": "id"
+        }
+      }
+    }
+  }
+}
