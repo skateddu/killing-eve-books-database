@@ -2,7 +2,7 @@
 
 > **[Unofficial]** A comprehensive structured database & Knowledge Graph of the complete Killing Eve literary universe by Luke Jennings.
 
-Covers all **5 published novels** plus the upcoming *Medusa*, with **170 characters**, **370 locations**, **51 organizations**, **303 relationships**, **512 glossary terms**, and chapter-level appearance tracking — all manually curated for accuracy.
+Covers all published novels plus the upcoming *Medusa*, with **characters**, **locations**, **organizations**, **relationships**, **glossary terms**, and chapter-level appearance tracking — all manually curated for accuracy.
 
 ---
 
@@ -12,12 +12,12 @@ Covers all **5 published novels** plus the upcoming *Medusa*, with **170 charact
 
 This dataset captures the narrative universe of the *Killing Eve* book series in a fully relational format. Here are some directions it enables:
 
-- **Network & graph analysis** — Import the `relationships` table into a graph tool (Gephi, NetworkX, Neo4j) to study character centrality, community detection, and how the network evolves across books
-- **Narrative structure** — Analyze chapter-level character and location appearances to map pacing, POV shifts, and parallel storylines
-- **Geographic analysis** — Plot locations on a map to visualize the geographic scope of each book, track character movements, and compare real vs. fictional places
-- **Character evolution** — Track how character roles and relationships change across the series (e.g. allies becoming enemies)
-- **NLP & information extraction** — Use the structured data as ground truth to benchmark entity extraction, relation extraction, or summarization models against the original texts
-- **Fan reference** — A searchable encyclopedia of the entire book series
+- **Network & graph analysis**: Import the `relationships` table into a graph tool (Gephi, NetworkX, Neo4j) to study character centrality, community detection, and how the network evolves across books
+- **Narrative structure**: Analyze chapter-level character and location appearances to map pacing, POV shifts, and parallel storylines
+- **Geographic analysis**: Plot locations on a map to visualize the geographic scope of each book, track character movements, and compare real vs. fictional places
+- **Character evolution**: Track how character roles and relationships change across the series (e.g. allies becoming enemies)
+- **NLP & information extraction**: Use the structured data as ground truth to benchmark entity extraction, relation extraction, or summarization models against the original texts
+- **Fan reference**: A searchable encyclopedia of the entire book series
 
 ## Books Covered
 
@@ -30,19 +30,65 @@ This dataset captures the narrative universe of the *Killing Eve* book series in
 | 5 | Long Shot | Boldwood Books | 2025-11-01 | 264 | 50 |
 | 6 | Medusa | Boldwood Books | 2026-05-11 | — | — |
 
+## Quick Start
+
+### Use the CSV files directly
+
+The `data/` folder contains all tables as CSV files. Load them with any tool: Python, R, Excel, etc.
+
+```python
+import csv
+
+with open(file="data/characters.csv", encoding="utf-8") as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        print(row["name"], row["role"])
+```
+
+### Download the pre-built database
+
+A ready-to-use `killing_eve.db` file is available for download from the [**Releases**](../../releases/latest) page — no Python required.
+
+### Build from source
+
+Requires **Python 3.10+** (no external dependencies — uses only the standard library).
+
+```bash
+python main.py
+```
+
+This creates `database/killing_eve.db`. You can then query it:
+
+```bash
+sqlite3 database/killing_eve.db "SELECT name, role FROM characters WHERE role = 'protagonist';"
+```
+
+To specify a custom output path:
+
+```bash
+python main.py --db path/to/my_database.db
+```
+
+### Explore on Kaggle
+
+The full dataset is available on Kaggle with an interactive Quickstart notebook:
+
+📊 [**Dataset**](https://www.kaggle.com/datasets/skateddu/killing-eve-books-database)
+📓 [**Quickstart Notebook**](https://www.kaggle.com/code/skateddu/quickstart-exploring-the-killing-eve-universe)
+
 ## Dataset Structure
 
 ```text
 data/
-├── books.csv                    # 6 books — title, author, publisher, dates
-├── chapters.csv                 # 122 chapters — chapter number and title per book
-├── characters.csv               # 170 characters — name, aliases, role, nationality, gender
-├── characters_appearances.csv   # 883 entries — which character appears in which chapter
-├── locations.csv                # 370 locations — hierarchical (continent → country → city → building)
-├── locations_appearances.csv    # 581 entries — which location appears in which chapter
-├── organizations.csv            # 51 organizations — criminal, intelligence, commercial
-├── relationships.csv            # 303 knowledge-graph triples (subject → predicate → object)
-└── glossary.csv                 # 512 terms — cultural references, slang, technical terms
+├── books.csv                    # title, author, publisher, dates
+├── chapters.csv                 # chapter number and title per book
+├── characters.csv               # name, aliases, role, nationality, gender
+├── characters_appearances.csv   # which character appears in which chapter
+├── locations.csv                # hierarchical (continent → country → city → building)
+├── locations_appearances.csv    # which location appears in which chapter
+├── organizations.csv            # criminal, intelligence, commercial
+├── relationships.csv            # knowledge-graph triples (subject → predicate → object)
+└── glossary.csv                 # cultural references, slang, technical terms
 ```
 
 ### Entity-Relationship Diagram
@@ -61,7 +107,10 @@ erDiagram
     locations ||--o{ locations_appearances : "appears"
 ```
 
-### Table Details
+### Table Reference
+
+<details>
+<summary>Click to expand full column details for all tables</summary>
 
 #### `books`
 
@@ -150,84 +199,34 @@ erDiagram
 - **`characters_appearances`** — (`book_id`, `chapter_id`, `character_id`)
 - **`locations_appearances`** — (`book_id`, `chapter_id`, `location_id`)
 
-## Project Structure
+</details>
 
-```text
-killing-eve-books-database/
-├── .github/
-│   ├── workflows/
-│   │   └── build-database.yml   # CI: auto-build SQLite on data changes
-│   └── ISSUE_TEMPLATE/          # Templates for bug reports & proposals
-├── data/                        # CSV dataset files
-├── schema/
-│   ├── schema.sql               # SQLite DDL (CREATE TABLE statements)
-│   └── er_diagram.mmd           # Mermaid ER diagram
-├── scripts/
-│   └── export_to_gephi.py       # Export relationships to GEXF for Gephi
-├── tests/
-│   └── test_database_integrity.py  # DB integrity & data quality checks
-├── database/                    # Generated SQLite database (gitignored)
-├── main.py                      # CSV → SQLite import script
-├── pyproject.toml               # Python project metadata
-├── CHANGELOG.md                 # Version history
-├── CITATION.cff                 # Citation metadata for academics
-├── LICENSE-CODE                 # MIT (code)
-├── LICENSE-DATA                 # CC BY 4.0 (dataset)
-└── README.md
-```
+## Scripts & Tools
 
-## Requirements
-
-- **Python 3.10+** (no external dependencies — uses only the standard library)
-
-It is recommended to use a virtual environment:
+### Export to GEXF (Gephi)
 
 ```bash
-python -m venv .venv
-
-# Linux / macOS
-source .venv/bin/activate
-
-# Windows
-.venv\Scripts\activate
+python scripts/export_to_gephi.py
 ```
 
-## Quick Start
+Generates `database/killing_eve_graph.gexf`, ready to open in [Gephi](https://gephi.org/).
 
-### Option 1: Use the CSV files directly
-
-The `data/` folder contains all tables as CSV files. Load them with any tool — Python, R, Excel, DuckDB, etc.
-
-```python
-import csv
-
-with open(file="data/characters.csv", encoding="utf-8") as f:
-    reader = csv.DictReader(f)
-    for row in reader:
-        print(row["name"], row["role"])
-```
-
-### Option 2: Download the pre-built database
-
-A ready-to-use `killing_eve.db` file is available for download from the [**Releases**](../../releases/latest) page — no Python required.
-
-### Option 3: Build a SQLite database from source
+### Export to JSON-LD
 
 ```bash
-python main.py
+python scripts/export_to_jsonld.py
 ```
 
-This creates `database/killing_eve.db`. You can then query it:
+Reads the CSV files directly and generates `database/killing_eve_ld.json` — a single [JSON-LD](https://json-ld.org/) document with [Schema.org](https://schema.org/) vocabulary, ready for linked data and semantic web applications.
+
+### Browse with Datasette
 
 ```bash
-sqlite3 database/killing_eve.db "SELECT name, role FROM characters WHERE role = 'protagonist';"
+pip install datasette
+datasette database/killing_eve.db --metadata schema/datasette-metadata.json
 ```
 
-To specify a custom output path:
-
-```bash
-python main.py --db path/to/my_database.db
-```
+Launches a web interface at `http://localhost:8001` to explore the database interactively.
 
 ### Verify database integrity
 
@@ -235,31 +234,14 @@ python main.py --db path/to/my_database.db
 python tests/test_database_integrity.py
 ```
 
-### Export the knowledge graph for Gephi
-
-```bash
-python scripts/export_to_gephi.py
-```
-
-This generates `database/killing_eve_graph.gexf`, ready to open in [Gephi](https://gephi.org/).
-
-### Option 4: Explore on Kaggle
-
-The full dataset is available on Kaggle with an interactive Quickstart notebook:
-
-📊 [**Dataset**](https://www.kaggle.com/datasets/skateddu/killing-eve-books-database)
-📓 [**Quickstart Notebook**](https://www.kaggle.com/code/skateddu/quickstart-exploring-the-killing-eve-universe)
-
-## Recommended Tools
-
-Here are some tools to explore and visualize the data:
+### Recommended tools
 
 | Tool | Use case | Link |
 | --- | --- | --- |
 | **DB Browser for SQLite** | Browse tables, run queries, inspect the full database visually | [sqlitebrowser.org](https://sqlitebrowser.org/) |
-| **Gephi** | Visualize and analyze the knowledge graph as a network — run `python scripts/export_to_gephi.py` to generate a ready-to-use GEXF file | [gephi.org](https://gephi.org/) |
+| **Gephi** | Visualize and analyze the knowledge graph as a network | [gephi.org](https://gephi.org/) |
 | **DuckDB** | Query CSV files directly with SQL, no database build needed | [duckdb.org](https://duckdb.org/) |
-| **Datasette** | Instantly publish the SQLite database as an explorable web interface | [datasette.io](https://datasette.io/) |
+| **Datasette** | Publish the SQLite database as an explorable web interface | [datasette.io](https://datasette.io/) |
 | **Kepler.gl** | Map-based visualization of locations data | [kepler.gl](https://kepler.gl/) |
 
 ## Known Limitations
@@ -308,6 +290,34 @@ Books (raw text)
 - **Semantic chunking** ensures the AI agent processes narratively meaningful segments rather than arbitrary fixed-size windows, improving extraction quality
 - **Agentic SQL extraction** allows the model to directly populate a relational schema, enforcing structural consistency from the start
 - **Human-in-the-loop curation** catches hallucinations, resolves ambiguities, and ensures the final dataset faithfully represents the source material
+
+## Project Structure
+
+```text
+killing-eve-books-database/
+├── .github/
+│   ├── workflows/
+│   │   └── build-database.yml   # CI: auto-build SQLite on data changes
+│   └── ISSUE_TEMPLATE/          # Templates for bug reports & proposals
+├── data/                        # CSV dataset files
+├── schema/
+│   ├── schema.sql               # SQLite DDL (CREATE TABLE statements)
+│   ├── er_diagram.mmd           # Mermaid ER diagram
+│   └── datasette-metadata.json  # Datasette metadata for web browsing
+├── scripts/
+│   ├── export_to_gephi.py       # Export relationships to GEXF for Gephi
+│   └── export_to_jsonld.py      # Export CSV data to JSON-LD
+├── tests/
+│   └── test_database_integrity.py  # DB integrity & data quality checks
+├── database/                    # Generated SQLite database (gitignored)
+├── main.py                      # CSV → SQLite import script
+├── pyproject.toml               # Python project metadata
+├── CHANGELOG.md                 # Version history
+├── CITATION.cff                 # Citation metadata for academics
+├── LICENSE-CODE                 # MIT (code)
+├── LICENSE-DATA                 # CC BY 4.0 (dataset)
+└── README.md
+```
 
 ## License
 
