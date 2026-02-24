@@ -238,10 +238,10 @@ python tests/test_database_integrity.py
 
 | Tool | Use case | Link |
 | --- | --- | --- |
-| **DB Browser for SQLite** | Browse tables, run queries, inspect the full database visually | [sqlitebrowser.org](https://sqlitebrowser.org/) |
-| **Gephi** | Visualize and analyze the knowledge graph as a network | [gephi.org](https://gephi.org/) |
-| **DuckDB** | Query CSV files directly with SQL, no database build needed | [duckdb.org](https://duckdb.org/) |
 | **Datasette** | Publish the SQLite database as an explorable web interface | [datasette.io](https://datasette.io/) |
+| **DB Browser for SQLite** | Browse tables, run queries, inspect the full database visually | [sqlitebrowser.org](https://sqlitebrowser.org/) |
+| **DuckDB** | Query CSV files directly with SQL, no database build needed | [duckdb.org](https://duckdb.org/) |
+| **Gephi** | Visualize and analyze the knowledge graph as a network | [gephi.org](https://gephi.org/) |
 | **Kepler.gl** | Map-based visualization of locations data | [kepler.gl](https://kepler.gl/) |
 
 ## Known Limitations
@@ -301,9 +301,9 @@ killing-eve-books-database/
 │   └── ISSUE_TEMPLATE/          # Templates for bug reports & proposals
 ├── data/                        # CSV dataset files
 ├── schema/
-│   ├── schema.sql               # SQLite DDL (CREATE TABLE statements)
+│   ├── datasette-metadata.json  # Datasette metadata for web browsing
 │   ├── er_diagram.mmd           # Mermaid ER diagram
-│   └── datasette-metadata.json  # Datasette metadata for web browsing
+│   └── schema.sql               # SQLite DDL (CREATE TABLE statements)          
 ├── scripts/
 │   ├── export_to_gephi.py       # Export relationships to GEXF for Gephi
 │   └── export_to_jsonld.py      # Export CSV data to JSON-LD
