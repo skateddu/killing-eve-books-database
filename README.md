@@ -29,6 +29,7 @@ This dataset captures the narrative universe of the *Killing Eve* book series in
 | 4 | Resurrection | Boldwood Books | 2025-06-02 | 256 | 46 |
 | 5 | Long Shot | Boldwood Books | 2025-11-01 | 264 | 50 |
 | 6 | Medusa | Boldwood Books | 2026-05-11 | — | — |
+| 7 | Blueblood | Boldwood Books | 2026-11-01 | — | — |
 
 ## Quick Start
 
