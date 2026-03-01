@@ -13,7 +13,7 @@ DB_PATH = PROJECT_ROOT / "database" / "killing_eve.db"
 
 # Expected minimum row counts per table (should only grow over time).
 EXPECTED_MIN_COUNTS = {
-    "books": 6,
+    "books": 7,
     "chapters": 122,
     "characters": 170,
     "locations": 370,
