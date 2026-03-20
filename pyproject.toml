@@ -1,0 +1,9 @@
+[project]
+name = "killing-eve-books-database"
+version = "1.0.0"
+description = "A comprehensive structured database & Knowledge Graph of the complete Killing Eve literary universe by Luke Jennings."
+readme = "README.md"
+license = "MIT AND CC-BY-4.0"
+requires-python = ">=3.10"
+keywords = ["killing-eve", "dataset", "knowledge-graph", "books", "literary-database"]
+dependencies = []

@@ -1,0 +1,385 @@
+id,name,location_type,parent_location,description,real_place
+1,Italy,country,Europe,"Southern European country, setting for events in Rome, Milan, Sicily, and Venice.",TRUE
+2,Palazzo Falconieri,building,Italy,"Palazzo on a promontory on one of the smaller Italian lakes. Meeting place of the Twelve. The east wing serves as a conference room, furnished with an art deco chandelier and a Bugatti bronze panther.",FALSE
+3,Europe,continent,,Main setting continent for the Killing Eve series.,TRUE
+4,Sicily,region,Italy,Island region of southern Italy. Home of the Mafia clans.,TRUE
+5,Palermo,city,Sicily,Principal point of entry for cocaine into Europe. Greco's base of operations.,TRUE
+6,Calabria,region,Italy,Southern Italian region. Home of the 'Ndrangheta.,TRUE
+7,France,country,Europe,"Western European country, setting for events in Paris, Annecy, Nice, Avignon, and the Cote d'Azur.",TRUE
+8,Paris,city,France,Main base of operations for Villanelle.,TRUE
+9,16th Arrondissement,district,Paris,Upscale Parisian district. Location of Le Jasmin club.,TRUE
+10,Le Jasmin,building,16th Arrondissement,"Private members' club in the 16th Arrondissement of Paris, near Boulevard Suchet and the Bois de Boulogne. Garden bordered by a jasmine trellis.",FALSE
+11,Bois de Boulogne,district,Paris,"Large park west of Paris, near Le Jasmin.",TRUE
+12,Versailles,city,France,Location cited in Villanelle's cover story (a fictional flat).,TRUE
+13,Russia,country,Europe,"Largest country in the world, setting for events in Moscow, Saint Petersburg, Perm, and other cities.",TRUE
+14,Perm Krai,region,Russia,Region in central Russia where Villanelle grew up.,TRUE
+15,Perm,city,Perm Krai,City where Villanelle attended secondary school and university.,TRUE
+16,Ural Mountains,region,Russia,Mountain range. Location of the Dobryanka remand centre.,TRUE
+17,Dobryanka,city,Ural Mountains,Location of the women's remand centre where Villanelle was held.,TRUE
+18,Dobryanka remand centre,building,Dobryanka,"Women's remand centre in the Ural Mountains where Villanelle was held, accused of murder.",TRUE
+19,Porte de Passy,district,Paris,Area of Villanelle's apartment in Paris.,TRUE
+20,Villanelle apartment Paris,building,Porte de Passy,"Rooftop apartment on the sixth floor of a 1930s building near the Porte de Passy. Reinforced steel front door with custom electronic locks. Rooms in faded sea-green and French blue, with nondescript post-Impressionist paintings. Underground garage with a Vespa and a silver-grey Audi TT Roadster.",FALSE
+21,Chusovaya river,other,Perm Krai,Frozen river in Perm Krai. Location of the prefabricated unit where Konstantin recruited Oxana.,TRUE
+22,Chechnya,region,Russia,Chechen Republic. Boris Vorontsov served here during the Chechen wars.,TRUE
+23,Sakharov orphanage,building,Perm,Orphanage in Perm where Oxana was placed in temporary care after her father's deployment to Chechnya.,TRUE
+24,Municipal Hospital Number 4,building,Perm,Hospital in Perm with a psychiatric unit. Oxana was transferred here after setting fire to the orphanage dormitory.,TRUE
+25,Dagestan,region,Russia,Russian republic in the North Caucasus. Boris Vorontsov was seconded here.,TRUE
+26,Ekaterinburg,city,Russia,City where Villanelle won a gold medal for pistol shooting at the University Games.,TRUE
+27,Rome,city,Italy,Capital of Italy.,TRUE
+28,Trastevere,district,Rome,Roman district where Bruno De Santis was nearly killed in a hit-and-run.,TRUE
+29,Milan,city,Italy,"Major city in northern Italy, home to La Scala Theatre Academy.",TRUE
+30,La Scala Theatre Academy,building,Milan,Prestigious opera academy in Milan where Franca Farfaglia studies.,TRUE
+31,Teatro Massimo,building,Palermo,Opera house in Palermo. Franca Farfaglia has an upcoming performance here.,TRUE
+32,Greco farmhouse,building,Palermo,"Salvatore Greco's principal residence. A fortified farmhouse in a hill village outside Palermo, protected by armed bodyguards. Visitors are searched and disarmed.",FALSE
+33,United Kingdom,country,Europe,"Island nation in Western Europe, comprising England, Scotland, Wales, and Northern Ireland.",TRUE
+34,England,region,United Kingdom,Largest constituent country of the United Kingdom.,TRUE
+35,Essex coast,region,England,"Lonely, wind-scoured stretch of coastline. Site of Frank's six-week combat training facility: a Nissen hut on a mud-and-shingle island linked by a quarter-mile causeway, formerly a Cold War early-warning station.",TRUE
+36,Germany,country,Europe,Central European country.,TRUE
+37,Mittenwald,city,Germany,Mountain warfare school. Three weeks of NATO Special Forces escape-and-evasion training.,TRUE
+38,United States,country,,North American country.,TRUE
+39,North Carolina,region,United States,"US state, location of Fort Bragg military base.",TRUE
+40,Fort Bragg,building,North Carolina,US Army facility in North Carolina. Home to Delta Force's training facility including a killing house for close-quarters combat training. Also site of the Advanced Resistance to Interrogation programme.,TRUE
+41,Ukraine,country,Europe,Eastern European country.,TRUE
+42,Kiev,city,Ukraine,Capital of Ukraine. Location of a weapons familiarisation camp to the south.,TRUE
+43,Severka sniper school,building,Ekaterinburg,Urban sniper school built around a deserted Soviet town formerly home to radiation scientists. A ghost town fitted with life-sized target dummies. Run by a private security company near Ekaterinburg.,FALSE
+44,Volgograd,city,Russia,Russian city. Site of explosives and toxicology training.,TRUE
+45,Kazan,city,Russia,"City in Tatarstan, Russia. Home to the Kazan Military Academy, a centre for competitive pistol shooting.",TRUE
+46,London,city,United Kingdom,Capital of the United Kingdom. Site of advanced driving and lock-picking training.,TRUE
+47,Belleville,district,Paris,Paris suburb. Oxana stayed in a dingy one-star hotel here during steganography training.,TRUE
+48,La Défense,district,Paris,Paris business district. An anonymous office building here served as the steganography classroom.,TRUE
+49,Quai Voltaire,district,Paris,"Left Bank, Paris. Location of Fantine's apartment, where Oxana's style transformation takes place.",TRUE
+50,Piazza Verdi,district,Palermo,"Square in front of Teatro Massimo, with palm trees, bronze lions, and cobblestones.",TRUE
+51,Greece,country,Europe,Southern European country. Setting for events in Piraeus.,TRUE
+52,Athens,city,Greece,"Capital of Greece, near the port of Piraeus.",TRUE
+53,Piraeus,city,Greece,Greek port city near Athens. Location of a warehouse district overlooking the harbour.,TRUE
+54,Bayswater,district,London,London district west of Hyde Park.,TRUE
+55,Montparnasse,district,Paris,Parisian district. Villanelle attends a ju-jitsu dojo here.,TRUE
+56,Saint-Cloud,district,Paris,West of Paris. Location of an elite shooting club where Villanelle practises marksmanship.,TRUE
+57,Via Volturno,district,Palermo,Street near the Teatro Massimo in Palermo where Messina parks his MV Agusta motorcycle.,TRUE
+58,Piazza Olivella,district,Palermo,Square near the Teatro Massimo in Palermo. Location of a cafe frequented by police.,TRUE
+59,Louvre,building,Paris,Art museum in Paris. Villanelle contemplates Canova's Psyche Revived by Cupid's Kiss. Café Mollien is on the first floor.,TRUE
+60,Café Mollien,room,Louvre,Restaurant on the first-floor landing of the Louvre art gallery. Villanelle and Anne-Laure lunch here overlooking the Carousel Gardens.,TRUE
+61,Paradis Latin,building,Paris,Cabaret venue in Paris. Anne-Laure Mercier has an affair with a Brazilian dancer who performs there.,TRUE
+62,Carousel Gardens,other,Paris,"Gardens adjacent to the Louvre, visible from the Café Mollien windows. Almost deserted under a snow-laden grey sky.",TRUE
+63,Pony Club,building,Perm,Bar on Ulitsa Pushkina in Perm.,FALSE
+64,Westminster,district,London,Location of Thames House (MI5 headquarters) on Millbank.,TRUE
+65,Thames House,building,Westminster,"MI5 headquarters on Millbank, Westminster. The P3 office is on the third floor, northernmost wing.",TRUE
+66,High Holborn,district,London,London district. Location of The Vernon Hotel.,TRUE
+67,The Vernon Hotel,building,High Holborn,Six-storey grey stone hotel on High Holborn. Location of Kedrin's accommodation during his London visit.,FALSE
+68,Red Lion Square,district,London,Location of Conway Hall where Kedrin is scheduled to address Eurasia UK supporters.,TRUE
+69,Conway Hall,building,Red Lion Square,Lecture hall in Red Lion Square with wood-panelled walls and a gallery. Kedrin is scheduled to deliver his Eurasia UK speech here.,TRUE
+70,Finchley,district,London,North London district where Eve and Niko Polastri share a flat.,TRUE
+71,West Hampstead,district,London,District in north-west London.,TRUE
+72,West Hampstead Bridge Club,building,London,Bridge club where Niko instructs three evenings a week. Eve and Niko first met here.,FALSE
+73,Poland,country,Europe,Eastern European country. Niko Polastri's homeland.,TRUE
+74,Cracow,city,Poland,Second-largest city in Poland. Location of the university where Niko Polastri studied Pure and Applied Mathematics.,TRUE
+75,Essex,region,England,"County in south-east England, east of London.",TRUE
+76,Charles de Gaulle airport,building,France,Paris's main international airport. Villanelle departs from the business-class lounge for London.,TRUE
+77,Cafe La Spezia,building,London,"Cafe on Gray's Inn Road, London. Arranged meeting point for Villanelle and Konstantin.",FALSE
+78,Mayfair,district,London,Upscale district in central London. Location of Villanelle's safe house on South Audley Street.,TRUE
+79,South Audley Street apartment,building,Mayfair,Top-floor apartment registered to a corporate finance group. Villanelle's safe house during the London operation. Furnished with a white leather Charles Eames chair and floor-to-ceiling windows overlooking the city.,FALSE
+80,Nobu,building,Mayfair,Japanese restaurant on Berkeley Street in Mayfair. Known for yellowtail sashimi and wild strawberry sake jelly. Villanelle and Sarah dine here.,TRUE
+81,Hyde Park,district,London,Large central London park across Park Lane from Mayfair. Villanelle walks the slush-banked paths and encounters a mysterious man on the balustraded bridge across the Serpentine.,TRUE
+82,Paddington Green Police Station,building,London,High-security Metropolitan Police station. Eve is asked to assist with identification of the arrested suspect here.,TRUE
+83,Avenue Kléber apartment,building,Paris,"Apartment of Gilles and Anne-Laure Mercier on Avenue Kléber. Site of an elaborate dinner party with a junior minister, hedge fund director, and auction house executive vice president. Gilles's wine cellar, ormolu clocks, and two Boudin oil paintings of Trouville.",FALSE
+84,Arc de Triomphe,building,Paris,Iconic Parisian monument at the western end of the Champs-Élysées.,TRUE
+85,Champs-Élysées,district,Paris,Famous Parisian avenue running from the Arc de Triomphe to the Place de la Concorde.,TRUE
+86,BQ Optics office,building,London,"Cover office on the second floor above Goodge Street Underground Station, entrance on Tottenham Court Road. Unheated and dusty, with grime-opaque windows, an elderly steel desk, and rust-scarred folding chairs. Used by Richard Edwards as Eve's new operational base for the Kedrin investigation.",FALSE
+87,Goodge Street,district,London,Area in central London around Goodge Street Underground Station. Location of the BQ Optics cover office.,TRUE
+88,Vauxhall Cross,building,London,MI6 headquarters on the South Bank of the Thames.,TRUE
+89,Asia,continent,,Asian continent.,TRUE
+90,China,country,Asia,People's Republic of China.,TRUE
+91,Shanghai,city,China,Major Chinese city and financial hub. Modern skyscrapers dominate the Pudong district while colonial-era buildings line the Bund waterfront.,TRUE
+92,Pudong,district,Shanghai,"District in Shanghai east of the Huangpu River, characterised by modern trophy skyscrapers including the Shanghai Tower, World Financial Centre and Jin Mao Tower. Location of the White Dragon crew operational base on Datong Road.",TRUE
+93,White Dragon headquarters,building,Pudong,"Anonymous-looking building on Datong Road in Pudong, fitted with banks of powerful computer servers, high-speed fibre-optic lines and precision air-conditioning systems. Operational base of the White Dragon PLA cyber-warfare unit.",FALSE
+94,The Bund,district,Shanghai,"Kilometre-long historic waterfront in Shanghai lined with landmark colonial-era banks and trading houses, now converted to luxury hotels, restaurants and clubs.",TRUE
+95,Old City,district,Shanghai,"Historic centre of Shanghai. A maze of narrow, intersecting alleyways teeming with shoppers and tourists, lined with street-food stalls, fake antique shops and laundry-draped lanes.",TRUE
+96,Massachusetts,region,United States,US state on the northeastern seaboard.,TRUE
+97,Dartmouth,city,Massachusetts,Town in Massachusetts. Location of a private seafront estate.,TRUE
+98,Dangfeng Road establishment,building,Pudong,"Three-storey corner building on Dangfeng Road in Pudong serving as a fetish and massage establishment. Entry via keypad code. First floor hosts conventional pleasures; second floor is a specialist medical-themed suite with a gurney, monitors, ventilator and surgical instruments.",FALSE
+99,French Concession,district,Shanghai,Former French colonial district of Shanghai. Upscale residential area with high-rise apartments overlooking the neighbourhood rooftops.,TRUE
+100,Tchaikovsky Theatre,building,Perm,"Opera house in Perm, named after Tchaikovsky. Belle Epoque foyer. Tea room with duck-egg green walls, russet velvet curtains, and twin chandeliers. Balcony with back-row seats (best acoustics). Eve attends Manon Lescaut here with Anna Leonova, and Oxana reappears alive during the interval.",TRUE
+101,Huangpu River,other,Shanghai,"Major river flowing through Shanghai, separating Pudong from the historic city centre.",TRUE
+102,The Aquarium,building,Shanghai,"Exclusive nightclub in the basement of a former private bank on the North Bund. Entrance by personal introduction only. Features a floor-to-ceiling shark tank with hammerheads, reef sharks, and tiger sharks. Art deco bar. Owned by Alice Mao.",FALSE
+103,Sea Bird Hotel,building,Shanghai,Budget hotel on Suzhou Creek in Shanghai. Described as discreet. Eve and Simon's accommodation during their visit.,FALSE
+104,Peninsula Hotel,building,The Bund,"Luxury art deco hotel on The Bund, opened in 2009 as the first new building on the Bund in seventy years. Features a pillared ivory-and-gold lobby with vast carpets and white-uniformed bellboys.",TRUE
+105,Putua Parlour,building,Shanghai,"Warehouse-style kitchen and restaurant supply store on Changhua Lu. Stocks every imaginable appliance and vessel including pans, steamers, woks, and an entire aisle of cleavers.",FALSE
+106,East Nanjing Road,district,Shanghai,One of Shanghai's busiest thoroughfares. Major commercial street gridlocked with traffic.,TRUE
+107,Paramount dance hall,building,Shanghai,"Grand art deco ballroom from the 1930s, topped by a cascading neon spire. A famous Shanghai landmark where gangsters, high society, and beautiful women once came to dance. Features a gilt-and-red-plush dance hall on the fourth floor with a cantilevered dance floor and live music.",TRUE
+108,Star Bar,building,Shanghai,"Expat bar in Shanghai with zebra-skin upholstered chairs, emerald-green stingray-skin walls, sub-pornographic paintings, a black marble fireplace, and a vast Fortuny-style chandelier. Described as absurd, alluring, and vaguely satanic.",FALSE
+109,Jingan,district,Shanghai,Shanghai district near the Art Theatre.,TRUE
+110,Suzhou Creek,other,Shanghai,"Waterway running through central Shanghai, also known as Wusong River. Nan Suzhou Lu runs along its southern bank.",TRUE
+111,Hampshire,region,England,County in southern England.,TRUE
+112,Bullington,city,Hampshire,"Village in Hampshire, location of the Dever Research Station.",TRUE
+113,Dever Research Station,building,Bullington,Top-secret government facility in former Logistics Corps barracks outside Bullington in Hampshire. Base for E Squadron. Set in sixty acres of chain-link-fenced grounds with an underground firing range.,FALSE
+114,6eme Arrondissement,district,Paris,Left Bank Paris district. Location of Anne-Laure's apartment on rue de Vaugirard.,TRUE
+115,Anne-Laure apartment,building,6eme Arrondissement,"Sixth-floor single-bedroom apartment on rue de Vaugirard, inherited by Anne-Laure. Used for private liaisons away from her husband Gilles.",FALSE
+116,Marais,district,Paris,"Historic Paris district known for vintage clothes stores, frequented by Villanelle and Anne-Laure.",TRUE
+117,Croydon,district,London,South London borough. Where Lance Pope lives alone in a rented flat.,TRUE
+118,Issy-les-Moulineaux,district,Paris,Suburb south of Paris. Location of a heliport used for covert transport operations.,TRUE
+119,Issy-les-Moulineaux heliport,building,Issy-les-Moulineaux,"Heliport south of Paris. Pick-up point for covert helicopter transport, located on a rectangle of tarmac enclosed by warehouses.",TRUE
+120,Annecy,city,France,City in south-eastern France. The Mont Blanc airfield is used as a transit point for covert transport.,TRUE
+121,Annecy Mont Blanc airfield,building,Annecy,Small airfield in south-eastern France. Transit point where Villanelle transfers from helicopter to a North Star Learjet.,TRUE
+122,Scherbanka,district,Ukraine,Area in southern Ukraine with a small private airfield.,TRUE
+123,Odessa,city,Ukraine,Major Ukrainian port city on the Black Sea.,TRUE
+124,Muswell Hill,district,London,North London suburb. Location of Dennis Cradle's house.,TRUE
+125,Mazeppa restaurant,building,Mayfair,"Michelin-starred restaurant on Dover Street, Mayfair.",FALSE
+126,Moldovanka,district,Odessa,"District in Odessa, location of the Bird Market area.",TRUE
+127,Fontanka,district,Odessa,Area near Odessa where Rinat Yevtukh owns a well-secured villa.,TRUE
+128,Bird Market cafe,building,Moldovanka,"Dingy cafe in the Moldovanka district of Odessa, with yellowish lighting, faded travel posters, and a blackboard advertising daily specials.",FALSE
+129,Canary Wharf,district,London,East London financial district. Where Penny Cradle's law firm is based.,TRUE
+130,FOB farmhouse,building,Fontanka,"Disused farmhouse two miles north-west of Fontanka. Forward operating base with trestle tables, maps, architectural plans, and weapons boxes in an outbuilding.",FALSE
+131,Yevtukh villa,building,Fontanka,"Ostentatious three-storey palazzo with pillars, balustrades, and a steeply pitched tile roof. Surrounded by a chain-link fence with a guarded electronic gate, set in grounds of half-a-dozen acres.",FALSE
+132,Moscow,city,Russia,Capital of Russia.,TRUE
+133,Vnukovo airport,building,Moscow,Airport south-west of Moscow.,TRUE
+134,Cradle house,building,Muswell Hill,"Residential home of Dennis Cradle in Muswell Hill, north London.",FALSE
+135,Tottenham Court Road,district,London,Central London road near Eve's Goodge Street office.,TRUE
+136,Rue du Faubourg St Honoré,district,Paris,"Prestigious shopping street in Paris, home to luxury fashion houses.",TRUE
+137,Soho,district,London,"Central London district known for entertainment, restaurants, and nightlife.",TRUE
+138,Dover Street,street,Mayfair,"Street in Mayfair, London. Location of exclusive restaurants and dining establishments.",TRUE
+139,North Circular Road,district,London,Major London ring road. Near the Tesco where Cradle is interrogated.,TRUE
+140,Tesco Muswell Hill,building,Muswell Hill,Tesco superstore car park near the North Circular Road. Lance and Billy bring Cradle here for a voice-changer phone call with Eve.,TRUE
+141,Cap d'Antibes,district,France,Exclusive area on the French Riviera. Location of Cradle's secret apartment Les Asphodeles.,TRUE
+142,Finchley Road,street,London,Major road in north London running through Finchley and West Hampstead. Location of Finchley Road tube station.,TRUE
+143,Les Asphodeles,building,Cap d'Antibes,Three-bedroom apartment in Cap d'Antibes purchased by Dennis Cradle with Twelve money. Part of his secret double life.,FALSE
+144,Port Vauban marina,building,Cap d'Antibes,Marina in Antibes where Cradle's yacht Babydoll is moored.,TRUE
+145,Venice,city,Italy,"City in northern Italy built on a lagoon. Historic maritime republic known for canals, gondolas, and architecture.",TRUE
+146,Danieli Hotel,building,Venice,Luxury hotel in Venice. Rinat Yevtukh stays in the Doge's Suite.,TRUE
+147,San Marco,district,Venice,Central Venice district with the famous piazza. Shops and pasticceria.,TRUE
+148,Murano,district,Venice,"Island in the Venetian lagoon, famous for its glassmaking. Yevtukh and Goraya visited it as tourists.",TRUE
+149,Eve and Niko flat,building,Finchley,One-bedroom rented flat on Finchley Road where Eve and Niko live. Features a small paved area they call the garden.,FALSE
+150,Giudecca,district,Venice,"Island south of central Venice, visible from the lagoon along the route into the open water.",TRUE
+151,Ottagone Falieri,building,Venice,"Octagonal island fortification in the Venice lagoon, built to protect Venice from invaders. Nominally owned by the Falieri family. Now largely a ruin, accessible only by boat.",FALSE
+152,Marco Polo airport,building,Venice,"Venice's main airport on the Italian mainland, named after the Venetian explorer.",TRUE
+153,Poveglia,district,Venice,"Abandoned island in the Venice lagoon. Former plague quarantine station in the eighteenth and nineteenth centuries, later home to a mental institution. Now deserted and reputed to be haunted; tourist craft rarely venture there. A narrow canal divides the island into two halves.",TRUE
+154,Lido,district,Venice,"Barrier island in the Venice lagoon, separating the lagoon from the Adriatic Sea. Known for its beaches and luxury hotels.",TRUE
+155,Hotel Excelsior,building,Lido,"Luxury hotel on the Lido in Venice. Features a pillared Moorish-style restaurant in shades of white and ivory, with a terrace overlooking the lagoon.",TRUE
+156,Chipping Norton,city,England,"Town in Oxfordshire, England. Described as a wealthy area popular with politicians and affluent families.",TRUE
+157,Spain,country,Europe,Country in southern Europe.,TRUE
+158,Malaga,city,Spain,City in southern Spain. Setting for a tennis holiday where Dennis Cradle was first approached by Rem Bakker as part of his recruitment by the Twelve.,TRUE
+159,Pall Mall,district,London,Street in central London. Location of an exclusive wine club where Sergei was introduced to Dennis Cradle over a bottle of Domaine de la Romanee-Conti.,TRUE
+160,Micheldever,district,Hampshire,"Area in Hampshire near the A303 motorway. Scene of Villanelle's interception of Eve and Cradle, disguised as a police motorcycle officer.",TRUE
+161,Surrey,region,England,County in south-east England.,TRUE
+162,Weybridge,city,Surrey,"Town in Surrey, England, situated near the River Wey.",TRUE
+163,River Wey weir,other,Weybridge,"Weir-pool on the River Wey near Weybridge, fringed with bullrushes and flag-iris. Accessible via a tree-lined riverside path.",TRUE
+164,Gare du Nord,building,Paris,Major Paris railway station and Eurostar terminal. One of the busiest stations in Europe.,TRUE
+165,Eastleigh,city,Hampshire,"Town in Hampshire, England. Location of Hampshire Constabulary headquarters.",TRUE
+166,Place de la Concorde,district,Paris,Monumental square in central Paris. A hotel overlooking the square is the setting for an encounter Villanelle abandons.,TRUE
+167,La Muette,district,Paris,Residential quarter of the 16th Arrondissement. Villanelle uses its narrow streets for counter-surveillance.,TRUE
+168,Avenue Victor Hugo,district,Paris,Street in the 16th Arrondissement where Villanelle parks her scooter near a club.,TRUE
+169,Villanelle apartment Paris,building,Porte de Passy,"Rooftop apartment on the sixth floor with a short flight of stairs from the lift. Walls of faded sea-green and French blue, mid-century furniture including Eileen Gray pieces, and minor post-Impressionist paintings. Underground car park with a Vespa and a silver-grey Audi. East-facing plate-glass window with a panoramic view of Paris. Electronic locking system. Service charges paid from a corporate account in Geneva through untraceable front companies.",FALSE
+170,Knock Tom,other,Essex coast,"Second World War anti-aircraft marine platform in the North Sea, roughly ten miles east of the Essex coast. A grey rectangle supported by two trunk-like columns, with a helipad at one end. Three converted shipping containers lashed to the decking with steel hawsers serve as the main living and working area. The nearest container has double-glazed windows framing sea and sky views, a trestle table with six folding chairs, a microwave, chest freezer, and kettle. A tray holds jars of honey, Marmite, and strawberry jam. A bookshelf has paperback thrillers by Mick Herron and Andrei Kivinov, and a hardback Birds of the North Sea. Quarters are in the platform legs (north and south), with concrete cabins and metal bunk beds. No WiFi, total isolation. Used as a training base for the Twelve's sniper mission.",FALSE
+171,Lambeth,district,London,South London district. Location of the Metropolitan Police Forensics Laboratory.,TRUE
+172,Met Police Forensics Lab,building,Lambeth,"Metropolitan Police Forensics Laboratory in Lambeth. Equipped for DNA tape-lifts, gas chromatography, mass spectrometry, and graphology analysis.",TRUE
+173,Calle Vallaresso,district,Venice,Street in the San Marco area of Venice. Location of the Van Diest jewellery boutique and the Zucchetti patisserie.,TRUE
+174,Zucchetti,building,Calle Vallaresso,"Small and expensive Venetian patisserie specialising in galani, three doors from the Van Diest boutique on Calle Vallaresso.",FALSE
+175,Van Diest boutique Venice,building,Calle Vallaresso,"Van Diest jewellery boutique on Calle Vallaresso, at the eastern end of Piazza San Marco.",FALSE
+176,Austria,country,Europe,Federal state in Central Europe.,TRUE
+177,High Tauern,region,Austria,"Mountain range of the Eastern Alps in Austria, home to the Hohe Tauern National Park.",TRUE
+178,Felsnadel,building,High Tauern,"Luxury mountain hotel in the High Tauern, high above the snowline. Designed by a famous architect and accessible only by helicopter. Max Linder books it annually for himself and his political associates.",FALSE
+179,Innsbruck,city,Austria,"Capital of Tyrol, Austria. Location of the staffing agency that supplies personnel to the Felsnadel hotel.",TRUE
+180,Piazza San Marco,district,Venice,"Venice's main public square, surrounded by arcaded buildings, the Basilica, and the Campanile. Paved with stone, home to flocks of pigeons.",TRUE
+181,Santa Croce,district,Venice,"Sestiere of Venice. Location of the questura (central police station) on the Ponte della Liberta, with blue police launches moored at its river jetty and steel security barriers at the street entrance.",TRUE
+182,Dorsoduro,district,Venice,Southern sestiere of Venice. Location of Palazzo Forlani and the Accademia Bridge.,TRUE
+183,La Fenice,building,Venice,"Venice's historic opera house, Teatro La Fenice. Eve spots a boutique nearby while walking in the area.",TRUE
+184,Accademia Bridge,building,Dorsoduro,Bridge over the Grand Canal in Venice connecting San Marco and Dorsoduro. Landmark used by Giovanna to direct Eve to Palazzo Forlani.,TRUE
+185,Palazzo Forlani,building,Dorsoduro,"Venetian palazzo on the Dorsoduro, a hundred metres past the Accademia Bridge. Venue for Umberto Zeni's jewellery collection reception.",FALSE
+186,Royal Free Hospital,building,London,"NHS hospital in Hampstead, north London. A major acute care and teaching hospital.",TRUE
+187,Herzog-Friedrich-Strasse,district,Innsbruck,Historic street in central Innsbruck with illuminated buildings framing the distant mountains.,TRUE
+188,Gasthof Lili,building,Innsbruck,Small inn in Innsbruck. A narrow room on the first floor serves as a base for studying mission plans and learning German.,FALSE
+189,Brauhaus Adler,building,Herzog-Friedrich-Strasse,"Brewery pub on the Schlossergasse in central Innsbruck. Warm and beery inside, with high noise levels.",FALSE
+190,Teufelskamp,region,High Tauern,"Mountain in the High Tauern on which the Felsnadel hotel stands, at approximately 2,500 metres above sea level.",FALSE
+191,Questura di Venezia,building,Santa Croce,Venice police headquarters in the Santa Croce district. Workplace of Questore Armando Trevisan.,TRUE
+192,Innsbruck heliport,building,Innsbruck,"Flugrettungszentrum, Innsbruck's heliport. Departure lounge where Max Linder's invited guests gather and sip Pol Roger champagne before helicopter transfer to the Felsnadel.",TRUE
+193,Marbella,city,Spain,Coastal city in southern Spain on the Costa del Sol.,TRUE
+194,Eton,building,England,"Eton College, prestigious English boarding school founded in 1440. Tony Kent and Dennis Cradle studied here together; Kent was Cradle's fag (personal servant in the school's tradition).",TRUE
+195,Sandhurst,building,England,"Royal Military Academy Sandhurst. Tony Kent trained here after failing MI5 selection, receiving a commission as a second lieutenant in the Royal Logistics Corps before serving two tours in Iraq.",TRUE
+196,Maison Joliot,building,Rue du Faubourg St Honoré,"Historic Parisian perfumery on the Rue du Faubourg Saint-Honoré, owned by the same family for generations. Its most expensive range is Poésies, comprising four fragrances: Kyrielle, Rondine, Triolet, and Villanelle. The Villanelle fragrance is distinguished by a scarlet ribbon at the neck, added after the Comtesse du Barry was guillotined in 1793.",FALSE
+197,Fontanka,district,Odessa,Area approximately fifteen kilometres outside Odessa. Location of a luxury property owned by Rinat Yevtukh.,TRUE
+198,Oxford Street,district,London,"Main commercial street of London. Eve and Richard meet at a department-store café on the fourth floor, overlooking the street.",TRUE
+199,Afghanistan,country,Asia,Central Asian country. Setting for the Soviet-Afghan War in the 1980s. Richard Edwards served here for MI6 and met Konstantin Orlov at the Russian embassy in Kabul.,TRUE
+200,Kabul,city,Afghanistan,"Capital of Afghanistan. Richard Edwards was posted here for MI6 and met Konstantin Orlov at the Russian embassy. Together they visited a falconry camp in the desert outside the city, accessible via Dar-al-Aman Road and the Bagram road.",TRUE
+201,Cyprus,country,Europe,Mediterranean island nation south of Turkey.,TRUE
+202,Cotswolds,region,England,"Area of rolling hills in south-central England, known for picturesque stone-built villages.",TRUE
+203,Redditch,city,England,"Town in Worcestershire, England.",TRUE
+204,Aldeburgh,city,Suffolk,"Coastal town in Suffolk, east England.",TRUE
+205,Andropov Academy,building,Moscow,"Spy training school outside Moscow, originally run by the KGB and later by the SVR. Yuri Modin was a guest lecturer, teaching the Active Measures course (subversion, disinformation, and assassination). Konstantin Orlov trained here, graduating circa 1992.",TRUE
+206,Sheremetyevo,building,Moscow,Moscow international airport. Destination of Eve and Lance's flight from Heathrow for their Russia investigation.,TRUE
+207,Cosmos Hotel,building,Moscow,Hotel in Moscow where Eve and Lance are to stay during their Russia mission. Arranged by Oleg.,TRUE
+208,Whitchurch,city,Hampshire,"Town in Hampshire, England.",TRUE
+209,Prospekt Mira,district,Moscow,Broad avenue in Moscow. The Cosmos Hotel is located here. The VDNKh exhibition complex extends across the road.,TRUE
+210,VDNKh,building,Moscow,"All-Russia Exhibition Centre. A vast and melancholy park built in the mid-twentieth century to celebrate Soviet economic achievements. Triumphal arches with flaking columns frame empty air. Neo-classical pavilions stand padlocked and deserted. Visitors huddle on benches staring into the middle distance. Above it all, an almost artificially blue sky and scudding white clouds.",TRUE
+211,Monument to the Conquerors of Space,building,Moscow,Hundred-metre-high representation in shining titanium of a rocket rising on its exhaust plume. Located near the VDNKh park. A kebab vendor sets up his stand at the base. Eve recalls the dog Laika sent up alone into space.,TRUE
+212,VDNKh Metro Station,building,Moscow,"Moscow metro station accessed via a circular pillared atrium. A palatial underground concourse lit with ornate chandeliers. White marble walls and vaulted ceiling, with archways faced in green mosaic leading to the railway platforms.",TRUE
+213,Lubyanka,building,Moscow,"Vast and cheerless edifice in ochre brick dominating a wide square in central Moscow. Former headquarters of the KGB, now occupied by the FSB. The rear is a wasteland of building works and litter, wire grilles over grimy windows. A low doorway surmounted by a hammer and sickle in carved stone leads to the underground cells.",TRUE
+214,Reichenau,district,Innsbruck,Locality near Innsbruck where Villanelle is treated at a private clinic after the Felsnadel explosion.,TRUE
+215,Reichenau Clinic,building,Reichenau,"Private clinic in Reichenau, near Innsbruck. Very discreet facility frequented by post-operative cosmetic surgery patients (some sort of treatment where they pack your face in snow). Villanelle recovers here from blast-wave concussion and whiplash, checked in by Anton as a French tourist after a driving accident.",FALSE
+216,Butyrka,building,Moscow,"Historic Moscow prison, a couple of miles from the Lubyanka. Larissa Farmanyants is detained here after her arrest by the FSB.",TRUE
+217,Ostafyevo Airport,building,Moscow,"Private airport in Moscow. Eve departs from here on a Dassault Falcon jet with Gazprom executives, fast-tracked through customs by Tikhomirov's driver.",TRUE
+218,Kalinka Restaurant,room,Cosmos Hotel,"Restaurant in the Cosmos Hotel, Moscow.",FALSE
+219,Whitlock and Jones,building,Welbeck Street,"Pharmaceutical and medical supply shop on Welbeck Street, near Harley Street and Wimpole Street.",FALSE
+220,Café Torino,building,Finchley Road,"Café on Finchley Road, north London.",FALSE
+221,London City Airport,building,London,London airport. Eve lands here on her return from Moscow.,TRUE
+222,Chiswick,district,London,District in west London overlooking the Thames. Location of the art gallery where Amanda Edwards exhibits her paintings and drawings.,TRUE
+223,Edwards Gallery Chiswick,building,Chiswick,"Ground-floor art gallery in a Georgian house with a sunlit brick frontage, identified only by a small silver plaque. A wide bow window overlooks the Thames. Amanda Edwards exhibits watercolours and drawings here.",FALSE
+224,Baltic Sea,other,Europe,Body of water between Scandinavia and northern continental Europe.,TRUE
+225,Lincolnshire,region,England,County on the east coast of England. Location of the port of Immingham.,TRUE
+226,Welbeck Street,district,London,"Street in central London, Marylebone area. Location of the Whitlock and Jones pharmaceutical and medical supply shop, near Harley Street and Wimpole Street.",TRUE
+227,Harley Street,street,London,Street in central London famous for its concentration of private medical and surgical specialists.,TRUE
+228,Immingham,city,England,"Industrial port in Lincolnshire, on the North Sea coast. Eve and Villanelle stow away here aboard the Kirovo-Chepetsk. They meet Igor in a fake Irish pub outside the terminal.",TRUE
+229,St Petersburg,city,Russia,"Major Russian city on the Baltic Sea. Eve and Villanelle arrive here by container ship from Immingham. One year after the Bolshoi events, they live in an apartment in the outer suburbs under new identities.",TRUE
+230,Smolensk,city,Russia,City in western Russia.,TRUE
+231,Industrialny Cemetery,other,Perm,Public cemetery in the Industrialny district of Perm.,TRUE
+232,River Wey,other,Surrey,"River in Surrey, England, flowing through Weybridge.",TRUE
+233,Gulf of Riga,other,Baltic Sea,"Inlet of the Baltic Sea, bordered by Latvia and Estonia.",TRUE
+234,Ugolnaya Harbour,district,St Petersburg,Harbour in St Petersburg where the Kirovo-Chepetsk docks. Container terminal used for clandestine disembarkation.,TRUE
+235,Prekrasnaya Nevesta Warehouse,building,St Petersburg,Cathedral-sized industrial warehouse in St Petersburg owned by the bridal gown company Prekrasnaya Nevesta. Vast interior filled with ranks of industrial garment-rails hung with wedding dresses — an army of ghostly brides. Strip lights suspended from rusting joists. Steel doors with a judas gate. Office above the floor accessible by stairway.,FALSE
+236,Karelia,region,Russia,"Republic in north-west Russia, bordering Finland. Known for forests and lakes.",TRUE
+237,Avtovo,district,St Petersburg,"District of St Petersburg characterised by massive neoclassical Soviet-era buildings, formerly residences of senior Communist Party officials. Dasha Kvariani's apartment is located here. The rumble and hiss of traffic and the clanking of trams are audible from the upper floors.",TRUE
+238,Dasha's Apartment,building,Avtovo,"Dasha Kvariani's third-floor apartment in a massive neoclassical block in Avtovo. The building was once very grand but has been in decline for decades. Worn fittings, creaking lift, clanking plumbing. Tall windows overlook a broad highway.",FALSE
+239,Stachek Prospekt,district,Avtovo,Main avenue in the Avtovo district of St Petersburg. Grimy yellow-brown buildings dusted with sparkling frozen snowfall. A short distance down from Dasha's apartment. Traffic rumble and tram clatter audible from nearby windows.,TRUE
+240,Kometa,building,Avtovo,"Former cinema converted into a second-hand store on Stachek Prospekt, Avtovo. The auditorium holds rank after rank of clothing stalls: goth, punk, old theatre costumes, military regalia, fetish-wear, and home-made jewellery. Art deco chandeliers hang overhead. Musty, cloying smell. Eve and Oxana reinvent their wardrobes here.",TRUE
+241,Aviatorov Park,other,Avtovo,"Public park in Avtovo with a frozen lake girded by dark skeletal trees. On the far shore, a Soviet monument stands on a promontory: a MiG fighter aircraft leaping into the sky, arrested at the moment of take-off. Near-deserted in winter with flurries of snow.",TRUE
+242,Kupchino,district,St Petersburg,"Peripheral district south of St Petersburg, from which the Kupchino Bratva takes its name. Location of Kupchino metro station. The Pakhan's residence on Malaya Balkanskaya Ulitsa is here.",TRUE
+243,Proletarskaya,district,St Petersburg,"District of St Petersburg where the Elizarova Bathhouse is located, a regular venue for the Pakhan Asmat Dzabrati.",TRUE
+244,Nevsky Prospekt,district,St Petersburg,Famous main avenue of St Petersburg. Location of a clinic where the Pakhan receives rejuvenation treatments and Zoya gets Botox injections. Also houses the Pakhan's private cardiologist.,TRUE
+245,Malaya Balkanskaya Ulitsa,district,Kupchino,"Street in the Kupchino district of St Petersburg, near Kupchino metro station. Location of Pakhan Asmat Dzabrati's massive grey seventeen-storey apartment block, where he owns several apartments occupied by bodyguards, his ex-wife Yelena, and his sister Rushana.",TRUE
+246,Elizarova Bathhouse,building,Proletarskaya,"Historic bathhouse in the Proletarskaya district of St Petersburg, built in Tsarist times, over a hundred years old. Mosaics and classical statues. Interior: changing room with lockers, steam rooms with fire-boxes (giant ovens with hot rocks), cooling-off room with steel pillars and marble slabs for massage, a cold plunge pool (one person, metre and a half deep), and a tea room with a samovar. The Pakhan Asmat Dzabrati frequents it regularly on men-only days.",TRUE
+247,Zarina Restaurant,building,St Petersburg,Ossetian restaurant in St Petersburg where the Pakhan Dzabrati holds meetings with his Kupchino Bratva brigadiers. Features a private room reserved for the Pakhan and his guests.,FALSE
+248,Moskovskaya,district,St Petersburg,"Area of St Petersburg around the Moskovskaya metro station, two stops north of Kupchino on the Metro. Pick-up point for the Gazelle ambulance used in the Pakhan's assassination, parked outside Alfa Bank.",TRUE
+249,Chuvashia,region,Russia,"Federal republic in central Russia, located in the Volga region. Home to the Chuvash people, a Turkic ethnic group.",TRUE
+250,Kungur ice caves,landmark,Perm Krai,"Tourist attraction near the town of Kungur in the Perm region. Underground caves with ice crystals, shining ice pillars and waterfalls, and rock pools illuminated by coloured lights.",TRUE
+251,Ramenki,district,Moscow,District in the south-western part of Moscow. The characters follow a motorway exit to Ramenki on arriving in the city. Location of the massive Stalinist building housing the Twelve's headquarters.,TRUE
+252,Novozybkov,city,Russia,"Town in the Bryansk Oblast of western Russia, near the Ukrainian border. Severely affected by the Chernobyl nuclear disaster.",TRUE
+253,Twelve Moscow Headquarters,building,Ramenki,"Massive Stalinist block in the Ramenki district of Moscow. Grey frontage pierced with archways, extending the length of an entire street. Towers so tall they vanish into the night sky. Huge dimly lit atrium with marble pillars and classical details. The twelfth floor is accessed via a code-controlled glass-and-steel lift. Armoured-glass windows overlook the Moscow river winding between snowy parks. A huge Salvador Dali painting of a tiger dominates the entrance. Corridors hung with abstract paintings in ivory, scarlet, and vermilion. Staff in paramilitary uniforms and business suits. Dove-grey rooms with bronze statuettes. Serves as the operational headquarters of the Twelve.",FALSE
+254,Belgium,country,Europe,European country. Intermediate stop on the journey from Russia to Knock Tom.,TRUE
+255,Ostend,city,Belgium,Coastal city in Belgium. The group lands at Ostend-Bruges airport by Learjet from Moscow before transferring to a Super Puma helicopter for the flight over the North Sea to Knock Tom.,TRUE
+256,North Sea,other,Europe,Body of water between the British Isles and continental Europe. The Knock Tom platform stands roughly ten miles off the Essex coast.,TRUE
+257,Lefortovo,building,Moscow,FSB detention and interrogation centre in Moscow. Eve mentions it to Charlie as the place they would be taken if the FSB discovered their involvement in the Twelve's operation.,TRUE
+258,Neglinka River Underground,other,Moscow,"Underground tunnel network beneath Moscow, built around the Neglinka river which was diverted underground in the eighteenth century. Contains brick tunnels, iron walkways, weeping walls, sulphurous draughts, mushroom growths, and Stalinist-era skeletons. Inhabited by addicts, ex-convicts, and hermits. Features a weir with a waterfall concealing a passage to the D-6 network.",TRUE
+259,D-6 Underground Network,other,Moscow,"Stalin's secret metro line beneath Moscow. Accessed through a hidden passage behind a waterfall in the Neglinka tunnels. Features a huge cylindrical shaft with zigzagging staircases descending over a hundred metres, coated in flaking red anti-rust paint. Guarded by GUSP (former 15th Directorate of the KGB).",TRUE
+260,Efremova Station,building,D-6 Underground Network,"D-6 underground station with a deserted platform, glazed-tile walls bearing a bronze hammer and sickle a metre high, and an enamel sign reading D6-EFREMOVA. Part of Stalin's secret metro network.",FALSE
+261,Red Square,district,Moscow,"Iconic public square in the heart of Moscow, bordered by the Kremlin, GUM department store, and St Basils Cathedral. On New Years Eve it fills with revellers, pop music, and an outdoor ice rink.",TRUE
+262,Kremlin,building,Moscow,"Fortified complex bordering Red Square. The eastern wall features historic Gothic towers, one of which is used as a concealed firing position by the Twelve.",TRUE
+263,Kremlin East Tower,room,Kremlin,"Small octagonal chamber atop an ancient tower on the eastern Kremlin wall. Narrow Gothic windows, uncleaned for years, some panes cracked or missing. Accessed via the Nikolskaya corridor from the D-6 network. Provides a line of sight over Red Square to the Bolshoi Theatre at 713 metres.",TRUE
+264,Bolshoi Theatre,building,Moscow,Neoclassical theatre with eight pillars and three double entrance doors. On New Years Eve it stages Schelkunchik (The Nutcracker). Standing 713 metres from the Kremlin East Tower firing position.,TRUE
+265,Azov Hotel,building,Perm,"Small one-star hotel on a side street off Ulitsa Pushkina in central Perm. Eve stays here after being sent by the FSB. Small room with an iron bed, crocheted blanket, and noisy refrigerator.",FALSE
+266,Komsomolsky Prospekt,district,Perm,"Main avenue of Perm where Eve walks during her solitary days of grief. Lined with department stores, families in coats and snow boots.",TRUE
+267,River Kama,other,Perm,Major tributary of the Volga flowing through Perm. Eve walks along it during her solitary outings.,TRUE
+268,Cafe Skazka,building,Perm,"Cafe across from the Azov Hotel in Perm. Warm, steamy atmosphere, run by a middle-aged couple and their daughter. Eve lunches here daily during her stay.",FALSE
+269,Sadovaya Ulitsa,district,St Petersburg,Street in Saint Petersburg near Oxana university. Dasha Kvariani opens a nightclub here a year after the Bolshoi events.,TRUE
+270,Cafe Singer,building,Nevsky Prospekt,"Cafe above Dom Knigi (House of Books) on Nevsky Prospekt, Saint Petersburg. Eve and Oxana lunch here in the final scene of Book 3.",TRUE
+271,Neva River,other,St Petersburg,Main river of Saint Petersburg. Eve and Oxana walk down to the embankment and gaze over the frozen Neva in the fading light of a Russian winter afternoon — the closing image of Book 3.,TRUE
+272,Pokrovskaya Hospital,building,St Petersburg,Hospital in Saint Petersburg.,TRUE
+273,Sochi,city,Russia,Modern coastal city on the Black Sea in southern Russia.,TRUE
+274,Black Sea,other,Europe,Body of water between south-eastern Europe and western Asia.,TRUE
+275,Gulf of Finland,other,,Body of water visible from Eve and Oxana apartment in the western suburbs of Saint Petersburg. Extends to the horizon beyond a four-lane highway.,TRUE
+276,St Petersburg University,building,St Petersburg,"Saint Petersburg State University, where Oxana studies linguistics.",TRUE
+277,Griboyedov Canal Embankment,district,St Petersburg,Embankment along the Griboyedov Canal in Saint Petersburg.,TRUE
+278,Aurora Cinema,building,St Petersburg,"Grand but chilly cinema in Saint Petersburg, an occasional leisure spot for Eve and Oxana.",TRUE
+279,Udelnaya Market,building,St Petersburg,"Market in Saint Petersburg where Oxana buys inexpensive clothes, including a knock-off North Face jacket.",TRUE
+280,House of Books,building,Nevsky Prospekt,"Dom Knigi, large bookshop on Nevsky Prospekt. Well heated in winter, a regular haunt for Eve and Oxana.",TRUE
+281,Apokalipsis Club,building,Griboyedov Canal Embankment,Exclusive invitation-only club on the Griboyedov Canal Embankment in Saint Petersburg. Frequented by inhabitants of the mir teney (shadow world).,FALSE
+282,Peterhof,district,St Petersburg,"Suburb of Saint Petersburg, famous for its imperial palaces and parks.",TRUE
+283,English Park,other,Peterhof,English-style landscaped park at Peterhof with a lake and benches overlooking the water. Eve and Oxana spend an afternoon here.,TRUE
+284,Komfort Laundromat,building,St Petersburg,Coin-operated launderette in the western suburbs of Saint Petersburg. Eve and Oxana do Saturday laundry here among competitive babushkas.,FALSE
+285,Kovenskiy Lane,street,St Petersburg,Lane in central Saint Petersburg where a pizza place is located. Oxana uses it as her cover story for the Apokalipsis visit.,TRUE
+286,Demidov Bridge,other,Griboyedov Canal Embankment,Bridge over the Griboyedov Canal near the entrance to Apokalipsis Club. Patriot and Tiger SUVs disgorge guests on the wet cobbles.,TRUE
+287,State Russian Museum,building,St Petersburg,State Russian Museum on Arts Square in Saint Petersburg. Former imperial palace with a grand staircase and pillared balcony. Houses Ilya Repin portraits including Alexandra Feodorovna. Site of Villanelle meeting with Sergei.,TRUE
+288,Forestry Academy Park,other,St Petersburg,Park of the Forestry Academy in the Vyborgsky district of Saint Petersburg. Shadowed paths wind between dense trees. Contains a grey stone monument marking the site of a nineteenth-century duel in which both combatants were killed. Site of a meeting with a Twelve intermediary.,TRUE
+289,Lesnoy Prospekt,district,St Petersburg,"Avenue in the Vyborgsky district of Saint Petersburg, near the Forestry Academy Park. Villanelle exits the metro here.",TRUE
+290,Ventnor Road Safe House,building,Finchley,"MI6 safe house in North Finchley. Decade-old magnolia emulsion, stained carpet, stale-smelling fridge with cracked salad drawer. Narrow single bed with worn pillowcases and a My Little Pony duvet cover. Intended for informants and witness-protection people, assigned to Villanelle by administrative error — she was supposed to go to Belsize Park.",FALSE
+291,Harrods,building,London,"Luxury department store in Knightsbridge, London. Site of the meeting between Villanelle and Maria at the Guerlain perfume counter. Has a cafe where Maria orders green salad and Villanelle orders a full English breakfast.",TRUE
+292,Pulkovo Airport,building,St Petersburg,Saint Petersburg airport. Villanelle departs from here on a British Airways flight to London Heathrow.,TRUE
+293,Victoria,district,London,London district around Victoria railway station.,TRUE
+294,Transept House,building,Victoria,"MI6 outstation behind Victoria railway station. Anonymous office building with heavy security: X-ray scanners, body scans, aggressive pat-downs, armed Metropolitan Police with submachine guns. Offices overlook roofs of Victoria and Pimlico. Desiccated rubber plants, triple-glazed windows, elderly Gestetner photocopier.",FALSE
+295,Wiltshire,region,England,County in south-western England. Location of Teffont Castle.,TRUE
+296,Teffont Castle,building,Wiltshire,"MI6 safe house compound in Wiltshire countryside near Teffont village. Accessed via a narrow lane through wheat fields and a beech coppice, with a flint-walled lodge and road barrier manned by an armed guard (holstered Glock). The original castle was abandoned four centuries ago after the owner was executed for treason and is now a ruin. Eve and Niko Polastri are housed in a nearby farmhouse on a low ridge, with wisteria and jasmine trained up the side.",FALSE
+297,M25,other,London,London orbital motorway (ring road). Villanelle and Balice drive along it heading for Wiltshire after Max s killing at Transept House.,TRUE
+298,Les Pivoines,building,France,"Villa of Ron Tiberius on the French Riviera. Built in the early twentieth century; both villa and gardens are listed as exceptional by the French Ministry of Culture. Not open to the public, but groups are admitted to the gardens by special arrangement.",FALSE
+299,El Tiburón,other,France,Superyacht belonging to Ron Tiberius.,FALSE
+300,Salisbury,city,Wiltshire,"City in Wiltshire, famous for its cathedral spire. Villanelle and Balice stop here after Teffont: Balice goes to hospital to get her torn earlobes stitched, Villanelle walks to see the cathedral. They stay at a dismal bed and breakfast with nylon sheets.",TRUE
+301,St Pancras International,building,London,Eurostar terminal in London. Departure point for the Ossa and Pelion horticultural tour to France. Crowded with passengers at 7am.,TRUE
+302,Chateau de Faycelles,building,France,"Neoclassical chateau built on the orders of Queen Marie Antoinette, about an hour drive from Paris. Gardens laid out in the Anglo-Chinese style. Features an orangery with a painted ceiling, a formal rose garden with arbours and pergolas, and a Latin inscription over the entrance: Contra vim mortis non crescit salvia in hortis. Not all of the estate is open to the public, but Ossa and Pelion secured special access.",FALSE
+303,Nice,city,France,"City on the French Riviera, near Ron Tiberius villa Les Pivoines. Sylvie the porn actress is local to Nice. Operational base for MI6 assassination plan.",TRUE
+304,St-Sepulcre,district,Nice,Quarter near the old port in Nice. Location of the cafe where Myrtha Willis recruits young women for Ron Tiberius. Sylvie was approached here.,FALSE
+305,Avignon,city,France,"City in Provence, France. The Ossa and Pelion tour visits the Palace of the Popes and the Papal Gardens.",TRUE
+306,Palace of the Popes,building,Avignon,Historic papal palace in Avignon. The tour group has lunch here before visiting the Papal Gardens.,TRUE
+307,Poisy,other,France,Village in the Provencal countryside. Location of the Pavillon du Rossignol and the tour hotel.,FALSE
+308,Pavillon du Rossignol,building,Poisy,"Pretty two-storey building faced in apricot stucco, with shutters of faded green. Property of the Comtesse de Quincy, near the village of Poisy. Garden is a memorial to her late husband. Shaded terrace with lavender beds and cicadas. Site of Johnny Fernandes revealing himself as a Twelve handler.",FALSE
+309,Grasse,city,France,"Town in Provence, world capital of perfume. The Ossa and Pelion tour visits the Chanel perfumery and flower fields outside the town.",TRUE
+310,Chanel Perfumery,building,Grasse,"Chanel perfumery and flower farm outside Grasse. Chateau, distillery, and wet fields of roses and jasmine. Scene of Balice showing Villanelle the Eve-Niko vow renewal photo, the phone thrown into a flower field, and Balice slapping Villanelle.",TRUE
+311,Cap Ferrat,district,France,"Peninsula on the French Riviera between Nice and Monaco. Elegant tour hotel with umbrella pines, sea-facing terraces, and Tiffany concession. Final stop before the visit to Les Pivoines. Villanelle meets Johnny Fernandes at sunset over Negronis to discuss plans that differ from Balice instructions.",TRUE
+312,Villefranche-sur-Mer,city,France,Coastal town on the French Riviera. The tour minibus winds through on the way to Cap Ferrat. Translucent blue-green sea and pale crescent beach visible from the road.,TRUE
+313,London Bridge,building,London,Bridge over the Thames connecting Borough High Street to the City of London.,TRUE
+314,River Thames,other,London,Major river flowing through central London.,TRUE
+315,West Sussex,region,England,County in southern England between the South Downs and the sea.,TRUE
+316,Barnham,city,West Sussex,"Small town in West Sussex, between the South Downs and the sea. Eve and Villanelle hide on a thousand-acre farm nearby.",TRUE
+317,Shepherd's Hut,building,Barnham,Green-painted wagon on cast-iron wheels on a thousand-acre farm near Barnham. Has a tiny wood stove and narrow bed.,FALSE
+318,Indian Military and Sporting Club,building,St James's Street,"Exclusive club on St James Street, a few minutes from Piccadilly. Only a small brass plaque at the entrance. Rooms with portraits, regimental silver, and equestrian trophies. Johnny is a member as a former Third Lancers cavalryman. Venue for the Dominik mission briefing.",TRUE
+319,Kensington Palace Gardens,district,London,"London street once known as Millionaires Row, now home to billionaires. Location of the Dominik mansion, overlooking Hyde Park.",TRUE
+320,Mount Street,district,London,"Street in Mayfair, London. Apartment used as a bolthole by Villanelle and Eve, provided by Johnny and the Twelve. Identified by Balice MI6 surveillance team.",TRUE
+321,Park Lane,street,London,Major road along the eastern edge of Hyde Park. Contains underground parking garages used by the Twelve to switch vehicles and evade MI6 surveillance.,TRUE
+322,Dominik Mansion,building,Kensington Palace Gardens,"Massive white Italianate palazzo in Kensington Palace Gardens. Home of the Dominik family. Contains dining rooms, drawing rooms, billiards room, at least two libraries, a possible ballroom, and an unexplored third floor. Gated entrance with guards.",FALSE
+323,Clapham,district,London,South London district where Balice and Charlie St Clair live in a heavily mortgaged terraced house.,TRUE
+324,Hillingdon,district,London,"West London district. Location of Bilyana Ilieva flat, where Balice wakes after a one-night stand. Far from central London with Uber difficulties and a bus to Uxbridge.",TRUE
+325,Romanov Room,room,Dominik Mansion,"Cavernous gloomy ground-floor dining hall in the Dominik Mansion. Damask-curtained windows, scent of wax polish. Oak table with imperial silverware bearing the double-headed Romanov eagle: candlesticks, goblets, tureens, samovars. Portraits of assassinated Romanovs. Photograph of the five Tsarevich children from 1906.",FALSE
+326,Upper Brook Street,street,Mayfair,"Street in Mayfair where the exclusive club hosting Nate Paget birthday party is located. Columned entrance with lighting. The club interior: a manned space vehicle crashed into an Edwardian country house — acid green to peony pink lighting, erotic paintings, stags antlers, futuristic sculptures.",TRUE
+327,St Mary's Hospital,building,London,"Hospital in Paddington, London. Gyorgiy Peskov is admitted here under police guard after being shot and beaten at the Mayfair club.",TRUE
+328,Marseilles,city,France,"City in southern France where Valentin Dominik grew up poor with his single mother, in a rough quartier. In and out of hospital for haemophilia B throughout childhood.",TRUE
+329,Paddington,district,London,West London district. Location of St Marys Hospital where Valentin is in intensive care.,TRUE
+330,Hertfordshire,region,England,County north of London. Location of the Bayford detention centre where Peskov was to be transferred.,TRUE
+331,Bayford detention centre,building,Hertfordshire,Detention centre in Hertfordshire.,FALSE
+332,Regents Canal,other,London,London canal visible from the ICU window at St Marys Hospital where Valentin is being treated.,TRUE
+333,Kensington Gardens,other,London,Royal park in London adjacent to Hyde Park. Eve walks here for fresh air and has her epiphany about Villanelle's message while watching crows at a cafe.,TRUE
+334,The Ritz Hotel,building,London,Luxury hotel in London. Valentin was supposed to meet Golovkin for breakfast here but did not show up.,TRUE
+335,The Swallow,building,Barnham,"Spit-and-sawdust village pub in Barnham smelling of wet dogs and beer. Eve, Villanelle, and Valentin meet here after reuniting at the shepherd's huts.",FALSE
+336,Regent's Park,other,London,"Royal park in central London, near the sports complex and tennis courts.",TRUE
+337,Camden Town,district,London,District in north London. Villanelle hails a taxi here after killing a predator in Regent's Park.,TRUE
+338,Marylebone,district,London,District in central London. Villanelle claims her Russian book group met at Sussex Place here.,TRUE
+339,V and Eve's Mayfair Apartment,building,South Audley Street,"Top floor of a Georgian mansion on South Audley Street, Mayfair. Luxuriously comfortable but soulless. Shared by Villanelle and Eve while working for the Twelve in London. Contains weapons: Eve's Glock 9mm and Oxana's Sig Sauer P365 in the fridge, plus a ceramic stabbing knife.",FALSE
+340,South Audley Street,district,Mayfair,Street in Mayfair lined with boutiques and art galleries. Location of Villanelle and Eve's Georgian mansion apartment.,TRUE
+341,Bond Street,district,Mayfair,"Luxury shopping street in central London, near Villanelle and Eve's Mayfair apartment.",TRUE
+342,Burlington Arcade,building,Mayfair,Covered shopping arcade in Mayfair. Near Villanelle and Eve's apartment on South Audley Street.,TRUE
+343,Hampstead Heath,other,London,Large ancient park in north London. Villanelle and Eve go for long walks here.,TRUE
+344,Parliament Hill,other,Hampstead Heath,Panoramic hilltop on Hampstead Heath with a view across London. Villanelle and Eve walk here in the rain.,TRUE
+345,St James's Street,district,London,"Historic street in the West End, between Piccadilly and Pall Mall. Location of the Indian Military and Sporting Club.",TRUE
+346,Piccadilly,district,London,Major thoroughfare in London's West End. St James's Street branches off Piccadilly.,TRUE
+347,New Bond Street,district,Mayfair,Luxury shopping street in Mayfair. Villanelle and Eve stop at the Ferragamo window on their walk home from the club.,TRUE
+348,Grafton Street,district,Mayfair,Street in Mayfair. An ice-blue Bentley disappears here as V and Eve walk home — someone is watching them.,TRUE
+349,Grafton Street Hotel,building,Grafton Street,"Hotel on Grafton Street, Mayfair. The Ismailov family stays here.",FALSE
+350,Berkeley Square,district,Mayfair,Historic square in Mayfair. Location of Caspian's casino.,TRUE
+351,Caspian's,building,Berkeley Square,"Private members casino and club in Berkeley Square. Formerly The Trousered Ape, a fashionable 1960s nightspot. Co-owned by Nate Paget and Crispin Vale. Discreet and hedonistic atmosphere.",FALSE
+352,Balice and Bili's Flat,building,Westminster,"Two-bedroom flat on the second floor of a Victorian mansion block near Westminster Cathedral. Decorated by Bili — sporty chaos over Balice's refined taste. Home to three pet rats: Alice, Edith, and Virginia.",FALSE
+353,St James's Park,other,London,"Royal park in central London. Johnny, Eve and V meet on a bench overlooking the lake to discuss the Twelve separation.",TRUE
+354,Naziristan,country,Asia,"Fictional smallest Central Asian republic, an enclave between Tajikistan and Uzbekistan. Mostly hills and grassland. Geopolitically important for rare metals and a gas field. A good friend to Britain. Effectively controlled by Majid Ismailov.",FALSE
+355,Pakhtun,city,Naziristan,Capital of Naziristan. Location of the Ismailov family residence where Gulnara preferred to live.,FALSE
+356,Cambridgeshire,region,England,County in eastern England. Location of Newmarket and the Ismailov estate at Great Ditton.,TRUE
+357,Newmarket,city,Cambridgeshire,"Town in Cambridgeshire, headquarters of British horse racing. Majid Ismailov keeps over twenty racehorses here.",TRUE
+358,Longchamp,building,Paris,"Paris racecourse where the Prix de l'Arc de Triomphe is held, the most prestigious flat race in the world.",TRUE
+359,Great Ditton,building,Newmarket,Majid Ismailov's estate near Newmarket. V and Eve stay here undercover as friends of Shirin to investigate the kidnapping of Budoor.,FALSE
+360,Sverdlovsk Oblast,region,Russia,Federal subject in the Ural Mountains region of Russia. Capital is Ekaterinburg.,TRUE
+361,M11 Motorway,other,England,Major motorway running north from London towards Cambridge and Newmarket. Eve and Villanelle drive along it to reach Great Ditton.,TRUE
+362,Hanover Square,district,Mayfair,"Elegant square in Mayfair, London. Farad and Mimi have lunch at a restaurant overlooking the square.",TRUE
+363,Winterhall gallops,other,Newmarket,"Training tracks (gallops) near Newmarket. Around fifty miles of grass courses designated for racehorse training, with two to three thousand horses exercising each morning. Site of Budoor's theft.",TRUE
+364,Riordan Racing Yard,building,Newmarket,"Josh Riordans racing yard on the edge of Newmarket Heath. Nineteenth-century pink-brick farmhouse with three stable blocks. Around sixty horses in training, a third owned by the Ismailovs. Twenty-four-hour security with CCTV, enhanced after Budoors theft.",FALSE
+365,Suffolk,region,England,County in eastern England.,TRUE
+366,Bury St Edmunds,city,Suffolk,"Town in Suffolk, England. Near the training yard inherited by Oliver Reynolds from his father Rory.",TRUE
+367,Norfolk,region,England,"County in eastern England, bordering Suffolk to the south. The south-western area (Breckland) is rural and wooded.",TRUE
+368,Thetford,city,Norfolk,Town in Norfolk on the Suffolk border. Northern reference point for the ransom delivery on the A134.,TRUE
+369,Mundford,city,Norfolk,"Small village in Norfolk on the A134, about six miles north of Thetford. Reference point for the ransom delivery location.",TRUE
+370,Breckland Forest,other,Norfolk,Extensive woodland in Norfolk/Suffolk between Mundford and Thetford. The kidnapper selected a remote point on the A134 here for the ransom delivery.,TRUE
+371,Santon Stream bridge,other,Breckland Forest,"Bridge on the A134 where the Santon Stream passes beneath the road, between Mundford and Thetford. Designated ransom delivery point with a lay-by fifty yards south.",TRUE
+372,M11 Service Station Motel,building,M11 Motorway,"Sterile, low-budget, self-service motel at an M11 service station. No reception area or signs of occupancy. Villanelle is taken here by fake police officers.",FALSE
+373,Brandon Road,other,Breckland Forest,Road in Breckland Forest roughly a mile west of the Santon Stream bridge. Where the kidnapper parked a Ford Focus to flee with the gold. Site of the capture.,TRUE
+374,Cafe Bulbul,building,Pakhtun,"Shisha lounge in Pakhtun, Naziristan. Managed by Viktor Batyrshin (his uncles business). Where Rustam Dzhuraev recruited Viktor for the Budoor kidnapping operation.",FALSE
+375,Pakhtun Country Club,building,Pakhtun,"Country club in Pakhtun, Naziristan. Where Farad Ismailov and Rustam Dzhuraev were childhood friends, photographed together on the tennis court as teenagers.",FALSE
+376,Cambridge,city,Cambridgeshire,"Historic university city in Cambridgeshire, eastern England.",TRUE
+377,Reynolds Racing Yard,building,Bury St Edmunds,Oliver Reynolds training yard on the Bury Road. Where Budoor was hidden under the name Frisky Lou.,FALSE
+378,Knightsbridge,district,London,"Upscale district in central London, known for luxury retail and residential properties.",TRUE
+379,Togul,region,Rundan Province,"Mountainous area in Rundan Province, Naziristan. Site where seven environmental activists protesting against Buxor mining operations were killed.",FALSE
+380,Rundan Province,region,Naziristan,Province in Naziristan where Buxor mining company operates. Mountainous terrain with villages and tea stalls.,FALSE
+381,Clinique Brinvilliers,building,Paris,Private clinic in Paris. Room with a view of the Parisian skyline.,FALSE
+382,London Judo Association,building,London,Headquarters near King Cross station. Brightly lit hall with about a hundred spectators on competition nights. Bili Ilieva fights here.,FALSE
+383,Highgate,district,London,Area in north London near Hampstead Heath. V and Eve take the bus through Kentish Town up Highgate Hill to reach their new apartment.,TRUE
+384,V and Eve Hampstead Apartment,building,Highgate,"White Art Deco mansion block on the top floor near Hampstead Heath. Oak parquet floors, casement windows with endless views over the Heath. Empty when V and Eve first visit. Purchased with Twelve money (five to six million pounds). Eve calls it our home in the sky.",FALSE

@@ -1,0 +1,812 @@
+id,book_id,chapter_id,subject_type,subject_id,subject_name,predicate,object_type,object_id,object_name
+1,1,1,character,1,Salvatore Greco,leads,organization,4,Greci clan
+2,1,1,organization,4,Greci clan,member_of,organization,2,Cosa Nostra
+3,1,1,organization,1,The Twelve,orders_assassination_of,character,1,Salvatore Greco
+4,1,1,organization,6,Messini clan,allies_with,organization,4,Greci clan
+5,1,1,organization,4,Greci clan,rivals_with,organization,3,'Ndrangheta
+6,1,1,organization,4,Greci clan,rivals_with,organization,5,Matteo family
+7,1,1,character,1,Salvatore Greco,operates_at,location,5,Palermo
+8,1,1,character,2,Villanelle,works_for,organization,1,The Twelve
+9,1,1,character,2,Villanelle,reports_to,character,5,Konstantin
+10,1,1,character,5,Konstantin,works_for,organization,1,The Twelve
+11,1,1,character,2,Villanelle,lives_at,location,20,Villanelle apartment Paris
+12,1,1,character,6,Boris Vorontsov,parent_of,character,2,Villanelle
+13,1,1,organization,7,Brothers' Circle,kills,character,6,Boris Vorontsov
+14,1,1,character,5,Konstantin,recruits,character,2,Villanelle
+15,1,1,character,1,Salvatore Greco,married_to,character,8,Calogera Greco
+16,1,1,character,1,Salvatore Greco,parent_of,character,9,Valentina Greco
+17,1,1,character,1,Salvatore Greco,attempts_to_kill,character,10,Bruno De Santis
+18,1,1,character,10,Bruno De Santis,works_for,organization,8,Corriere della Sera
+19,1,1,character,11,Franca Farfaglia,trains_at,location,30,La Scala Theatre Academy
+20,1,1,character,12,Frank,member_of,organization,9,Special Boat Service
+21,1,1,character,12,Frank,trains,character,2,Villanelle
+22,1,1,character,2,Villanelle,trains_at,location,35,Essex coast
+23,1,1,character,2,Villanelle,attracted_to,character,13,Yuliana
+24,1,1,character,2,Villanelle,trains_at,location,37,Mittenwald
+25,1,1,character,2,Villanelle,trains_at,location,40,Fort Bragg
+26,1,1,character,2,Villanelle,trains_at,location,42,Kiev
+27,1,1,character,2,Villanelle,trains_at,location,43,Severka sniper school
+28,1,1,character,2,Villanelle,trains_at,location,44,Volgograd
+29,1,1,character,2,Villanelle,trains_at,location,46,London
+30,1,1,character,2,Villanelle,trains_at,location,8,Paris
+31,1,1,character,14,Fantine,trains,character,2,Villanelle
+32,1,1,character,14,Fantine,lives_at,location,49,Quai Voltaire
+33,1,1,character,2,Villanelle,travels_to,location,5,Palermo
+34,1,1,character,2,Villanelle,travels_to,location,53,Piraeus
+35,1,1,character,2,Villanelle,kills,character,16,Yiorgos Vlachos
+36,1,1,character,2,Villanelle,kills,character,17,Dragan Horvat
+37,1,1,character,1,Salvatore Greco,attracted_to,character,2,Villanelle
+38,1,1,character,2,Villanelle,deceives,character,1,Salvatore Greco
+39,1,1,character,1,Salvatore Greco,recruits,character,11,Franca Farfaglia
+40,1,1,character,15,Leoluca Messina,relative_of,character,1,Salvatore Greco
+41,1,1,character,2,Villanelle,kills,character,1,Salvatore Greco
+42,1,1,character,15,Leoluca Messina,saves,character,2,Villanelle
+43,1,1,character,2,Villanelle,lover_of,character,15,Leoluca Messina
+44,1,1,character,18,Paolo Vella,member_of,organization,11,Polizia di Stato
+45,1,1,character,2,Villanelle,deceives,character,18,Paolo Vella
+46,1,2,character,19,Anne-Laure Mercier,married_to,character,20,Gilles Mercier
+47,1,2,character,19,Anne-Laure Mercier,confides_in,character,2,Villanelle
+48,1,2,character,2,Villanelle,deceives,character,19,Anne-Laure Mercier
+49,1,2,character,6,Boris Vorontsov,trains,character,2,Villanelle
+50,1,2,character,2,Villanelle,attacks,organization,7,Brothers' Circle
+51,1,2,character,21,Eve Polastri,works_for,organization,12,MI5
+52,1,2,character,22,Simon Mortimer,reports_to,character,21,Eve Polastri
+53,1,2,character,21,Eve Polastri,married_to,character,23,Niko Polastri
+54,1,2,character,21,Eve Polastri,leads,organization,13,P3
+55,1,2,organization,13,P3,member_of,organization,12,MI5
+56,1,2,character,21,Eve Polastri,reports_to,character,24,Bill Tregaron
+57,1,2,character,24,Bill Tregaron,works_for,organization,17,GCHQ
+58,1,2,character,27,Viktor Kedrin,member_of,organization,18,Eurasia UK
+59,1,2,character,21,Eve Polastri,investigates,character,2,Villanelle
+60,1,2,character,21,Eve Polastri,lives_at,location,70,Finchley
+61,1,2,character,21,Eve Polastri,confides_in,character,23,Niko Polastri
+62,1,2,character,2,Villanelle,travels_to,location,46,London
+63,1,2,character,2,Villanelle,deceives,character,35,Luis Martín
+64,1,2,character,2,Villanelle,deceives,character,36,Sarah
+65,1,2,character,2,Villanelle,lover_of,character,36,Sarah
+66,1,2,character,37,Roman Nikonov,attacks,character,7,Anna Leonova
+67,1,2,character,2,Villanelle,attacks,character,37,Roman Nikonov
+68,1,2,character,39,Vitaly Chuvarov,works_for,character,27,Viktor Kedrin
+69,1,2,character,2,Villanelle,kills,character,27,Viktor Kedrin
+70,1,2,character,2,Villanelle,kills,character,39,Vitaly Chuvarov
+71,1,2,character,40,DCI Gary Hurst,investigates,character,27,Viktor Kedrin
+72,1,2,character,2,Villanelle,deceives,character,34,Lucy Drake
+73,1,2,character,41,Richard Edwards,works_for,organization,23,MI6
+74,1,2,character,41,Richard Edwards,recruits,character,21,Eve Polastri
+75,1,3,character,42,Zhang Lei,leads,organization,24,White Dragon crew
+76,1,3,organization,1,The Twelve,orders_assassination_of,character,42,Zhang Lei
+77,1,3,character,2,Villanelle,travels_to,location,91,Shanghai
+78,1,3,character,2,Villanelle,kills,character,42,Zhang Lei
+79,1,3,character,7,Anna Leonova,trains,character,2,Villanelle
+80,1,3,character,2,Villanelle,attracted_to,character,7,Anna Leonova
+81,1,3,character,37,Roman Nikonov,attacks,character,7,Anna Leonova
+82,1,3,character,2,Villanelle,attacks,character,37,Roman Nikonov
+83,1,3,character,47,Alice Mao,owns,location,102,The Aquarium
+84,1,3,character,2,Villanelle,attracted_to,character,47,Alice Mao
+85,1,3,character,45,Janie Chou,works_for,character,47,Alice Mao
+86,1,3,character,2,Villanelle,lover_of,character,47,Alice Mao
+87,1,3,character,48,Jin Qiang,works_for,organization,26,Ministry of State Security
+88,1,3,character,21,Eve Polastri,travels_to,location,91,Shanghai
+89,1,3,character,21,Eve Polastri,investigates,character,2,Villanelle
+90,1,3,character,5,Konstantin,spies_on,character,21,Eve Polastri
+91,1,3,character,48,Jin Qiang,collaborates_with,character,21,Eve Polastri
+92,1,3,character,45,Janie Chou,deceives,character,22,Simon Mortimer
+93,1,3,character,45,Janie Chou,works_for,character,5,Konstantin
+94,1,3,character,2,Villanelle,kills,character,22,Simon Mortimer
+95,1,3,character,2,Villanelle,attracted_to,character,21,Eve Polastri
+96,1,3,character,50,Calum Dennis,trains,character,21,Eve Polastri
+97,1,3,character,21,Eve Polastri,investigates,character,2,Villanelle
+98,1,4,character,52,Lance Pope,collaborates_with,character,21,Eve Polastri
+99,1,4,character,53,Billy Primrose,collaborates_with,character,21,Eve Polastri
+100,1,4,character,2,Villanelle,travels_to,location,123,Odessa
+101,1,4,character,54,Lara Farmanyants,works_for,organization,1,The Twelve
+102,1,4,character,2,Villanelle,rivals_with,character,54,Lara Farmanyants
+103,1,4,character,54,Lara Farmanyants,lover_of,character,2,Villanelle
+104,1,4,character,56,Dennis Cradle,works_for,organization,1,The Twelve
+105,1,4,character,56,Dennis Cradle,leads,organization,30,D4 Branch
+106,1,4,character,55,Tony Kent,works_for,organization,1,The Twelve
+107,1,4,character,21,Eve Polastri,investigates,character,56,Dennis Cradle
+108,1,4,character,58,Anton,works_for,organization,1,The Twelve
+109,1,4,character,58,Anton,collaborates_with,character,5,Konstantin
+110,1,4,organization,31,Zoloty Bratstvo,abducts,character,5,Konstantin
+111,1,4,character,59,Rinat Yevtukh,leads,organization,31,Zoloty Bratstvo
+112,1,4,organization,32,SVR,owns,organization,31,Zoloty Bratstvo
+113,1,4,character,58,Anton,informs,character,2,Villanelle
+114,1,4,character,60,Zbigniew,friend_of,character,23,Niko Polastri
+115,1,4,character,21,Eve Polastri,deceives,character,23,Niko Polastri
+116,1,4,character,2,Villanelle,kills,character,5,Konstantin
+117,1,4,character,61,Claudia,lover_of,character,60,Zbigniew
+118,1,4,organization,1,The Twelve,threatens,character,2,Villanelle
+119,2,5,character,56,Dennis Cradle,lover_of,character,62,Gabriela Vukovic
+120,2,5,character,52,Lance Pope,abducts,character,56,Dennis Cradle
+121,2,5,character,21,Eve Polastri,threatens,character,56,Dennis Cradle
+122,2,5,character,59,Rinat Yevtukh,lover_of,character,63,Katya Goraya
+123,2,5,character,2,Villanelle,travels_to,location,145,Venice
+124,2,5,character,2,Villanelle,deceives,character,59,Rinat Yevtukh
+125,2,5,character,2,Villanelle,interrogates,character,59,Rinat Yevtukh
+126,2,5,character,2,Villanelle,kills,character,59,Rinat Yevtukh
+127,2,5,character,2,Villanelle,operates_at,location,155,Hotel Excelsior
+128,2,5,character,2,Villanelle,trains,character,54,Lara Farmanyants
+129,2,6,character,65,Rem Bakker,recruits,character,56,Dennis Cradle
+130,2,6,character,64,Sergei (Cradle recruiter),works_for,organization,1,The Twelve
+131,2,6,character,21,Eve Polastri,interrogates,character,56,Dennis Cradle
+132,2,6,character,2,Villanelle,spies_on,character,21,Eve Polastri
+133,2,6,character,2,Villanelle,attacks,character,21,Eve Polastri
+134,2,6,character,2,Villanelle,attracted_to,character,21,Eve Polastri
+135,2,6,character,57,Penny Cradle,married_to,character,56,Dennis Cradle
+136,2,6,character,2,Villanelle,kills,character,56,Dennis Cradle
+137,2,6,character,21,Eve Polastri,deceives,character,23,Niko Polastri
+138,2,6,character,23,Niko Polastri,informs,character,21,Eve Polastri
+139,2,6,character,21,Eve Polastri,attracted_to,character,2,Villanelle
+140,2,6,character,2,Villanelle,spies_on,character,21,Eve Polastri
+141,2,6,character,52,Lance Pope,collaborates_with,character,21,Eve Polastri
+142,2,6,character,41,Richard Edwards,collaborates_with,character,21,Eve Polastri
+143,2,7,character,58,Anton,supervises,character,2,Villanelle
+144,2,7,character,66,Marta,works_for,location,169,Villanelle apartment Paris
+145,2,7,character,2,Villanelle,travels_to,location,170,Knock Tom
+146,2,7,organization,34,Sverdlovsk-Futura Group,owns,location,170,Knock Tom
+147,2,7,organization,34,Sverdlovsk-Futura Group,member_of,organization,1,The Twelve
+148,2,7,character,67,Abby,works_for,location,172,Met Police Forensics Lab
+149,2,7,character,67,Abby,collaborates_with,character,21,Eve Polastri
+150,2,7,character,58,Anton,orders_assassination_of,character,68,Max Linder
+151,2,7,organization,1,The Twelve,orders_assassination_of,character,68,Max Linder
+152,2,7,character,70,Leila,lover_of,character,60,Zbigniew
+153,2,7,character,71,Fiona,works_for,character,72,Gareth Wolf
+154,2,7,character,23,Niko Polastri,confides_in,character,21,Eve Polastri
+155,2,8,character,21,Eve Polastri,travels_to,location,145,Venice
+156,2,8,character,73,Giovanna Bianchi,collaborates_with,character,21,Eve Polastri
+157,2,8,character,74,Bianca,informs,character,21,Eve Polastri
+158,2,8,organization,35,AISE,informs,character,75,Armando Trevisan
+159,2,8,character,75,Armando Trevisan,investigates,character,59,Rinat Yevtukh
+160,2,8,character,75,Armando Trevisan,collaborates_with,character,21,Eve Polastri
+161,2,8,character,21,Eve Polastri,deceives,character,23,Niko Polastri
+162,2,8,character,2,Villanelle,travels_to,location,179,Innsbruck
+163,2,8,character,2,Villanelle,operates_at,location,188,Gasthof Lili
+164,2,8,character,77,Claudio Forlani,lives_at,location,185,Palazzo Forlani
+165,2,8,character,77,Claudio Forlani,attracted_to,character,21,Eve Polastri
+166,2,9,character,2,Villanelle,deceives,character,68,Max Linder
+167,2,9,character,78,Magali Le Meur,leads,organization,36,Nouvelle Droite
+168,2,9,character,80,Leonardo Venturi,leads,organization,37,Lapsit Exillis
+169,2,9,character,81,Inka Järvi,leads,organization,38,Daughters of Odin
+170,2,9,character,82,Richard Baggot,leads,organization,39,UK Patriots Party
+171,2,9,character,87,Petra Voss,member_of,organization,40,Panzerdämmerung
+172,2,9,character,2,Villanelle,travels_to,location,178,Felsnadel
+173,2,9,character,88,Birgit,works_for,character,68,Max Linder
+174,2,9,character,84,Johanna,informs,character,88,Birgit
+175,2,9,character,89,Maria,informs,character,2,Villanelle
+176,2,9,character,55,Tony Kent,friend_of,character,56,Dennis Cradle
+177,2,9,character,55,Tony Kent,trains_at,location,195,Sandhurst
+178,2,9,character,55,Tony Kent,member_of,organization,34,Sverdlovsk-Futura Group
+179,2,9,character,55,Tony Kent,member_of,organization,41,SF12
+180,2,9,character,90,Sim Henderson,collaborates_with,character,53,Billy Primrose
+181,2,9,organization,41,SF12,member_of,organization,34,Sverdlovsk-Futura Group
+182,2,9,character,79,Todd Stanton,collaborates_with,character,68,Max Linder
+183,2,9,character,21,Eve Polastri,investigates,character,2,Villanelle
+184,2,9,character,87,Petra Voss,attracted_to,character,2,Villanelle
+185,2,9,character,21,Eve Polastri,attracted_to,character,2,Villanelle
+186,2,10,character,53,Billy Primrose,informs,character,21,Eve Polastri
+187,2,10,character,5,Konstantin,leads,organization,42,Directorate S
+188,2,10,character,82,Richard Baggot,lover_of,character,84,Johanna
+189,2,10,character,41,Richard Edwards,informs,character,21,Eve Polastri
+190,2,10,character,41,Richard Edwards,friend_of,character,5,Konstantin
+191,2,10,character,5,Konstantin,trains_at,location,205,Andropov Academy
+192,2,10,character,91,Yuri Modin,trains,character,5,Konstantin
+193,2,10,character,2,Villanelle,lover_of,character,87,Petra Voss
+194,2,10,character,52,Lance Pope,spies_on,character,21,Eve Polastri
+195,2,10,character,2,Villanelle,spies_on,character,68,Max Linder
+196,2,10,character,75,Armando Trevisan,informs,character,21,Eve Polastri
+197,2,10,character,2,Villanelle,threatens,character,84,Johanna
+198,2,10,character,2,Villanelle,deceives,character,88,Birgit
+199,2,10,character,92,Oleg,works_for,character,41,Richard Edwards
+200,2,10,character,92,Oleg,collaborates_with,character,21,Eve Polastri
+201,2,10,character,2,Villanelle,deceives,character,82,Richard Baggot
+202,2,10,character,2,Villanelle,kills,character,68,Max Linder
+203,2,11,character,21,Eve Polastri,travels_to,location,132,Moscow
+204,2,11,character,52,Lance Pope,travels_to,location,132,Moscow
+205,2,11,character,21,Eve Polastri,confides_in,character,52,Lance Pope
+206,2,11,character,54,Lara Farmanyants,attempts_to_kill,character,21,Eve Polastri
+207,2,11,organization,19,FSB,abducts,character,21,Eve Polastri
+208,2,11,character,52,Lance Pope,saves,character,21,Eve Polastri
+209,2,11,character,89,Maria,works_for,character,58,Anton
+210,2,11,character,58,Anton,orders_assassination_of,character,21,Eve Polastri
+211,2,11,character,2,Villanelle,reports_to,character,58,Anton
+212,2,11,character,2,Villanelle,lover_of,character,54,Lara Farmanyants
+213,2,11,character,54,Lara Farmanyants,informs,character,2,Villanelle
+214,2,11,character,93,Vadim Tikhomirov,collaborates_with,character,41,Richard Edwards
+215,2,11,character,93,Vadim Tikhomirov,informs,character,21,Eve Polastri
+216,2,11,organization,19,FSB,abducts,character,54,Lara Farmanyants
+217,2,11,character,21,Eve Polastri,investigates,character,2,Villanelle
+218,2,11,character,23,Niko Polastri,confides_in,character,21,Eve Polastri
+219,2,11,character,94,Amanda Edwards,married_to,character,41,Richard Edwards
+220,2,11,character,41,Richard Edwards,parent_of,character,95,Chloe Edwards
+221,2,11,character,95,Chloe Edwards,attracted_to,character,5,Konstantin
+222,2,11,character,2,Villanelle,travels_to,location,46,London
+223,2,11,character,21,Eve Polastri,confides_in,character,41,Richard Edwards
+224,2,12,character,21,Eve Polastri,attracted_to,character,2,Villanelle
+225,2,12,character,2,Villanelle,threatens,character,21,Eve Polastri
+226,2,12,character,2,Villanelle,attacks,character,21,Eve Polastri
+227,2,12,character,58,Anton,leads,organization,21,E Squadron
+228,2,12,character,2,Villanelle,informs,character,21,Eve Polastri
+229,2,12,character,41,Richard Edwards,works_for,organization,1,The Twelve
+230,2,12,character,41,Richard Edwards,betrays,character,21,Eve Polastri
+231,2,12,character,58,Anton,collaborates_with,character,41,Richard Edwards
+232,2,12,character,95,Chloe Edwards,informs,character,21,Eve Polastri
+233,2,12,character,58,Anton,works_for,organization,1,The Twelve
+234,2,12,character,5,Konstantin,works_for,organization,1,The Twelve
+235,2,12,character,2,Villanelle,allies_with,character,21,Eve Polastri
+236,2,12,character,2,Villanelle,saves,character,21,Eve Polastri
+237,2,12,character,2,Villanelle,deceives,character,58,Anton
+238,2,12,character,2,Villanelle,lover_of,character,21,Eve Polastri
+239,2,12,character,2,Villanelle,recruits,character,21,Eve Polastri
+240,3,13,character,97,Igor,collaborates_with,character,21,Eve Polastri
+241,3,13,character,97,Igor,collaborates_with,character,2,Villanelle
+242,3,13,character,21,Eve Polastri,lover_of,character,2,Villanelle
+243,3,13,character,21,Eve Polastri,travels_to,location,4,Russia
+244,3,13,character,2,Villanelle,travels_to,location,4,Russia
+245,3,13,character,2,Villanelle,threatens,character,21,Eve Polastri
+246,3,13,character,2,Villanelle,confides_in,character,21,Eve Polastri
+247,3,14,character,2,Villanelle,lover_of,character,21,Eve Polastri
+248,3,14,character,21,Eve Polastri,confides_in,character,2,Villanelle
+249,3,14,character,21,Eve Polastri,lover_of,character,2,Villanelle
+250,3,15,character,2,Villanelle,betrays,character,21,Eve Polastri
+251,3,15,character,98,Dasha Kvariani,works_for,organization,46,Prekrasnaya Nevesta
+252,3,15,character,98,Dasha Kvariani,attacks,character,21,Eve Polastri
+253,3,15,character,21,Eve Polastri,attacks,character,98,Dasha Kvariani
+254,3,15,character,2,Villanelle,saves,character,21,Eve Polastri
+255,3,15,character,2,Villanelle,threatens,character,98,Dasha Kvariani
+256,3,15,character,2,Villanelle,friend_of,character,98,Dasha Kvariani
+257,3,15,character,2,Villanelle,collaborates_with,character,98,Dasha Kvariani
+258,3,16,character,99,Gennadi Kvariani,parent_of,character,98,Dasha Kvariani
+259,3,16,character,98,Dasha Kvariani,leads,organization,47,Kupchino Bratva
+260,3,16,character,2,Villanelle,confides_in,character,21,Eve Polastri
+261,3,16,character,21,Eve Polastri,attracted_to,character,2,Villanelle
+262,3,16,character,2,Villanelle,deceives,character,98,Dasha Kvariani
+263,3,16,character,100,Kristina,lover_of,character,98,Dasha Kvariani
+264,3,16,character,100,Kristina,confides_in,character,21,Eve Polastri
+265,3,16,character,101,Asmat Dzabrati,leads,organization,47,Kupchino Bratva
+266,3,16,character,103,Pavel,married_to,character,102,Angelina
+267,3,16,character,21,Eve Polastri,attempts_to_kill,character,21,Eve Polastri
+268,3,16,character,2,Villanelle,saves,character,21,Eve Polastri
+269,3,16,character,21,Eve Polastri,attacks,character,2,Villanelle
+270,3,16,character,21,Eve Polastri,allies_with,character,2,Villanelle
+271,3,16,character,98,Dasha Kvariani,orders_assassination_of,character,101,Asmat Dzabrati
+272,3,17,character,21,Eve Polastri,collaborates_with,character,2,Villanelle
+273,3,17,character,98,Dasha Kvariani,informs,character,2,Villanelle
+274,3,17,character,2,Villanelle,spies_on,character,101,Asmat Dzabrati
+275,3,17,character,98,Dasha Kvariani,informs,character,2,Villanelle
+276,3,17,character,2,Villanelle,confides_in,character,21,Eve Polastri
+277,3,17,character,2,Villanelle,attacks,character,101,Asmat Dzabrati
+278,3,17,character,21,Eve Polastri,kills,character,101,Asmat Dzabrati
+279,3,18,character,98,Dasha Kvariani,leads,organization,47,Kupchino Bratva
+280,3,18,character,100,Kristina,confides_in,character,21,Eve Polastri
+281,3,18,character,21,Eve Polastri,friend_of,character,100,Kristina
+282,3,18,character,54,Lara Farmanyants,kills,character,100,Kristina
+283,3,18,character,21,Eve Polastri,attacks,organization,1,The Twelve
+284,3,18,character,98,Dasha Kvariani,saves,character,21,Eve Polastri
+285,3,18,character,41,Richard Edwards,betrays,character,21,Eve Polastri
+286,3,18,character,98,Dasha Kvariani,rivals_with,character,54,Lara Farmanyants
+287,3,18,character,58,Anton,orders_assassination_of,character,21,Eve Polastri
+288,3,18,character,2,Villanelle,saves,character,21,Eve Polastri
+289,3,18,character,2,Villanelle,works_for,organization,1,The Twelve
+290,3,19,character,107,Nadezhda Vorontsova,parent_of,character,2,Villanelle
+291,3,19,character,107,Nadezhda Vorontsova,married_to,character,6,Boris Vorontsov
+292,3,19,character,2,Villanelle,confides_in,character,21,Eve Polastri
+293,3,19,character,2,Villanelle,travels_to,location,132,Moscow
+294,3,19,character,21,Eve Polastri,travels_to,location,132,Moscow
+295,3,19,character,54,Lara Farmanyants,confides_in,character,21,Eve Polastri
+296,3,19,character,41,Richard Edwards,recruits,character,2,Villanelle
+297,3,19,character,41,Richard Edwards,recruits,character,21,Eve Polastri
+298,3,19,character,2,Villanelle,lover_of,character,21,Eve Polastri
+299,3,19,character,21,Eve Polastri,attacks,character,2,Villanelle
+300,3,20,character,93,Vadim Tikhomirov,recruits,character,21,Eve Polastri
+301,3,20,character,93,Vadim Tikhomirov,informs,character,21,Eve Polastri
+302,3,20,character,21,Eve Polastri,confides_in,character,93,Vadim Tikhomirov
+303,3,20,character,21,Eve Polastri,spies_on,organization,1,The Twelve
+304,3,20,character,21,Eve Polastri,deceives,character,41,Richard Edwards
+305,3,20,character,108,Dima,works_for,character,93,Vadim Tikhomirov
+306,3,20,character,2,Villanelle,travels_to,location,170,Knock Tom
+307,3,20,character,58,Anton,supervises,character,2,Villanelle
+308,3,20,character,21,Eve Polastri,deceives,character,2,Villanelle
+309,3,20,character,2,Villanelle,lover_of,character,21,Eve Polastri
+310,3,20,character,2,Villanelle,rivals_with,character,58,Anton
+311,3,20,character,54,Lara Farmanyants,confides_in,character,21,Eve Polastri
+312,3,20,character,21,Eve Polastri,confides_in,character,54,Lara Farmanyants
+313,3,20,character,54,Lara Farmanyants,attracted_to,character,2,Villanelle
+314,3,20,character,54,Lara Farmanyants,rivals_with,character,21,Eve Polastri
+315,3,20,character,110,Ginge,trains,character,54,Lara Farmanyants
+316,3,20,character,110,Ginge,trains,character,21,Eve Polastri
+317,3,20,character,109,Nobby,trains,character,2,Villanelle
+318,3,20,character,54,Lara Farmanyants,collaborates_with,character,21,Eve Polastri
+319,3,20,character,2,Villanelle,lover_of,character,21,Eve Polastri
+320,3,20,character,2,Villanelle,betrays,character,21,Eve Polastri
+321,3,20,character,21,Eve Polastri,attacks,character,54,Lara Farmanyants
+322,3,20,character,2,Villanelle,lover_of,character,54,Lara Farmanyants
+323,3,21,character,21,Eve Polastri,deceives,character,58,Anton
+324,3,21,character,58,Anton,deceives,character,21,Eve Polastri
+325,3,21,character,58,Anton,threatens,character,21,Eve Polastri
+326,3,21,character,58,Anton,attacks,character,21,Eve Polastri
+327,3,21,character,21,Eve Polastri,kills,character,58,Anton
+328,3,21,character,2,Villanelle,collaborates_with,character,21,Eve Polastri
+329,3,21,character,21,Eve Polastri,attacks,character,2,Villanelle
+330,3,21,character,21,Eve Polastri,lover_of,character,2,Villanelle
+331,3,21,character,21,Eve Polastri,confides_in,character,2,Villanelle
+332,3,21,character,2,Villanelle,confides_in,character,21,Eve Polastri
+333,3,22,character,2,Villanelle,travels_to,location,132,Moscow
+334,3,22,character,21,Eve Polastri,travels_to,location,132,Moscow
+335,3,22,character,21,Eve Polastri,informs,character,113,Inna Lapotnikova
+336,3,22,character,113,Inna Lapotnikova,collaborates_with,character,21,Eve Polastri
+337,3,22,character,21,Eve Polastri,deceives,character,41,Richard Edwards
+338,3,22,character,2,Villanelle,deceives,character,41,Richard Edwards
+339,3,22,character,54,Lara Farmanyants,deceives,character,41,Richard Edwards
+340,3,22,character,111,Valery Stechkin,threatens,character,112,Ronald Loy
+341,3,22,character,41,Richard Edwards,informs,character,2,Villanelle
+342,3,22,organization,1,The Twelve,orders_assassination_of,character,111,Valery Stechkin
+343,3,22,organization,1,The Twelve,orders_assassination_of,character,112,Ronald Loy
+344,3,22,character,54,Lara Farmanyants,informs,character,21,Eve Polastri
+345,3,23,character,114,Tolya,works_for,organization,1,The Twelve
+346,3,23,character,115,Gennadi,operates_at,location,258,Neglinka River Underground
+347,3,23,character,41,Richard Edwards,travels_to,location,263,Kremlin East Tower
+348,3,23,character,21,Eve Polastri,collaborates_with,character,54,Lara Farmanyants
+349,3,23,character,98,Dasha Kvariani,collaborates_with,character,93,Vadim Tikhomirov
+350,3,23,character,93,Vadim Tikhomirov,saves,character,21,Eve Polastri
+351,3,23,character,98,Dasha Kvariani,kills,character,54,Lara Farmanyants
+352,3,23,character,41,Richard Edwards,deceives,character,21,Eve Polastri
+353,3,23,character,21,Eve Polastri,travels_to,location,264,Bolshoi Theatre
+354,3,24,character,2,Villanelle,kills,character,111,Valery Stechkin
+355,3,24,character,2,Villanelle,kills,character,112,Ronald Loy
+356,3,24,character,93,Vadim Tikhomirov,saves,character,21,Eve Polastri
+357,3,24,organization,19,FSB,attacks,character,2,Villanelle
+358,3,24,character,21,Eve Polastri,deceives,character,93,Vadim Tikhomirov
+359,3,24,character,2,Villanelle,deceives,character,93,Vadim Tikhomirov
+360,3,25,character,116,Alexei,works_for,organization,19,FSB
+361,3,25,character,21,Eve Polastri,travels_to,location,15,Perm
+362,3,25,character,108,Dima,informs,character,21,Eve Polastri
+363,3,25,character,7,Anna Leonova,collaborates_with,character,21,Eve Polastri
+364,3,25,character,7,Anna Leonova,confides_in,character,21,Eve Polastri
+365,3,25,character,21,Eve Polastri,confides_in,character,7,Anna Leonova
+366,3,25,character,2,Villanelle,confides_in,character,21,Eve Polastri
+367,3,25,character,21,Eve Polastri,lover_of,character,2,Villanelle
+368,3,26,character,2,Villanelle,lives_at,location,229,St Petersburg
+369,3,26,character,21,Eve Polastri,lives_at,location,229,St Petersburg
+370,3,26,character,93,Vadim Tikhomirov,deceives,character,21,Eve Polastri
+371,3,26,character,93,Vadim Tikhomirov,collaborates_with,organization,1,The Twelve
+372,3,26,organization,19,FSB,deceives,character,2,Villanelle
+373,3,26,character,93,Vadim Tikhomirov,saves,character,2,Villanelle
+374,3,26,character,2,Villanelle,travels_to,location,8,Paris
+375,3,26,character,2,Villanelle,confides_in,character,21,Eve Polastri
+376,3,26,character,2,Villanelle,lover_of,character,21,Eve Polastri
+377,3,26,character,21,Eve Polastri,lover_of,character,2,Villanelle
+378,4,27,character,2,Villanelle,lover_of,character,21,Eve Polastri
+379,4,27,character,2,Villanelle,deceives,character,21,Eve Polastri
+380,4,27,character,2,Villanelle,trains_at,location,276,St Petersburg University
+381,4,27,character,2,Villanelle,travels_to,location,281,Apokalipsis Club
+382,4,28,character,2,Villanelle,lover_of,character,21,Eve Polastri
+383,4,28,character,2,Villanelle,deceives,character,21,Eve Polastri
+384,4,28,character,21,Eve Polastri,confides_in,character,2,Villanelle
+385,4,29,character,2,Villanelle,lover_of,character,21,Eve Polastri
+386,4,29,character,2,Villanelle,deceives,character,21,Eve Polastri
+387,4,29,character,21,Eve Polastri,investigates,character,2,Villanelle
+388,4,29,character,2,Villanelle,attracted_to,character,122,Balice St Clair
+389,4,29,character,121,Max,recruits,character,2,Villanelle
+390,4,29,character,122,Balice St Clair,recruits,character,2,Villanelle
+391,4,29,character,121,Max,member_of,organization,1,The Twelve
+392,4,29,character,122,Balice St Clair,member_of,organization,1,The Twelve
+393,4,30,character,121,Max,informs,character,2,Villanelle
+394,4,30,character,2,Villanelle,collaborates_with,character,121,Max
+395,4,30,character,124,Myrtha Willis,works_for,character,123,Ron Tiberius
+396,4,30,character,2,Villanelle,deceives,character,121,Max
+397,4,30,character,122,Balice St Clair,threatens,character,2,Villanelle
+398,4,30,character,121,Max,supervises,character,2,Villanelle
+399,4,30,character,123,Ron Tiberius,threatens,character,126,Adam Fentiman
+400,4,30,character,2,Villanelle,lover_of,character,21,Eve Polastri
+401,4,30,character,2,Villanelle,deceives,character,21,Eve Polastri
+402,4,30,character,2,Villanelle,investigates,organization,1,The Twelve
+403,4,31,character,127,Sergei Stepanenko,informs,character,2,Villanelle
+404,4,31,character,127,Sergei Stepanenko,member_of,organization,1,The Twelve
+405,4,31,character,2,Villanelle,lover_of,character,21,Eve Polastri
+406,4,31,character,128,Kira,collaborates_with,character,2,Villanelle
+407,4,31,character,2,Villanelle,travels_to,location,288,Forestry Academy Park
+408,4,32,organization,1,The Twelve,recruits,character,2,Villanelle
+409,4,32,character,2,Villanelle,works_for,organization,1,The Twelve
+410,4,32,character,2,Villanelle,attracted_to,character,128,Kira
+411,4,32,character,128,Kira,confides_in,character,2,Villanelle
+412,4,32,character,2,Villanelle,deceives,character,122,Balice St Clair
+413,4,32,character,122,Balice St Clair,attracted_to,character,2,Villanelle
+414,4,32,character,2,Villanelle,threatens,character,122,Balice St Clair
+415,4,32,character,129,Darren,collaborates_with,character,2,Villanelle
+416,4,33,character,121,Max,informs,character,2,Villanelle
+417,4,33,character,2,Villanelle,kills,character,121,Max
+418,4,33,character,2,Villanelle,interrogates,character,122,Balice St Clair
+419,4,33,character,122,Balice St Clair,informs,character,2,Villanelle
+420,4,34,character,2,Villanelle,collaborates_with,character,122,Balice St Clair
+421,4,34,character,122,Balice St Clair,confides_in,character,2,Villanelle
+422,4,34,character,122,Balice St Clair,informs,character,2,Villanelle
+423,4,34,character,2,Villanelle,travels_to,location,296,Teffont Castle
+424,4,34,character,2,Villanelle,attracted_to,character,21,Eve Polastri
+425,4,34,character,21,Eve Polastri,lives_at,location,296,Teffont Castle
+426,4,34,character,23,Niko Polastri,married_to,character,21,Eve Polastri
+427,4,35,character,23,Niko Polastri,attacks,character,2,Villanelle
+428,4,35,character,21,Eve Polastri,saves,character,2,Villanelle
+429,4,35,character,2,Villanelle,attracted_to,character,21,Eve Polastri
+430,4,35,character,21,Eve Polastri,confides_in,character,2,Villanelle
+431,4,35,character,2,Villanelle,rivals_with,character,23,Niko Polastri
+432,4,35,character,122,Balice St Clair,recruits,character,21,Eve Polastri
+433,4,35,character,2,Villanelle,spies_on,character,21,Eve Polastri
+434,4,36,character,2,Villanelle,attacks,character,122,Balice St Clair
+435,4,36,character,2,Villanelle,threatens,character,122,Balice St Clair
+436,4,36,character,2,Villanelle,reports_to,organization,1,The Twelve
+437,4,36,character,2,Villanelle,deceives,character,122,Balice St Clair
+438,4,36,character,2,Villanelle,travels_to,location,300,Salisbury
+439,4,37,character,2,Villanelle,collaborates_with,character,122,Balice St Clair
+440,4,37,character,2,Villanelle,spies_on,character,122,Balice St Clair
+441,4,37,character,2,Villanelle,travels_to,location,301,St Pancras International
+442,4,38,character,2,Villanelle,travels_to,location,302,Chateau de Faycelles
+443,4,38,character,2,Villanelle,rivals_with,character,122,Balice St Clair
+444,4,38,character,2,Villanelle,attracted_to,character,122,Balice St Clair
+445,4,38,character,2,Villanelle,saves,character,122,Balice St Clair
+446,4,38,character,131,Johnny Fernandes,saves,character,2,Villanelle
+447,4,38,character,2,Villanelle,lover_of,character,122,Balice St Clair
+448,4,38,character,122,Balice St Clair,informs,character,2,Villanelle
+449,4,38,character,124,Myrtha Willis,recruits,character,138,Sylvie
+450,4,39,character,131,Johnny Fernandes,supervises,character,2,Villanelle
+451,4,39,character,131,Johnny Fernandes,member_of,organization,1,The Twelve
+452,4,39,character,131,Johnny Fernandes,spies_on,character,122,Balice St Clair
+453,4,39,character,131,Johnny Fernandes,informs,character,2,Villanelle
+454,4,39,character,2,Villanelle,threatens,character,122,Balice St Clair
+455,4,39,character,122,Balice St Clair,deceives,character,2,Villanelle
+456,4,39,character,131,Johnny Fernandes,allies_with,character,127,Sergei
+457,4,40,character,122,Balice St Clair,attacks,character,2,Villanelle
+458,4,40,character,21,Eve Polastri,deceives,character,122,Balice St Clair
+459,4,41,character,2,Villanelle,confides_in,character,122,Balice St Clair
+460,4,41,character,2,Villanelle,threatens,character,122,Balice St Clair
+461,4,41,character,122,Balice St Clair,collaborates_with,character,2,Villanelle
+462,4,41,character,2,Villanelle,collaborates_with,character,131,Johnny Fernandes
+463,4,42,character,122,Balice St Clair,collaborates_with,character,2,Villanelle
+464,4,42,character,138,Sylvie,collaborates_with,character,2,Villanelle
+465,4,42,character,2,Villanelle,kills,character,123,Ron Tiberius
+466,4,42,character,124,Myrtha Willis,operates_at,location,298,Les Pivoines
+467,4,43,character,2,Villanelle,deceives,character,124,Myrtha Willis
+468,4,43,character,2,Villanelle,threatens,character,124,Myrtha Willis
+469,4,43,character,2,Villanelle,abducts,character,124,Myrtha Willis
+470,4,43,character,131,Johnny Fernandes,abducts,character,124,Myrtha Willis
+471,4,43,character,131,Johnny Fernandes,supervises,character,2,Villanelle
+472,4,44,character,2,Villanelle,deceives,character,122,Balice St Clair
+473,4,44,character,2,Villanelle,spies_on,character,122,Balice St Clair
+474,4,44,character,122,Balice St Clair,attracted_to,character,2,Villanelle
+475,4,44,character,131,Johnny Fernandes,informs,character,2,Villanelle
+476,4,44,character,2,Villanelle,collaborates_with,character,131,Johnny Fernandes
+477,4,45,character,2,Villanelle,threatens,character,122,Balice St Clair
+478,4,45,character,2,Villanelle,investigates,character,122,Balice St Clair
+479,4,45,character,122,Balice St Clair,orders_assassination_of,character,123,Ron Tiberius
+480,4,45,character,2,Villanelle,attracted_to,character,21,Eve Polastri
+481,4,46,character,131,Johnny Fernandes,collaborates_with,character,2,Villanelle
+482,4,46,character,21,Eve Polastri,saves,character,2,Villanelle
+483,4,46,character,2,Villanelle,attracted_to,character,21,Eve Polastri
+484,4,46,character,122,Balice St Clair,betrays,character,2,Villanelle
+485,4,46,character,122,Balice St Clair,attempts_to_kill,character,2,Villanelle
+486,4,47,character,21,Eve Polastri,lover_of,character,2,Villanelle
+487,4,47,character,21,Eve Polastri,informs,character,2,Villanelle
+488,4,47,character,2,Villanelle,attracted_to,character,21,Eve Polastri
+489,4,47,character,21,Eve Polastri,confides_in,character,2,Villanelle
+490,4,47,character,131,Johnny Fernandes,recruits,character,21,Eve Polastri
+491,4,47,character,122,Balice St Clair,threatens,character,21,Eve Polastri
+492,4,48,character,122,Balice St Clair,attempts_to_kill,character,21,Eve Polastri
+493,4,48,character,122,Balice St Clair,attracted_to,character,2,Villanelle
+494,4,48,character,122,Balice St Clair,spies_on,character,2,Villanelle
+495,4,48,character,21,Eve Polastri,lover_of,character,2,Villanelle
+496,4,48,character,2,Villanelle,works_for,organization,1,The Twelve
+497,4,49,character,131,Johnny Fernandes,supervises,character,2,Villanelle
+498,4,49,character,131,Johnny Fernandes,informs,character,21,Eve Polastri
+499,4,49,character,122,Balice St Clair,investigates,character,131,Johnny Fernandes
+500,4,49,character,122,Balice St Clair,recruits,character,143,Uttara Khedkar
+501,4,49,character,143,Uttara Khedkar,spies_on,character,131,Johnny Fernandes
+502,4,49,character,122,Balice St Clair,spies_on,character,21,Eve Polastri
+503,4,49,character,2,Villanelle,spies_on,character,122,Balice St Clair
+504,4,50,character,131,Johnny Fernandes,supervises,character,2,Villanelle
+505,4,50,character,131,Johnny Fernandes,supervises,character,127,Sergei Stepanenko
+506,4,50,character,122,Balice St Clair,spies_on,character,2,Villanelle
+507,4,50,character,144,Anastasia Dominik,collaborates_with,character,21,Eve Polastri
+508,4,50,character,21,Eve Polastri,investigates,character,141,Valentin Dominik
+509,4,50,character,21,Eve Polastri,lover_of,character,2,Villanelle
+510,4,51,character,122,Balice St Clair,married_to,character,145,Charlie St Clair
+511,4,51,character,122,Balice St Clair,deceives,character,145,Charlie St Clair
+512,4,51,character,122,Balice St Clair,attracted_to,character,2,Villanelle
+513,4,51,character,122,Balice St Clair,orders_assassination_of,character,21,Eve Polastri
+514,4,51,character,142,Nikolai Dominik,leads,character,141,Valentin Dominik
+515,4,51,character,2,Villanelle,deceives,character,127,Sergei Stepanenko
+516,4,51,character,127,Sergei Stepanenko,collaborates_with,character,142,Nikolai Dominik
+517,4,52,character,142,Nikolai Dominik,leads,character,141,Valentin Dominik
+518,4,52,character,2,Villanelle,confides_in,character,21,Eve Polastri
+519,4,52,character,21,Eve Polastri,lover_of,character,2,Villanelle
+520,4,52,character,2,Villanelle,friend_of,character,19,Anne-Laure Mercier
+521,4,53,character,122,Balice St Clair,attracted_to,character,2,Villanelle
+522,4,53,character,122,Balice St Clair,lover_of,character,147,Bilyana Ilieva
+523,4,53,character,122,Balice St Clair,orders_assassination_of,character,21,Eve Polastri
+524,4,54,character,21,Eve Polastri,spies_on,character,142,Nikolai Dominik
+525,4,54,character,142,Nikolai Dominik,leads,character,141,Valentin Dominik
+526,4,54,character,141,Valentin Dominik,friend_of,character,150,Nate Paget
+527,4,55,character,2,Villanelle,confides_in,character,21,Eve Polastri
+528,4,55,character,21,Eve Polastri,collaborates_with,character,2,Villanelle
+529,4,55,character,2,Villanelle,attracted_to,character,21,Eve Polastri
+530,4,55,character,142,Nikolai Dominik,confides_in,character,2,Villanelle
+531,4,56,character,131,Johnny Fernandes,supervises,character,147,Bilyana Ilieva
+532,4,56,character,147,Bilyana Ilieva,spies_on,character,122,Balice St Clair
+533,4,56,character,141,Valentin Dominik,confides_in,character,21,Eve Polastri
+534,4,56,character,2,Villanelle,attracted_to,character,21,Eve Polastri
+535,4,57,character,150,Nate Paget,friend_of,character,141,Valentin Dominik
+536,4,57,character,21,Eve Polastri,investigates,character,141,Valentin Dominik
+537,4,58,character,2,Villanelle,kills,character,153,Denis Borzhko
+538,4,58,character,21,Eve Polastri,attacks,character,154,Gyorgiy Peskov
+539,4,58,character,2,Villanelle,saves,character,21,Eve Polastri
+540,4,58,character,21,Eve Polastri,saves,character,141,Valentin Dominik
+541,4,58,character,2,Villanelle,collaborates_with,character,21,Eve Polastri
+542,4,58,character,131,Johnny Fernandes,collaborates_with,character,142,Nikolai Dominik
+543,4,58,character,122,Balice St Clair,investigates,character,131,Johnny Fernandes
+544,4,58,character,143,Uttara Khedkar,informs,character,122,Balice St Clair
+545,4,59,character,122,Balice St Clair,threatens,character,131,Johnny Fernandes
+546,4,59,character,122,Balice St Clair,investigates,character,127,Sergei Stepanenko
+547,4,59,character,122,Balice St Clair,attracted_to,character,2,Villanelle
+548,4,59,character,21,Eve Polastri,rivals_with,character,122,Balice St Clair
+549,4,59,character,2,Villanelle,lover_of,character,21,Eve Polastri
+550,4,59,character,122,Balice St Clair,allies_with,organization,1,The Twelve
+551,4,59,character,142,Nikolai Dominik,allies_with,character,122,Balice St Clair
+552,4,60,character,141,Valentin Dominik,confides_in,character,21,Eve Polastri
+553,4,60,character,21,Eve Polastri,investigates,character,141,Valentin Dominik
+554,4,60,character,21,Eve Polastri,rivals_with,character,122,Balice St Clair
+555,4,60,character,127,Sergei Stepanenko,recruits,character,141,Valentin Dominik
+556,4,61,character,122,Balice St Clair,deceives,character,142,Nikolai Dominik
+557,4,61,character,147,Bilyana Ilieva,spies_on,character,122,Balice St Clair
+558,4,61,character,21,Eve Polastri,lover_of,character,2,Villanelle
+559,4,61,character,21,Eve Polastri,investigates,character,141,Valentin Dominik
+560,4,62,character,142,Nikolai Dominik,informs,character,21,Eve Polastri
+561,4,62,character,141,Valentin Dominik,collaborates_with,character,140,Anna Volkonskaya
+562,4,62,character,2,Villanelle,lover_of,character,21,Eve Polastri
+563,4,62,character,147,Bilyana Ilieva,confides_in,character,122,Balice St Clair
+564,4,62,character,147,Bilyana Ilieva,recruits,character,122,Balice St Clair
+565,4,62,character,122,Balice St Clair,allies_with,character,147,Bilyana Ilieva
+566,4,63,character,2,Villanelle,lover_of,character,21,Eve Polastri
+567,4,63,character,2,Villanelle,saves,character,141,Valentin Dominik
+568,4,63,character,122,Balice St Clair,lover_of,character,147,Bilyana Ilieva
+569,4,63,character,122,Balice St Clair,attracted_to,character,2,Villanelle
+570,4,63,character,122,Balice St Clair,spies_on,character,142,Nikolai Dominik
+571,4,63,character,122,Balice St Clair,supervises,character,147,Bilyana Ilieva
+572,4,63,character,147,Bilyana Ilieva,spies_on,character,21,Eve Polastri
+573,4,64,character,122,Balice St Clair,spies_on,character,141,Valentin Dominik
+574,4,64,character,122,Balice St Clair,deceives,character,144,Anastasia Dominik
+575,4,64,character,2,Villanelle,saves,character,141,Valentin Dominik
+576,4,64,character,2,Villanelle,confides_in,character,21,Eve Polastri
+577,4,64,character,21,Eve Polastri,lover_of,character,2,Villanelle
+578,4,64,character,21,Eve Polastri,collaborates_with,character,2,Villanelle
+579,4,64,character,2,Villanelle,works_for,organization,1,The Twelve
+580,4,65,character,2,Villanelle,threatens,character,122,Balice St Clair
+581,4,65,character,122,Balice St Clair,attracted_to,character,2,Villanelle
+582,4,65,character,141,Valentin Dominik,confides_in,character,21,Eve Polastri
+583,4,65,character,21,Eve Polastri,saves,character,141,Valentin Dominik
+584,4,65,character,21,Eve Polastri,lover_of,character,2,Villanelle
+585,4,65,character,154,Gyorgiy Peskov,threatens,character,141,Valentin Dominik
+586,4,66,character,21,Eve Polastri,saves,character,141,Valentin Dominik
+587,4,66,character,154,Gyorgiy Peskov,attacks,character,141,Valentin Dominik
+588,4,66,character,21,Eve Polastri,kills,character,154,Gyorgiy Peskov
+589,4,66,character,2,Villanelle,lover_of,character,21,Eve Polastri
+590,4,66,character,131,Johnny Fernandes,supervises,character,2,Villanelle
+591,4,67,character,131,Johnny Fernandes,informs,character,21,Eve Polastri
+592,4,67,character,131,Johnny Fernandes,collaborates_with,character,122,Balice St Clair
+593,4,67,character,2,Villanelle,orders_assassination_of,character,122,Balice St Clair
+594,4,67,character,131,Johnny Fernandes,supervises,character,2,Villanelle
+595,4,67,character,21,Eve Polastri,rivals_with,character,122,Balice St Clair
+596,4,67,character,21,Eve Polastri,attacks,character,122,Balice St Clair
+597,4,67,character,147,Bilyana Ilieva,spies_on,character,122,Balice St Clair
+598,4,68,character,2,Villanelle,deceives,character,21,Eve Polastri
+599,4,68,character,144,Anastasia Dominik,confides_in,character,21,Eve Polastri
+600,4,68,character,21,Eve Polastri,confides_in,character,144,Anastasia Dominik
+601,4,68,character,122,Balice St Clair,lover_of,character,147,Bilyana Ilieva
+602,4,68,character,147,Bilyana Ilieva,deceives,character,21,Eve Polastri
+603,4,68,character,147,Bilyana Ilieva,spies_on,character,21,Eve Polastri
+604,4,69,character,147,Bilyana Ilieva,friend_of,character,21,Eve Polastri
+605,4,69,character,147,Bilyana Ilieva,lover_of,character,122,Balice St Clair
+606,4,69,character,21,Eve Polastri,rivals_with,character,122,Balice St Clair
+607,4,69,character,21,Eve Polastri,lover_of,character,2,Villanelle
+608,4,70,character,142,Nikolai Dominik,supervises,character,21,Eve Polastri
+609,4,70,character,21,Eve Polastri,investigates,character,2,Villanelle
+610,4,70,character,159,Vyacheslav Golovkin,works_for,character,140,Anna Volkonskaya
+611,4,70,character,159,Vyacheslav Golovkin,supervises,character,122,Balice St Clair
+612,4,70,character,147,Bilyana Ilieva,spies_on,character,21,Eve Polastri
+613,4,70,character,147,Bilyana Ilieva,lover_of,character,122,Balice St Clair
+614,4,70,character,122,Balice St Clair,spies_on,character,21,Eve Polastri
+615,4,70,character,21,Eve Polastri,deceives,character,122,Balice St Clair
+616,4,70,character,21,Eve Polastri,lover_of,character,2,Villanelle
+617,4,71,character,2,Villanelle,lover_of,character,21,Eve Polastri
+618,4,71,character,2,Villanelle,saves,character,141,Valentin Dominik
+619,4,71,character,21,Eve Polastri,collaborates_with,character,2,Villanelle
+620,4,71,character,141,Valentin Dominik,confides_in,character,21,Eve Polastri
+621,4,71,character,147,Bilyana Ilieva,spies_on,character,122,Balice St Clair
+622,4,71,character,147,Bilyana Ilieva,lover_of,character,122,Balice St Clair
+623,4,71,character,122,Balice St Clair,attracted_to,character,2,Villanelle
+624,4,72,character,2,Villanelle,lover_of,character,21,Eve Polastri
+625,4,72,character,21,Eve Polastri,confides_in,character,2,Villanelle
+626,4,72,character,147,Bilyana Ilieva,lover_of,character,122,Balice St Clair
+627,4,72,character,147,Bilyana Ilieva,spies_on,character,122,Balice St Clair
+628,4,72,character,2,Villanelle,informs,character,21,Eve Polastri
+629,4,72,character,131,Johnny Fernandes,deceives,character,2,Villanelle
+630,4,72,character,2,Villanelle,lover_of,character,21,Eve Polastri
+631,5,73,character,2,Villanelle,deceives,character,21,Eve Polastri
+632,5,73,character,2,Villanelle,lover_of,character,21,Eve Polastri
+633,5,74,character,21,Eve Polastri,lover_of,character,2,Villanelle
+634,5,74,character,2,Villanelle,works_for,organization,1,The Twelve
+635,5,74,character,21,Eve Polastri,works_for,organization,1,The Twelve
+636,5,74,character,131,Johnny Fernandes,supervises,character,2,Villanelle
+637,5,74,character,131,Johnny Fernandes,supervises,character,21,Eve Polastri
+638,5,74,character,21,Eve Polastri,confides_in,character,2,Villanelle
+639,5,74,character,2,Villanelle,deceives,character,21,Eve Polastri
+640,5,75,character,2,Villanelle,lover_of,character,21,Eve Polastri
+641,5,75,character,21,Eve Polastri,lover_of,character,2,Villanelle
+642,5,75,character,2,Villanelle,confides_in,character,21,Eve Polastri
+643,5,75,character,23,Niko Polastri,rivals_with,character,21,Eve Polastri
+644,5,75,character,160,Dido,lover_of,character,23,Niko Polastri
+645,5,75,character,21,Eve Polastri,married_to,character,23,Niko Polastri
+646,5,75,character,21,Eve Polastri,collaborates_with,character,2,Villanelle
+647,5,76,character,131,Johnny Fernandes,collaborates_with,character,21,Eve Polastri
+648,5,76,character,131,Johnny Fernandes,collaborates_with,character,2,Villanelle
+649,5,76,character,131,Johnny Fernandes,informs,character,21,Eve Polastri
+650,5,76,character,2,Villanelle,spies_on,character,143,Uttara Khedkar
+651,5,76,character,122,Balice St Clair,spies_on,character,131,Johnny Fernandes
+652,5,76,character,2,Villanelle,lover_of,character,21,Eve Polastri
+653,5,77,character,161,Majid Ismailov,parent_of,character,162,Shirin Ismailova
+654,5,77,character,161,Majid Ismailov,parent_of,character,163,Farad Ismailov
+655,5,77,character,162,Shirin Ismailova,sibling_of,character,163,Farad Ismailov
+656,5,77,character,163,Farad Ismailov,travels_to,location,351,Caspian's
+657,5,77,character,150,Nate Paget,owns,location,351,Caspian's
+658,5,77,character,165,Crispin Vale,owns,location,351,Caspian's
+659,5,77,character,167,Mimi Stackridge,attracted_to,character,163,Farad Ismailov
+660,5,77,character,150,Nate Paget,threatens,character,163,Farad Ismailov
+661,5,77,character,163,Farad Ismailov,attracted_to,character,167,Mimi Stackridge
+662,5,77,character,150,Nate Paget,rivals_with,character,163,Farad Ismailov
+663,5,78,character,21,Eve Polastri,allies_with,character,122,Balice St Clair
+664,5,78,character,2,Villanelle,attracted_to,character,122,Balice St Clair
+665,5,78,character,2,Villanelle,spies_on,character,122,Balice St Clair
+666,5,78,character,21,Eve Polastri,informs,character,122,Balice St Clair
+667,5,78,character,147,Bilyana Ilieva,works_for,organization,23,MI6
+668,5,78,character,122,Balice St Clair,lover_of,character,147,Bilyana Ilieva
+669,5,78,character,2,Villanelle,lover_of,character,21,Eve Polastri
+670,5,79,character,131,Johnny Fernandes,informs,character,21,Eve Polastri
+671,5,79,character,122,Balice St Clair,recruits,character,21,Eve Polastri
+672,5,79,character,161,Majid Ismailov,owns,organization,55,Buxor
+673,5,79,character,161,Majid Ismailov,married_to,character,168,Gulnara Ismailova
+674,5,79,character,169,Adam Shaw,informs,character,21,Eve Polastri
+675,5,79,character,169,Adam Shaw,works_for,organization,23,MI6
+676,5,79,character,169,Adam Shaw,reports_to,character,122,Balice St Clair
+677,5,79,character,169,Adam Shaw,informs,character,2,Villanelle
+678,5,79,character,122,Balice St Clair,investigates,character,161,Majid Ismailov
+679,5,80,character,21,Eve Polastri,attracted_to,character,2,Villanelle
+680,5,80,character,2,Villanelle,attracted_to,character,21,Eve Polastri
+681,5,80,character,2,Villanelle,collaborates_with,character,21,Eve Polastri
+682,5,80,character,2,Villanelle,travels_to,location,359,Great Ditton
+683,5,80,character,21,Eve Polastri,travels_to,location,359,Great Ditton
+684,5,81,character,161,Majid Ismailov,collaborates_with,character,2,Villanelle
+685,5,81,character,2,Villanelle,confides_in,character,21,Eve Polastri
+686,5,81,character,2,Villanelle,lover_of,character,21,Eve Polastri
+687,5,81,character,161,Majid Ismailov,informs,character,2,Villanelle
+688,5,81,character,2,Villanelle,investigates,character,161,Majid Ismailov
+689,5,81,character,161,Majid Ismailov,collaborates_with,character,122,Balice St Clair
+690,5,82,character,163,Farad Ismailov,attracted_to,character,167,Mimi Stackridge
+691,5,82,character,163,Farad Ismailov,confides_in,character,167,Mimi Stackridge
+692,5,83,character,162,Shirin Ismailova,informs,character,2,Villanelle
+693,5,83,character,162,Shirin Ismailova,confides_in,character,21,Eve Polastri
+694,5,83,character,2,Villanelle,investigates,character,162,Shirin Ismailova
+695,5,83,character,170,Josh Riordan,works_for,character,161,Majid Ismailov
+696,5,84,character,163,Farad Ismailov,attracted_to,character,167,Mimi Stackridge
+697,5,85,character,162,Shirin Ismailova,informs,character,2,Villanelle
+698,5,85,character,162,Shirin Ismailova,friend_of,character,2,Villanelle
+699,5,85,character,2,Villanelle,investigates,character,161,Majid Ismailov
+700,5,85,character,172,Joe,works_for,character,170,Josh Riordan
+701,5,86,character,21,Eve Polastri,investigates,character,170,Josh Riordan
+702,5,86,character,2,Villanelle,investigates,character,170,Josh Riordan
+703,5,86,character,170,Josh Riordan,informs,character,21,Eve Polastri
+704,5,86,character,170,Josh Riordan,works_for,character,161,Majid Ismailov
+705,5,86,character,21,Eve Polastri,collaborates_with,character,2,Villanelle
+706,5,87,character,2,Villanelle,friend_of,character,161,Majid Ismailov
+707,5,87,character,21,Eve Polastri,investigates,character,161,Majid Ismailov
+708,5,87,character,21,Eve Polastri,informs,character,162,Shirin Ismailova
+709,5,87,character,162,Shirin Ismailova,confides_in,character,21,Eve Polastri
+710,5,88,character,21,Eve Polastri,lover_of,character,2,Villanelle
+711,5,88,character,21,Eve Polastri,investigates,character,163,Farad Ismailov
+712,5,89,character,2,Villanelle,lover_of,character,21,Eve Polastri
+713,5,89,character,2,Villanelle,confides_in,character,21,Eve Polastri
+714,5,89,character,2,Villanelle,investigates,character,162,Shirin Ismailova
+715,5,90,character,162,Shirin Ismailova,trains,character,2,Villanelle
+716,5,90,character,2,Villanelle,friend_of,character,162,Shirin Ismailova
+717,5,90,character,172,Joe,friend_of,character,2,Villanelle
+718,5,90,character,172,Joe,works_for,character,170,Josh Riordan
+719,5,91,character,21,Eve Polastri,investigates,character,163,Farad Ismailov
+720,5,91,character,163,Farad Ismailov,informs,character,21,Eve Polastri
+721,5,91,character,163,Farad Ismailov,friend_of,character,173,Oliver Reynolds
+722,5,92,character,161,Majid Ismailov,informs,character,2,Villanelle
+723,5,92,character,2,Villanelle,investigates,character,161,Majid Ismailov
+724,5,92,character,2,Villanelle,collaborates_with,character,161,Majid Ismailov
+725,5,93,character,162,Shirin Ismailova,collaborates_with,character,2,Villanelle
+726,5,93,character,162,Shirin Ismailova,confides_in,character,2,Villanelle
+727,5,94,character,21,Eve Polastri,reports_to,character,122,Balice St Clair
+728,5,94,character,169,Adam Shaw,informs,character,21,Eve Polastri
+729,5,94,character,169,Adam Shaw,deceives,character,21,Eve Polastri
+730,5,94,character,122,Balice St Clair,confides_in,character,21,Eve Polastri
+731,5,94,character,122,Balice St Clair,friend_of,character,21,Eve Polastri
+732,5,95,character,176,Wayne,threatens,character,2,Villanelle
+733,5,95,character,2,Villanelle,kills,character,176,Wayne
+734,5,96,character,21,Eve Polastri,informs,character,2,Villanelle
+735,5,96,character,2,Villanelle,deceives,character,21,Eve Polastri
+736,5,97,character,2,Villanelle,confides_in,character,21,Eve Polastri
+737,5,97,character,21,Eve Polastri,investigates,character,2,Villanelle
+738,5,97,character,2,Villanelle,deceives,character,21,Eve Polastri
+739,5,98,character,162,Shirin Ismailova,threatens,character,2,Villanelle
+740,5,98,character,21,Eve Polastri,leads,character,162,Shirin Ismailova
+741,5,98,character,2,Villanelle,collaborates_with,character,21,Eve Polastri
+742,5,99,character,163,Farad Ismailov,informs,character,150,Nate Paget
+743,5,99,character,167,Mimi Stackridge,friend_of,character,163,Farad Ismailov
+744,5,99,character,163,Farad Ismailov,confides_in,character,167,Mimi Stackridge
+745,5,100,character,21,Eve Polastri,collaborates_with,character,162,Shirin Ismailova
+746,5,100,character,2,Villanelle,leads,character,177,Azim
+747,5,100,character,2,Villanelle,leads,character,178,Zafar
+748,5,100,character,2,Villanelle,investigates,character,163,Farad Ismailov
+749,5,100,character,161,Majid Ismailov,orders,character,177,Azim
+750,5,101,character,2,Villanelle,confides_in,character,21,Eve Polastri
+751,5,101,character,2,Villanelle,allies_with,character,177,Azim
+752,5,101,character,2,Villanelle,allies_with,character,178,Zafar
+753,5,102,character,2,Villanelle,deceives,character,21,Eve Polastri
+754,5,102,character,21,Eve Polastri,informs,character,131,Johnny Fernandes
+755,5,103,character,161,Majid Ismailov,investigates,character,179,Viktor Batyrshin
+756,5,103,character,161,Majid Ismailov,orders,character,162,Shirin Ismailova
+757,5,103,character,21,Eve Polastri,investigates,character,179,Viktor Batyrshin
+758,5,103,character,2,Villanelle,attacks,character,21,Eve Polastri
+759,5,103,character,179,Viktor Batyrshin,informs,character,161,Majid Ismailov
+760,5,103,character,180,Rustam Dzhuraev,recruits,character,179,Viktor Batyrshin
+761,5,103,character,180,Rustam Dzhuraev,friend_of,character,163,Farad Ismailov
+762,5,103,character,171,Davy McPhee,informs,character,161,Majid Ismailov
+763,5,104,character,2,Villanelle,deceives,character,21,Eve Polastri
+764,5,104,character,162,Shirin Ismailova,friend_of,character,21,Eve Polastri
+765,5,104,character,181,Pete,informs,character,161,Majid Ismailov
+766,5,104,character,162,Shirin Ismailova,informs,character,161,Majid Ismailov
+767,5,105,character,2,Villanelle,investigates,character,163,Farad Ismailov
+768,5,105,character,2,Villanelle,confides_in,character,122,Balice St Clair
+769,5,105,character,122,Balice St Clair,investigates,character,2,Villanelle
+770,5,105,character,2,Villanelle,informs,character,21,Eve Polastri
+771,5,105,character,122,Balice St Clair,orders,character,2,Villanelle
+772,5,105,character,2,Villanelle,threatens,character,122,Balice St Clair
+773,5,105,character,2,Villanelle,deceives,character,122,Balice St Clair
+774,5,106,character,161,Majid Ismailov,threatens,character,173,Oliver Reynolds
+775,5,106,character,173,Oliver Reynolds,informs,character,161,Majid Ismailov
+776,5,106,character,21,Eve Polastri,investigates,character,173,Oliver Reynolds
+777,5,107,character,183,Captain Gladstone,supervises,character,2,Villanelle
+778,5,108,character,163,Farad Ismailov,lover_of,character,167,Mimi Stackridge
+779,5,108,character,161,Majid Ismailov,investigates,character,163,Farad Ismailov
+780,5,108,character,162,Shirin Ismailova,informs,character,167,Mimi Stackridge
+781,5,109,character,122,Balice St Clair,informs,character,2,Villanelle
+782,5,110,character,161,Majid Ismailov,supervises,character,163,Farad Ismailov
+783,5,110,character,163,Farad Ismailov,lover_of,character,167,Mimi Stackridge
+784,5,110,character,163,Farad Ismailov,deceives,character,167,Mimi Stackridge
+785,5,111,character,2,Villanelle,confides_in,character,183,Captain Gladstone
+786,5,111,character,183,Captain Gladstone,collaborates_with,character,122,Balice St Clair
+787,5,111,character,183,Captain Gladstone,trains,character,2,Villanelle
+788,5,112,character,21,Eve Polastri,friend_of,character,162,Shirin Ismailova
+789,5,113,character,21,Eve Polastri,confides_in,character,185,Shiki Goto
+790,5,113,character,184,Philippe Devereaux,attracted_to,character,21,Eve Polastri
+791,5,113,character,162,Shirin Ismailova,informs,character,21,Eve Polastri
+792,5,115,character,170,Josh Riordan,supervises,character,172,Joe Duffy
+793,5,118,character,183,Captain Gladstone,member_of,character,1,The Twelve
+794,5,118,character,183,Captain Gladstone,saves,character,2,Villanelle
+795,5,118,character,183,Captain Gladstone,recruits,character,2,Villanelle
+796,5,119,character,161,Majid Ismailov,leads,character,162,Shirin Ismailova
+797,5,119,character,21,Eve Polastri,lover_of,character,2,Villanelle
+798,5,119,character,21,Eve Polastri,saves,character,161,Majid Ismailov
+799,5,119,character,179,Viktor Batyrshin,attacks,character,161,Majid Ismailov
+800,5,119,character,179,Viktor Batyrshin,attacks,character,21,Eve Polastri
+801,5,120,character,161,Majid Ismailov,confides_in,character,21,Eve Polastri
+802,5,120,character,2,Villanelle,lover_of,character,21,Eve Polastri
+803,5,120,character,2,Villanelle,informs,character,21,Eve Polastri
+804,5,120,character,162,Shirin Ismailova,betrays,character,161,Majid Ismailov
+805,5,120,character,162,Shirin Ismailova,lover_of,character,180,Rustam Dzhuraev
+806,5,120,character,131,Johnny Fernandes,informs,character,21,Eve Polastri
+807,5,121,character,122,Balice St Clair,informs,character,21,Eve Polastri
+808,5,121,character,122,Balice St Clair,lover_of,character,147,Bilyana Ilieva
+809,5,121,character,122,Balice St Clair,confides_in,character,2,Villanelle
+810,5,122,character,2,Villanelle,lover_of,character,21,Eve Polastri
+811,5,122,character,2,Villanelle,deceives,character,21,Eve Polastri

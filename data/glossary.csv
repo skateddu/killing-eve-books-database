@@ -1,0 +1,335 @@
+id,term,category,description
+1,Vernaccia,food_drink,"Dry white wine from San Gimignano, Tuscany. Typically served chilled."
+2,omertà,cultural_reference,The Mafia code of silence.
+3,Grey Goose vodka Martini,food_drink,"Cocktail made with Grey Goose premium French vodka, served as a Martini."
+4,Louboutins,cultural_reference,"Luxury shoes by Christian Louboutin, recognisable by their signature red soles."
+5,DEFLECT,technical_term,One-word coded text from Konstantin meaning abort or disengage.
+6,shiza,slang,Prison slang for solitary confinement at Dobryanka remand centre.
+7,Spetsnaz,technical_term,"Russian special forces (Войска специального назначения). Elite military units used for reconnaissance, counter-terrorism, and covert operations."
+8,steganography,technical_term,"The science of concealing secret information within computer files, such as hiding data in JPEG images."
+9,consigliere,title_rank,Mafia adviser or counsellor. Senior figure within a crime family who provides strategic guidance to the boss.
+10,Systema Spetsnaz,technical_term,"Russian military martial art (Система). Combines hand-to-hand combat, grappling, and weapon disarming. Developed within Russian special forces."
+11,angliski ublyodok,slang,Russian insult meaning English bastard (английский ублюдок).
+12,Gerber knife,weapon,Combat knife with an eight-inch blade used by Frank during training.
+13,Dragunov,weapon,Standard-issue Russian semi-automatic sniper rifle (СВД). Widely used by Russian military and trained marksmen.
+14,VSS,weapon,"Special Sniper Rifle (Vintovka Snayperskaya Spetsialnaya). Lightweight weapon with an integral silencer, ideal for urban use. Effective at ranges up to four hundred metres."
+15,Villanelle perfume,proper_name,"Perfume with fresh top notes and darker amber base notes, distinguished by a scarlet ribbon at its neck. Created by Maison Joliot, originally the favourite scent of the Comtesse du Barry."
+16,Comtesse du Barry,proper_name,"Jeanne Bécu, Comtesse du Barry (1743-1793), the last royal mistress of Louis XV. Guillotined during the Revolution. Her favourite scent, created by Maison Joliot, was called Villanelle."
+17,prêt-à-porter,cultural_reference,"Ready-to-wear fashion (French), as distinct from haute couture. Mass-produced designer clothing available in standard sizes."
+18,Ruger,weapon,Lightweight automatic pistol with an integrated Gemtech suppressor. Chambered in .22 calibre low-velocity rounds.
+19,SP-5 round,weapon,Subsonic 9x39mm ammunition designed for the VSS rifle. Effective at ranges up to 400 metres with suppressed report.
+20,Il bacio di Tosca,cultural_reference,"Italian: Toscas kiss. From Puccinis opera Tosca, the phrase accompanies the climactic moment when Tosca stabs the police chief Scarpia."
+21,frappato,food_drink,"Light Sicilian red wine grape variety, producing fresh, fruity wines. Often served slightly chilled."
+22,Don,title_rank,"Mafia honorific title of respect, used to address senior figures within a crime family."
+23,etorphine,technical_term,"Veterinary-strength synthetic opioid, thousands of times more potent than morphine. Capable of inducing immediate paralysis when injected."
+24,MV Agusta,cultural_reference,"Italian premium motorcycle manufacturer, known for high-performance sport bikes."
+25,Beretta Storm 9mm,weapon,Semi-automatic pistol carried by Leoluca Messina in a shoulder holster.
+26,exfiltration,technical_term,Tactical withdrawal from hostile territory after completing a mission.
+27,Psyche Revived by Cupid's Kiss,cultural_reference,"Life-sized white marble sculpture by Antonio Canova (c. 1787-1793). Depicts Psyche awakening and reaching upward to her winged lover Cupid. Housed in the Louvre, Paris."
+28,ormolu,technical_term,"Gilded bronze or brass used in decorative arts, particularly for clocks, furniture mounts, and ornamental objects."
+29,shlyukha,slang,Russian vulgar term for a prostitute or whore.
+30,Makarov,weapon,"Russian semi-automatic service pistol (ПМ), standard military and police sidearm from 1951. Chambered in 9x18mm Makarov."
+31,HST,technical_term,"High Security Threat list. Database of known international contract killers circulating among friendly intelligence services, including the Russian FSB and Pakistani CID."
+32,FN P90,weapon,"Belgian-made 5.7x28mm sub-machine gun manufactured by FN Herstal. Compact bullpup design, widely used by military and law enforcement."
+33,pierogi,food_drink,"Polish dumpling dish, typically filled with potato, cheese, meat, or sauerkraut. A staple of Polish cuisine."
+34,myszka,slang,"Polish for little mouse (myszka). An affectionate diminutive, used as a term of endearment or gentle teasing."
+35,hollowpoint,weapon,"Jacketed hollow point ammunition, designed to expand on impact and remain within the target body rather than passing through. Delivers massive kinetic shock."
+36,A4 watcher team,technical_term,"Elite MI5 mobile surveillance unit. A4 teams conduct covert physical surveillance, following targets on foot and by vehicle."
+37,pavement artist,technical_term,"Intelligence tradecraft slang for a surveillance operative who follows targets on foot, blending into street-level pedestrian traffic."
+38,Evochka,proper_name,"Russian-style diminutive of the name Eve (Евочка). An affectionate, intimate form typically used between close family or lovers."
+39,Izvestiya,cultural_reference,"Major Russian daily newspaper (Известия), one of the oldest in Russia. Founded in 1917."
+40,The Rooks Have Come Back,cultural_reference,"Landscape painting (1871) by Alexei Savrasov, depicting a frozen pond, distant monastery, and rooks building nests in birch trees. Iconic work of Russian realism, symbolising the arrival of spring."
+41,CZ 75,weapon,"Czech semi-automatic 9mm handgun, widely regarded as one of the finest combat pistols. Available in polymer-bodied variants. Compatible with suppressors."
+42,Chernaya Roza,weapon,"Black Rose (Чёрная Роза). Russian-made 9mm hollowpoint ammunition with an oxidised copper jacket whose six sections peel back like petals on impact, causing massive tissue disruption."
+43,Akhmatova,cultural_reference,"Anna Akhmatova (1889-1966), major Russian poet. Known for Requiem and other works exploring suffering, love, and endurance under Soviet repression. The verse I drink to our ruined home / And to lifes evils, too is from her poem The Last Toast."
+44,Staraya Moskva,food_drink,"Russian vodka brand (Старая Москва, meaning Old Moscow)."
+45,COBRA,technical_term,"Cabinet Office Briefing Room A. The UK governments emergency response committee, convened during national security crises."
+46,Tyvek,technical_term,"White protective coverall made from synthetic material, worn at crime scenes to prevent contamination of evidence."
+47,kompromat,technical_term,Russian term (компромат) for compromising material collected and used for blackmail or political leverage. A staple of Russian intelligence tradecraft.
+48,Moscow rules,technical_term,"Intelligence tradecraft jargon for the highest level of operational security, as if operating in hostile territory. Protocols include: discuss nothing outside your team, use no electronic communications, assume constant surveillance."
+49,spear-phishing,technical_term,"Targeted cyber attack in which a fraudulent email is sent to a specific individual, impersonating a trusted source and containing a malicious link or attachment to gain unauthorised access to computer systems."
+50,ZeroT,technical_term,Remote-access downloader tool used in cyber espionage. Infiltrates corporate and military systems via spear-phishing attacks.
+51,gweipo,slang,Cantonese term (鬼婆) for a foreign (white) woman. Can be neutral or mildly derogatory depending on context.
+52,Manon Lescaut,cultural_reference,"Puccini opera based on Abbe Prevost novel about a young woman torn between love and luxury. A recurring cultural touchstone in the series, attended by characters at different points in their lives."
+53,qipao,cultural_reference,"Traditional Chinese one-piece dress (旗袍), form-fitting with a high collar and side slits. A classic of Chinese fashion."
+54,hairy crabs,food_drink,"Shanghai seasonal delicacy. Expensive freshwater crabs (大闸蟹), prized for their rich roe, typically available in autumn."
+55,kuai,slang,"Chinese informal term for yuan (renminbi), the currency of China. Equivalent to saying quid or buck."
+56,Silver Needle,food_drink,"Premium Chinese white tea (白毫银针) from Fuding Province. Made from unopened buds, producing a delicate, subtle flavour."
+57,Kosmos,cultural_reference,"Russian cigarette brand (Космос), popular in Soviet and post-Soviet era."
+58,cut-out,technical_term,Espionage term for an intermediary or buffer used to protect the identities of those involved in a covert operation. Prevents direct contact between agents and their handlers.
+59,chukabocho,weapon,"Chinese cleaver (菜刀) with a heavy carbon-steel blade and wooden handle. A versatile kitchen tool used for chopping, slicing, and mincing."
+60,The Goddess,cultural_reference,"1934 Chinese silent film made in Shanghai, starring Ruan Lingyu (1910-1935). Praised for its ability to convey great emotion through facial expression and movement alone."
+61,Gang of Four,cultural_reference,English post-punk band formed in Leeds in 1977. The name references the infamous Chinese political faction of the same name.
+62,moy vrag,cultural_reference,Russian phrase meaning my enemy (мой враг).
+63,Glock 19,weapon,Compact 9mm semi-automatic pistol manufactured by Austrian company Glock. Standard sidearm for many law enforcement and intelligence agencies.
+64,Hédiard,food_drink,"Prestigious Parisian luxury grocery and tea house founded in 1854, known for premium coffees, teas, and gourmet products."
+65,number station,technical_term,Shortwave radio station that broadcasts encrypted messages via five-digit number groups. Used by intelligence services to communicate with agents in the field.
+66,one-time pad,technical_term,"Cryptographic method using a pre-shared single-use key to decrypt encoded messages. Each key is used only once, making the cipher theoretically unbreakable. Typically printed on thin paper for easy concealment and destruction."
+67,SIG Sauer P226,weapon,"Swiss-German semi-automatic pistol, widely used by military and law enforcement. Available in 9mm, .40 S&W, and .357 SIG calibres."
+68,solyanka,food_drink,"Thick, spicy Russian soup made with meat, pickles, olives, and capers in a tomato-based broth."
+69,borscht,food_drink,"Ukrainian and Russian beetroot soup, typically served hot with sour cream. One of the most iconic dishes of Eastern European cuisine."
+70,pirozhki,food_drink,"Small Russian filled buns (пирожки), baked or fried, with savoury or sweet fillings such as meat, cabbage, potato, or jam."
+71,Sevodnya,proper_name,"Russian-language tabloid newspaper (Сегодня, meaning Today)."
+72,Sea of Souls,cultural_reference,Online role-player game mentioned by Billy Primrose.
+73,KRISS Vector,weapon,"Sub-machine gun chambered for .45 ACP rounds, featuring an innovative recoil mitigation system that reduces muzzle climb."
+74,Nomex,technical_term,"Flame-resistant synthetic fabric developed by DuPont. Used for tactical coveralls, flight suits, and protective gear."
+75,Little Bird,technical_term,"Light military helicopter (MH-6), used for special operations insertions and extractions. Compact and manoeuvrable."
+76,Lobaev SVL,weapon,"Russian precision sniper rifle manufactured by Lobaev Arms, chambered for .408 Chey-Tac. Designed for extreme long-range accuracy."
+77,Glock 21,weapon,Full-size .45 ACP semi-automatic handgun manufactured by Austrian company Glock. Popular military and law enforcement sidearm.
+78,.408 Chey-Tac,weapon,"Long-range precision rifle cartridge, effective at ranges exceeding 2,000 metres. Designed for extreme-distance military sniping."
+79,PlastiCuffs,technical_term,"Disposable plastic restraint cuffs, used as a lightweight alternative to metal handcuffs."
+80,shufti,slang,British military slang for a quick look or inspection.
+81,Pantheon inscription,cultural_reference,"Latin inscription on the Pantheon in Rome: M·AGRIPPA·L·F·COS·TERTIVM·FECIT (Marcus Agrippa, son of Lucius, built this when consul for the third time). One of the most famous architectural inscriptions in the world."
+82,Ladurée,food_drink,"Famous Parisian patisserie founded in 1862, known for luxury macarons in flavours such as rose-petal and pistachio."
+83,haute couture,cultural_reference,"High-end custom fashion designed for individual clients, shown at exclusive invitation-only runway events."
+84,Negroni Sbagliato,food_drink,"Italian cocktail variant of the Negroni, made with sparkling wine (typically Prosecco) instead of gin, combined with Campari and sweet vermouth."
+85,Nigerian dwarf goats,cultural_reference,"Small breed of dairy goats originating from West Africa. Produce rich, high-butterfat milk despite their compact size (approximately 75 pounds)."
+86,motoscafo,cultural_reference,"Italian term for a motorboat or motor launch, commonly used in Venice as private water transport."
+87,devushka,cultural_reference,Russian term for a young woman or girl (девушка). Also used as an informal form of address.
+88,CZ automatic,weapon,Silenced CZ pistol used by Villanelle to shoot Rinat.
+89,aconitine,technical_term,"Plant-derived poison extracted from wolfsbane (aconite). Causes paraesthesia, convulsions, respiratory arrest, and heart failure. Can be absorbed through skin contact or ingestion."
+90,paraesthesia,technical_term,"Tingling or burning skin sensation, as if insects were crawling beneath the skin. A characteristic symptom of aconitine poisoning."
+91,detka,cultural_reference,"Russian term of endearment meaning baby or darling, conveying intimacy and affection."
+92,Bianco di Custoza,cultural_reference,"Italian white wine from the Custoza DOC area near Verona. A light, crisp blend typically featuring Garganega, Trebbiano, and Cortese grapes."
+93,anti-DNA Erase spray,technical_term,Forensic countermeasure spray used to destroy DNA traces on surfaces. Applied to vehicles and objects to prevent forensic identification.
+94,frutti di mare,food_drink,"Italian seafood platter, literally fruits of the sea. Typically includes shellfish, crustaceans, and other seafood served chilled on a tiered stand."
+95,kroshka,cultural_reference,"Russian term of endearment meaning sweetie or crumb, conveying affection and closeness."
+96,vory,slang,"Russian criminal underworld term referring to thieves-in-law (воры в законе), members of the traditional Russian criminal hierarchy who follow a strict code of conduct. Singular: vor."
+97,Dvenadtsat,organization_name,Russian for twelve (двенадцать). The Russian-language name for the clandestine organisation known as the Twelve.
+98,canary in a coal mine,cultural_reference,Key metaphor used by Tikhomirov in relation to Eve. He sends her an illustration of a caged canary. Eve is used as bait by MI6.
+99,crypto-state,technical_term,Neologism coined by Tikhomirov to describe the Twelve: a new type of borderless crypto-state with its own economy and strategy.
+100,Domaine de la Romanee-Conti,food_drink,"Domaine de la Romanee-Conti (DRC). The finest, rarest, and most expensive red Burgundy in the world, from a single vineyard in Vosne-Romanee, Cote d Or."
+101,Van Diest,proper_name,Belgian luxury jewellery brand known for high-end pieces including rose gold bracelets with twin diamond settings.
+102,The Wind in the Willows,cultural_reference,"Classic 1908 childrens novel by Kenneth Grahame, set along an English river. Features the mystical chapter The Piper at the Gates of Dawn."
+103,Aleksandr Blok,proper_name,"Russian Symbolist poet (1880-1921). Author of Dvenadtsat (The Twelve), a poem about twelve Bolsheviks on a mystical quest through the streets of Petrograd at midnight in a snowstorm."
+104,safe house,technical_term,Secure refuge used by intelligence services for interrogations or protection.
+105,Charvet,cultural_reference,"Parisian couture house founded in 1838, specialising in bespoke ties and shirts. Located on the Place Vendome."
+106,Eileen Gray,cultural_reference,"Irish-French designer and architect (1878-1976), a pioneer of modernism. Known for the E-1027 house and iconic furniture designs such as the Bibendum chair."
+107,galani,food_drink,"Venetian fried pastries flavoured with grappa and vanilla, dusted with confectioner's sugar. A speciality of Venice."
+108,Felsnadel,place_name,"Luxury mountain hotel in the High Tauern, Austria, accessible only by helicopter."
+109,angliskaya suka,slang,Russian insult meaning English bitch (английская сука). A derogatory term combining nationality with a gendered slur.
+110,questura,technical_term,"Central police station of an Italian city. Each province has one, headed by the questore."
+111,questore,title_rank,Head of the local police in an Italian city. The senior law enforcement official of a province.
+112,vaporetto,technical_term,"Waterbus used in the Venetian public transport system, operating along the Grand Canal and to the lagoon islands."
+113,Laura Fracci,cultural_reference,Italian fashion brand specialising in elegant womens clothing.
+114,Nastro Azzurro,food_drink,Premium Italian lager brewed by Peroni.
+115,Elena Ferrante,cultural_reference,"Pseudonymous Italian novelist, known for the Neapolitan Novels tetralogy exploring the complex relationship between two women across decades."
+116,dummkopf,slang,German insult meaning stupid person or blockhead.
+117,schatz,slang,German term of endearment meaning treasure or darling.
+118,skuchniyy,slang,Russian adjective meaning boring or dull (скучный).
+119,tableau mort,cultural_reference,"French term meaning death tableau. A tableau vivant with a morbid or macabre subject, combining the tradition of living pictures with themes of mortality."
+120,blank cartridges,weapon,"Cartridges loaded with no projectile, used to simulate gunfire."
+121,sprezzatura,cultural_reference,Italian Renaissance concept of studied nonchalance or seemingly effortless elegance. Originally described by Baldassare Castiglione in The Book of the Courtier (1528).
+122,stolypin,technical_term,"Russian railway prison wagon used for transporting detainees, often in Siberian exile convoys."
+123,Pol Roger,food_drink,"French champagne house founded in 1849 in Epernay. Famously favoured by Winston Churchill, who had a cuvee named after him."
+124,verboten,slang,German for forbidden or prohibited.
+125,arschfotze,slang,"German vulgar insult, extremely offensive."
+126,Khriusha,cultural_reference,"Khriusha the Pig (Хрюша), a puppet character from the classic Russian childrens TV series Spokoynoy Nochi, Malyshi (Good Night, Little Ones)."
+127,natürlich,slang,German for naturally or of course.
+128,geil,slang,"German slang meaning hot, sexy, or cool. Common informal expression among young Germans."
+129,tak,slang,Polish for yes. Also used in Russian and other Slavic languages.
+130,ChVK,technical_term,"Chastnye Voennie Companiy. Russian private military companies used for overseas operations, both official and deniable. Under Russian law, deployment of ChVK personnel must be approved by parliament, but companies registered abroad circumvent this requirement."
+131,fag,cultural_reference,"In the traditional British public school system, a younger student who serves as personal servant to an older one — cleaning shoes, making tea, running errands."
+132,Bund Deutscher Mädel,cultural_reference,"League of German Girls, the female equivalent of the Hitler Youth (1930-1945). Members wore a uniform of blue skirt, short-sleeved white blouse, and black neckerchief secured by a leather woven knot."
+133,trachten,cultural_reference,"Traditional Bavarian high-buttoning jacket, part of Alpine folk dress. Worn at formal and festive occasions in German-speaking regions."
+134,fräulein,slang,"German for miss or young woman. A traditional form of address, now considered somewhat old-fashioned."
+135,Protocols of the Elders of Zion,cultural_reference,"Notorious anti-Semitic fabricated text, first published in Russia in 1903, purporting to describe a Jewish plan for world domination. Widely debunked as a forgery."
+136,Baltika,food_drink,"Russian beer brand (Балтика), one of the largest breweries in Eastern Europe. Produces a range of numbered lagers."
+137,Game of Life,cultural_reference,"Conways Game of Life, a cellular automaton devised by mathematician John Conway in 1970. The glider pattern — five cells arranged in a specific grid configuration — is widely used as a hacker emblem."
+138,Active Measures,technical_term,"Soviet/Russian intelligence term for political warfare operations including subversion, disinformation, propaganda, and assassination. Originally a KGB discipline, later taught at the Andropov Academy."
+139,bump key,technical_term,Tool for forcing pin tumbler locks. Villanelle carries one on her keyring alongside jigglers.
+140,embarras du choix,slang,"French for embarrassment of choice, meaning an overabundance of options making it difficult to decide."
+141,Admiralskaya,food_drink,"Russian vodka brand (Адмиральская, meaning Admirals)."
+142,Eva Braun,proper_name,"Eva Anna Paula Braun (1912-1945), companion and briefly wife of Adolf Hitler. Referenced as a historical figure in conversation."
+143,Sachertorte,food_drink,"Famous Viennese chocolate cake, created in 1832 by Franz Sacher. Dense chocolate sponge with apricot jam, covered in dark chocolate glaze."
+144,Obergruppenführer,title_rank,Nazi SS rank equivalent to general. The second-highest rank in the Schutzstaffel hierarchy.
+145,Ride the Tiger,cultural_reference,"Book by Julius Evola (1961), Italian fascist philosopher. Advocates an aristocratic detachment from modernity and spiritual resistance to the modern world."
+146,Fox-7,weapon,"High-performance military explosive (DADNE, 1,1-diamino-2,2-dinitroethylene). More powerful than RDX, with high thermal stability."
+147,do zavtra,slang,Russian farewell meaning until tomorrow (до завтра).
+148,eto khorosho,slang,Russian for thats good (это хорошо).
+149,dirndl,cultural_reference,"Traditional Alpine womens dress consisting of a laced-up bodice, white blouse with puff sleeves, frilled apron, and white knee socks."
+150,schwanz,slang,German for tail; vulgar slang for penis.
+151,anschluss,cultural_reference,"German for annexation or union, historically referring to Nazi Germanys 1938 annexation of Austria."
+152,Laika,cultural_reference,Soviet space dog launched into orbit in 1957 aboard Sputnik 2. The first animal to orbit Earth; she did not survive the mission.
+153,Posledniy Raz,cultural_reference,"Russian popular song (Последний Раз, meaning The Last Time). An infectious, widely-known tune."
+154,walkin,technical_term,Intelligence jargon for an agent or source who presents themselves voluntarily to an intelligence service. Lance explains his role in screening genuine walk-ins from unreliable ones.
+155,angliskiy spion,slang,Russian for English spy (английский шпион).
+156,Dobro pozhalovat na Lubyanku,slang,Russian for Welcome to the Lubyanka (Добро пожаловать на Лубянку). The Lubyanka is the historic headquarters of Russian security services in Moscow.
+157,zavtrak,slang,Russian for breakfast (завтрак).
+158,obuv,slang,Russian for shoes or footwear (обувь).
+159,torpedo,slang,Russian criminal and intelligence slang for a professional killer or hired shooter (торпеда).
+160,Soyuz nerushimy,cultural_reference,Opening words of the USSR national anthem: Soyuz nerushimy respublik svobodnykh (Unbreakable union of free republics). The melody was retained for the modern Russian anthem with new lyrics.
+161,mir teney,slang,"Russian for the shadow world (мир теней). The invisible world of espionage, assassination, and covert operations that exists parallel to ordinary life."
+162,putain,foreign_term,French vulgar expletive.
+163,false flag operation,technical_term,Intelligence tactic in which an operation is designed to appear as though conducted by another party.
+164,kotik,foreign_term,"Russian term of endearment (котик), literally meaning kitten."
+165,housekeeping,technical_term,Intelligence jargon for cleanup operations. Also the name of the Twelve assassination department.
+166,suka,foreign_term,"Russian vulgar insult (сука), literally meaning bitch."
+167,Ducati Multistrada 1260,technical_term,"Italian touring motorcycle by Ducati, powered by a Testastretta V-twin engine. Known for its versatility across road and off-road conditions."
+168,Kirovo-Chepetsk,proper_name,"Name of a Panamax-class container vessel. Kirovo-Chepetsk is also a city in Kirov Oblast, Russia."
+169,ménage à trois,cultural_reference,French expression for a sexual arrangement involving three people.
+170,Glock,weapon,Semi-automatic pistol manufactured by Glock.
+171,Sig Sauer,weapon,Semi-automatic pistol manufactured by SIG Sauer.
+172,Panamax,technical_term,Vessel classification indicating the maximum dimensions for transit through the Panama Canal. The Kirovo-Chepetsk is Panamax-class.
+173,suchka,slang,"Russian diminutive of suka (сучка), meaning little bitch. Used as a familiar insult or crude term of address."
+174,yebanutaya,foreign_term,"Russian vulgar insult (ебанутая), implying mental instability."
+175,pupsik,slang,"Russian term of endearment (пупсик), roughly equivalent to baby or sweetie."
+176,pozhaluysta,cultural_reference,Russian for please or you are welcome (пожалуйста).
+177,bolnaya na golovu,slang,"Russian for mentally ill, literally sick in the head (больная на голову). An informal way to say someone is crazy."
+178,vorovskoy mir,cultural_reference,"Russian term meaning the thieves world (воровской мир). The criminal underworld as a parallel society with its own hierarchy, traditions, and code of conduct."
+179,Anglichanka,cultural_reference,Russian term meaning an English woman (англичанка).
+180,Necksnapper,proper_name,A menacing nickname earned through a violent act. Used as a feared moniker in Russian criminal circles.
+181,ogromnaya blyat oshibka,slang,Russian expletive phrase meaning huge fucking mistake (огромная блять ошибка).
+182,vorovskoy zakon,cultural_reference,"Russian term for thieves law (воровской закон), the criminal code governing the vorovskoy mir. Includes obligations such as mutual protection, shelter, and loyalty between members bound by shared criminal history."
+183,vor,cultural_reference,"Rank in the Russian criminal hierarchy (вор), literally meaning thief. A fully initiated member of the criminal underworld."
+184,brigadier,title_rank,"Rank in the Russian criminal hierarchy (bratva), sitting below the Pakhan (supreme boss). A brigadier leads a brigade of soldiers (boyeviks)."
+185,Mikhailovsky Theatre,cultural_reference,"Prestigious theatre in St Petersburg, also known as the Mussorgsky Theatre. One of Russias oldest opera and ballet venues, founded in 1833."
+186,Radio Zenith,cultural_reference,Local current affairs radio channel in St Petersburg.
+187,Pakhan,title_rank,Supreme boss in the Russian criminal hierarchy (bratva). The title commands deference and strict protocol at formal gatherings.
+188,boyevik,title_rank,"Soldier or enforcer rank within a Russian bratva, below brigadier. The operational foot soldiers of the criminal organisation."
+189,bratva,cultural_reference,Russian criminal brotherhood (братва). The organisational unit of Russian organised crime.
+190,na pososhok,cultural_reference,"Russian drinking tradition: a final toast at the end of an evening, meaning one for the road (на посошок)."
+191,drozhala / drochila,slang,"Two similar-sounding Russian words with very different meanings: drozhala (дрожала, I trembled/shivered) and drochila (дрочила, I masturbated). A classic Russian language pitfall for non-native speakers."
+192,spasibo,cultural_reference,Russian for thank you (спасибо).
+193,Digoxin,technical_term,Cardiac medication used to treat atrial fibrillation and heart failure. Derived from the foxglove plant (Digitalis).
+194,Gazelle ambulance,technical_term,"Russian-made ambulance vehicle (ГАЗель). Commonly repurposed as ambulance-taxis by wealthy businessmen to beat city traffic, retaining emergency lights and sirens."
+195,pchelka,slang,Russian term of endearment meaning little bee (пчёлка).
+196,Ne govorim po Russki,slang,Russian phrase meaning we dont speak Russian (не говорим по-русски).
+197,Sozhaleyu,foreign_term,Russian word meaning sorry (Сожалею).
+198,Ty amerikanets?,foreign_term,Russian question meaning are you American? (Ты американец?).
+199,Hedgehog in the Fog,cultural_reference,"Soviet animated short film (Ёжик в тумане, 1975) by Yuri Norstein, regarded as a masterpiece of world animation. A hedgehog gets lost in fog while searching for a beautiful white horse, but eventually finds his friend bear cub and they count the stars together."
+200,baby bee,slang,English translation of pchelka (пчёлка). Russian-derived term of endearment meaning little bee.
+201,Kim Philby,cultural_reference,"Harold Adrian Russell Philby (1912-1988), British intelligence officer and double agent who spied for the Soviet Union."
+202,Serdyukov,weapon,"Russian semi-automatic pistol (СПС/Сердюков), designed as a military sidearm. Compact and reliable."
+203,Suvorov,cultural_reference,"Russian Field Marshal Alexander Suvorov (1729-1800), one of the greatest military commanders in history. Famous for the maxim Train hard, fight easy."
+204,Chateau Petrus,food_drink,"Legendary Bordeaux wine, one of the most expensive in the world."
+205,Super Puma,technical_term,"Twin-engine transport helicopter manufactured by Airbus Helicopters. Used for military transport, search and rescue, and offshore oil platform service."
+206,Marmite,food_drink,British yeast extract spread. Present on the tray at Knock Tom alongside honey and strawberry jam.
+207,AX sniper rifle,weapon,"British-made bolt-action sniper rifle by Accuracy International. Lightweight, smooth-firing, and very accurate. Commonly fitted with a Nightforce scope."
+208,.338 Lapua Magnum,weapon,"High-powered rifle calibre designed for long-range military sniping. Effective at distances exceeding 1,500 metres."
+209,Leupold spotting scope,weapon,High-magnification observation scope used by a spotter in a sniper team. Allows tracking of bullet trace and observation of impact at long range.
+210,Coriolis effect,technical_term,"Ballistic variable in long-range shooting. Over distances of a kilometre or more, the bullet flight time of several seconds means the Earth's rotation shifts the target position, requiring compensation."
+211,spoki noki,slang,"Childish Russian expression for goodnight, derived from spokojnoj nochi (спокойной ночи)."
+212,marrons glacés,food_drink,"Candied chestnuts, a French confection. Typically sold by luxury Parisian patisseries such as Fauchon."
+213,kroty,technical_term,"Russian term for moles (кроты). In intelligence context, refers to deep-cover agents or people with specialist knowledge of hidden infrastructure."
+214,D-6 / deep rail,technical_term,Secret underground railway network beneath Moscow. Built under Stalin to connect the Kremlin to KGB command posts and to evacuate the Politburo. Its existence is officially denied.
+215,dezinformatsiya,technical_term,Russian term for disinformation (дезинформация). The deliberate spreading of false information to deceive an adversary.
+216,Schelkunchik,cultural_reference,"Russian name for The Nutcracker (Щелкунчик), Tchaikovskys famous ballet. Traditionally performed during the New Year season in Russia."
+217,sotto voce,cultural_reference,Italian expression meaning in a subdued voice. Theatre staff speak sotto voce in the hushed foyer.
+218,Nightforce scope,weapon,"High-end tactical rifle scope manufactured by Nightforce Optics. Known for extreme precision at long range, widely used by military and competition shooters."
+219,Glazunov,proper_name,"Aleksandr Glazunov (1865-1936), Russian composer. Known for his violin concerto and ballet Raymonda."
+220,Rachmaninoff,proper_name,"Sergei Rachmaninoff (1873-1943), Russian composer and pianist. Known for his piano concertos, symphonies, and emotionally rich Romantic style."
+221,Dubrovka Theatre siege,cultural_reference,2002 hostage crisis at the Dubrovka Theatre in Moscow. Chechen militants seized 850 hostages; 130 died during the rescue operation.
+222,Pravda,cultural_reference,"Russian newspaper (Правда, meaning Truth). Historically the official organ of the Communist Party of the Soviet Union, now a general-interest publication."
+223,lyubimaya,slang,Russian term of endearment meaning my beloved (любимая). The feminine form; masculine is lyubimy.
+224,simulacra,cultural_reference,Philosophical concept: copies or representations that replace the original reality. From Jean Baudrillards theory of simulation and hyperreality.
+225,backstop,technical_term,Intelligence term for the verification infrastructure supporting a cover identity.
+226,varenye,food_drink,"Russian berry preserve or jam (варенье), made by slowly cooking fruit with sugar. A traditional accompaniment to tea."
+227,duma,title_rank,Russian elected assembly or parliament (дума). The State Duma is the lower house of the Federal Assembly; cities also have local dumas.
+228,babushka,slang,Russian word for grandmother (бабушка). Also used informally to refer to any elderly woman.
+229,bandersha,slang,Russian slang for the madam of a brothel (бандерша).
+230,moya lyubimaya,foreign_term,Russian term of endearment meaning my beloved (моя любимая).
+231,Plyazh Lyubvi,cultural_reference,"Russian TV dating show (Пляж Любви, meaning Love Beach)."
+232,tyolki,slang,"Russian slang for girls or chicks (тёлки). Informal, somewhat objectifying term for attractive young women."
+233,Sharky the Beaver,slang,Nickname for Myrtha Willis at Downing Street. Reflects her reputation as a predatory procurer.
+234,Valenki,cultural_reference,"Russian folk song (Валенки), a well-known traditional tune. Valenki are traditional Russian felt boots."
+235,Standart,cultural_reference,"СТАНДАРТ (Standard). Name associated with the Russian imperial yacht Standart, the personal vessel of Tsar Nicholas II."
+236,TQ (tactical questioning),technical_term,Military and intelligence interrogation technique. Structured questioning of detainees designed to extract actionable intelligence rapidly.
+237,deep-cover operation,technical_term,An extended covert intelligence operation requiring sustained cover identity.
+238,The Gumdrops,cultural_reference,Fictional 1970s TV series about an all-girl pop group.
+239,Topsoil,cultural_reference,Fictional Channel 4 gardening television show.
+240,Contra vim mortis non crescit salvia in hortis,cultural_reference,"Latin proverb meaning Against the power of death, no herb grows in the garden. A meditation on mortalitys inevitability."
+241,putain d erreur,slang,French vulgar expression meaning big fucking mistake.
+242,Chanel No 5,proper_name,Iconic perfume created by Coco Chanel and perfumer Ernest Beaux in 1921. One of the best-selling fragrances in history.
+243,papochka,slang,"Russian diminutive for daddy (папочка). An affectionate, childlike form of address for ones father."
+244,zvezda polyarnaya siyayet,slang,"Russian: the polar star shines. A fragment from a Russian song or poem, evoked in a moment of altered consciousness."
+245,"Mama, ya doma",slang,"Russian for Mother, I am home (Мама, я дома)."
+246,Oxanochka,proper_name,Affectionate diminutive of Oxana (Оксаночка). A tender Russian diminutive form.
+247,tout charge d adieux,cultural_reference,French: all laden with farewells. A literary fragment evoking departure and mortality.
+248,Sanctify,technical_term,Codename for a covert intelligence operation connected to Russian presidential elections.
+249,vsemu svoye vremya,slang,Russian: all in good time (всему своё время). An expression counselling patience.
+250,Resistance to Evil by Force,cultural_reference,"Political-philosophical work by Ivan Ilyin (1925), arguing that force is sometimes a moral necessity against evil. Ilyin is a favourite thinker of Russian conservatives and nationalists."
+251,Dobroye utro,cultural_reference,Russian for good morning (Доброе утро).
+252,Ya lyublyu tebya,cultural_reference,Russian for I love you (Я люблю тебя).
+253,kukushka,slang,"Russian: cuckoo (кукушка). In Russian culture, a cuckoo lays its eggs in other birds nests. Used metaphorically for someone raised by a family not their own."
+254,Gonzadril,technical_term,"So-called romance drug, also known as gonad or gonzo. Selective neurotransmitter developed by Scheubner-Richter Pharmaceuticals. Intended to stimulate the libido, but in rat tests causes heart failure in over 10% of cases. Human side effects include palpitations, restless genital syndrome, sudden vision loss, tinnitus, nausea, panic attacks, and strokes."
+255,Dvenadsat,foreign_term,Russian for twelve (двенадцать).
+256,Kak zovut koshku,foreign_term,Russian: What is the cat called? (Как зовут кошку?).
+257,haemophilia B,technical_term,"Hereditary blood disorder caused by a deficiency of clotting factor IX. The same form that afflicted Tsarevich Alexei Romanov, transmitted through the maternal line from Tsarina Alexandra."
+258,Golos Moskvy,proper_name,"Pro-Kremlin online Russian newspaper (Голос Москвы, meaning Voice of Moscow)."
+259,A4,technical_term,"MI5 mobile surveillance unit designation. A4 teams conduct covert physical surveillance on targets of interest, following subjects and reporting movements in real time."
+260,Pernach,weapon,"Russian automatic pistol (Пернач). A compact, reliable sidearm used by Russian military and security personnel."
+261,blini,cultural_reference,"Traditional Russian pancakes made from buckwheat or wheat flour, typically served with caviar, sour cream, or smoked fish."
+262,Chloé Nomade,cultural_reference,"Luxury perfume by the fashion house Chloe, with notes of jasmine, oak moss, and freesia."
+263,trofeinaya zhena,slang,Russian slang for trophy wife (трофейная жена).
+264,Bozhe moĭ,cultural_reference,Russian exclamation meaning Oh my God (Боже мой).
+265,Lyubov' yest' lyubov',cultural_reference,Russian phrase meaning Love is love (Любовь есть любовь).
+266,tradecraft,technical_term,Techniques and methods used by intelligence officers to conduct espionage.
+267,terra incognita,cultural_reference,"Latin for unknown territory. Used to describe unfamiliar or unexplored ground, literally or figuratively."
+268,skupa,cultural_reference,Bulgarian term of endearment meaning precious or dear (скъпа).
+269,kozyr,cultural_reference,Russian for trump card (козырь). A decisive advantage or asset held in reserve.
+270,Polinka,cultural_reference,"Short story by Anton Chekhov (1887), about a young woman working in a fabric shop."
+271,métier,foreign_term,French for profession or trade.
+272,Sig Sauer P365,weapon,Compact 9mm semi-automatic pistol manufactured by SIG Sauer. Popular as a concealed-carry firearm due to its small frame and high capacity.
+273,Punish,cultural_reference,Song by American singer Ethel Cain.
+274,Perverts,cultural_reference,Album by American singer Ethel Cain.
+275,Ovcharka,other,"Caucasian shepherd dog (овчарка), a large and aggressive guard breed originating from the Caucasus region. Used for livestock protection and property guarding."
+276,loufoque,foreign_term,French slang for crazy or eccentric.
+277,farfelue,foreign_term,French for scatterbrained or not right in the head.
+278,Haribo,proper_name,"Golden retriever belonging to Dido, Niko Polastris new partner."
+279,chica,foreign_term,Spanish for girl.
+280,Sandhurst,proper_name,"The Royal Military Academy Sandhurst, Britains officer training establishment for the British Army."
+281,gallops,technical_term,Extensive grass tracks set aside for the training of racehorses. Newmarket has over fifty miles of gallops.
+282,Rhino,proper_name,Fictional cryptocurrency. Slogan: Horny for Profit? Buy Rhino.
+283,The Trousered Ape,cultural_reference,"Former name of a fashionable 1960s nightspot in Berkeley Square, London."
+284,Annick Goutal,proper_name,French luxury perfume brand founded in 1981 by pianist and model Annick Goutal.
+285,Naziristan,place_name,"Fictional smallest Central Asian republic, an enclave between Tajikistan and Uzbekistan. Notable for rare metals and gas reserves."
+286,Prix de l'Arc de Triomphe,cultural_reference,"The most prestigious flat horse race in the world, held annually at Longchamp racecourse in Paris over 2,400 metres."
+287,at stud,technical_term,"Refers to a stallion standing for breeding, commanding high fees for covering mares."
+288,entire horse,technical_term,An uncastrated male horse. Entire horses earn the highest fees at stud.
+289,filly,technical_term,"In horse racing, a female horse under five years old."
+290,broodmare,technical_term,A mare designated for breeding. Majid owns several broodmares at Newmarket.
+291,bloodstock,technical_term,The thoroughbred racehorse breeding industry.
+292,colt,technical_term,"In British horse racing, a male horse under five years old. Beulah Boy is a colt."
+293,Beulah Boy,proper_name,"Fictional three-year-old racehorse (colt), bred and trained at Newmarket."
+294,Budoor,proper_name,"Fictional filly (young female racehorse), full sister of Beulah Boy."
+295,Palang,proper_name,Dari/Persian for tiger (پلنگ). Used as a nom de guerre.
+296,Nightshade,proper_name,"Painting by George Stubbs (1724-1806), showing a jet-black horse beneath a turbulent sky. Stubbs was the foremost English painter of horses."
+297,Sambuca,food_drink,"Italian anise-flavoured liqueur traditionally served with three coffee beans (representing happiness, health, and prosperity) and set alight."
+298,breezing,technical_term,Horse racing term for running horses at a fast but controlled pace during training.
+299,stable lad,technical_term,A person who works in a racing stable caring for the horses. Both men and women fill this role (stable lads and lasses).
+300,Sofinisba,proper_name,"Fictional filly (young female racehorse), nicknamed Sofie."
+301,khoshmar,foreign_term,Russian word for nightmare (кошмар).
+302,Shergar,proper_name,Famous Derby-winning racehorse stolen for ransom in Ireland in 1983 and never recovered. One of the most notorious horse-theft cases in racing history.
+303,horse box,technical_term,A vehicle or trailer used to transport horses.
+304,Voisins de Zero,technical_term,"Roulette betting system meaning neighbours of zero. Involves an outlay of nine chips per spin, covering numbers adjacent to zero on the wheel. A high-risk, zero-dependent strategy."
+305,Orphelins,technical_term,"Roulette betting system meaning the orphans. A five-chip bet covering numbers not included in the Voisins de Zero or Tiers du Cylindre systems: 1, and splits on 6/9, 14/17, 17/20, and 31/34."
+306,farrier,technical_term,A specialist who shoes horses and cares for their hooves. Pete is the farrier at the Ismailov stable.
+307,cadence,horse_racing,"Horse racing term for the rhythm and phrasing of a horses hoofbeats. Combined with a big, scopey stride, cadence indicates a horses quality of movement."
+308,bay,technical_term,"One of the most common racehorse coat colours, a reddish-brown body with black mane and tail. Budoor is a bay filly."
+309,hands,technical_term,Unit of measurement for a horse's height (one hand equals four inches). Budoor stands 15.3 hands.
+310,Group 1 race,technical_term,The highest classification of thoroughbred flat races. Winners of Group 1 races carry the greatest prestige.
+311,duchtaram,foreign_term,Dari/Persian term of endearment meaning my daughter.
+312,nichevo,foreign_term,Russian word meaning nothing or it is nothing. Common dismissive expression. Literally translates as never mind.
+313,taser,weapon,An electroshock weapon firing two barbed darts. Wayne uses one against Oxana at the motel.
+314,string,technical_term,A group of racehorses exercising together on the gallops. Oxana and Joe separate from the string for a faster gallop.
+315,Eto ne nichevo,cultural_reference,Russian phrase meaning it is not nothing — it is a lot (Это не ничего).
+316,kroliki flopsi,cultural_reference,"Russian rendering of Flopsy Bunnies (кролики Флопси), from Beatrix Potters childrens stories."
+317,Alenka,cultural_reference,"Russian chocolate brand, iconic in Soviet and post-Soviet culture. Recognisable by its wrapper depicting a girl in a headscarf. A common childhood treat."
+318,aspduzd,slang,Pashto word meaning horse-thief. A serious insult in Central Asian pastoral cultures where horses are highly valued.
+319,going dark,technical_term,Intelligence term for ceasing all communication and becoming untraceable.
+320,Na zdorovye / Budem zdorovy,foreign_term,Russian drinking toasts. Na zdorovye means to your health; Budem zdorovy means let us be healthy. Standard formal toasting phrases.
+321,Ya by yeye trackhnul,foreign_term,Russian vulgar phrase meaning I would fuck her. Crude sexual remark.
+322,Kak suchku,foreign_term,Russian vulgar phrase meaning like a bitch. Used as a crude intensifier following a sexual boast.
+323,Nikto krome nas,foreign_term,Russian military motto meaning No one but us. Tattoo associated with Spetsnaz (Russian special forces). Indicates elite military service.
+324,Baby's Leg,slang,"British slang for jam roly-poly, a traditional English steamed pudding made with suet pastry rolled around jam filling."
+325,furlongs,technical_term,A unit of distance used in horse racing. The Arc de Triomphe is run over a mile and four furlongs (approximately 2400 metres).
+326,Semi-Italian opening,technical_term,"Chess opening (also called the Giuoco Piano). Begins 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5. A classical, positional opening favouring slow strategic play."
+327,false straight,technical_term,Horse racing term for a deceptive stretch of track that appears to be the final straight but angles away after a few hundred metres before the true home straight begins.
+328,drawn,technical_term,The starting-stall number assigned by lot. Low numbers give an inside advantage; high numbers are disadvantaged. Beulah Boy drew 16; Prince D'Aquitaine drew 2.
+329,slon,technical_term,"Russian for elephant. In organised crime slang, an acronym for Suchki Lyubat Ostri Nozh (Bitches Love a Sharp Knife). A menacing double entendre."
+330,racing silks,technical_term,The coloured uniform worn by a jockey identifying the horse owner.
+331,Reculez,foreign_term,French imperative meaning stand back or retreat. Used to command a crowd to move away from danger.
+332,Lyagushka,foreign_term,Russian for frog (лягушка). Used as an affectionate pet name between lovers.
+333,Golden Score,technical_term,"Judo rule for sudden-death overtime. When scores are tied at the end of regulation, the contest continues indefinitely until one competitor achieves a decisive throw or submission."
+334,tendresse,foreign_term,French noun meaning tenderness or affection. Describes a gentle romantic attachment or growing emotional bond between two people.
