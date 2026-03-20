@@ -54,4 +54,4 @@ id,name,aliases,organization_type,description,first_appearance_book_id
 53,Scheubner-Richter Pharmaceuticals,['Scheubner-Richter'],commercial,"Pharmaceutical company based in Oakland, California. Manufactures Gonzadril, a selective neurotransmitter and sexual-receptor agonist intended for libido stimulation.",4
 54,GRU,['Glavnoye Razvedyvatelnoye Upravleniye'],intelligence_agency,"Russian military intelligence service. Senior officers Borzhko and Peskov attempted to abduct Valentin Dominik at a Mayfair club, possibly connected to Russian elections and Operation Sanctify.",4
 55,Buxor,[],commercial,"Mining company owned by Majid Ismailov. Operates in Naziristan, extracting rare metals.",5
-56,Alovert News Agency,,,Central Asian press agency covering Naziristan. Reports on Buxor mining company activities and human rights abuses in the region.,5
+56,Alovert News Agency,[],media,Central Asian press agency covering Naziristan. Reports on Buxor mining company activities and human rights abuses in the region.,5
