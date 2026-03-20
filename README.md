@@ -31,6 +31,34 @@ This dataset captures the narrative universe of the *Killing Eve* book series in
 | 6 | Medusa | Boldwood Books | 2026-05-11 | — | — |
 | 7 | Blueblood | Boldwood Books | 2026-11-01 | — | — |
 
+## Project Structure
+
+```text
+killing-eve-books-database/
+├── .github/
+│   ├── workflows/
+│   │   └── build-database.yml      # CI: auto-build SQLite on data changes
+│   └── ISSUE_TEMPLATE/             # Templates for bug reports & proposals
+├── data/                           # CSV dataset files
+├── schema/
+│   ├── datasette-metadata.json     # Datasette metadata for web browsing
+│   ├── er_diagram.mmd              # Mermaid ER diagram
+│   └── schema.sql                  # SQLite DDL (CREATE TABLE statements)          
+├── scripts/
+│   ├── export_to_gephi.py          # Export relationships to GEXF for Gephi
+│   └── export_to_jsonld.py         # Export CSV data to JSON-LD
+├── tests/
+│   └── test_database_integrity.py  # DB integrity & data quality checks
+├── database/                       # Generated SQLite database (gitignored)
+├── main.py                         # CSV → SQLite import script
+├── pyproject.toml                  # Python project metadata
+├── CHANGELOG.md                    # Version history
+├── CITATION.cff                    # Citation metadata for academics
+├── LICENSE-CODE                    # MIT (code)
+├── LICENSE-DATA                    # CC BY 4.0 (dataset)
+└── README.md
+```
+
 ## Quick Start
 
 ### Use the CSV files directly
@@ -295,34 +323,6 @@ Books (raw text)
 - **Semantic chunking** ensures the AI agent processes narratively meaningful segments rather than arbitrary fixed-size windows, improving extraction quality
 - **Agentic SQL extraction** allows the model to directly populate a relational schema, enforcing structural consistency from the start
 - **Human-in-the-loop curation** catches hallucinations, resolves ambiguities, and ensures the final dataset faithfully represents the source material
-
-## Project Structure
-
-```text
-killing-eve-books-database/
-├── .github/
-│   ├── workflows/
-│   │   └── build-database.yml      # CI: auto-build SQLite on data changes
-│   └── ISSUE_TEMPLATE/             # Templates for bug reports & proposals
-├── data/                           # CSV dataset files
-├── schema/
-│   ├── datasette-metadata.json     # Datasette metadata for web browsing
-│   ├── er_diagram.mmd              # Mermaid ER diagram
-│   └── schema.sql                  # SQLite DDL (CREATE TABLE statements)          
-├── scripts/
-│   ├── export_to_gephi.py          # Export relationships to GEXF for Gephi
-│   └── export_to_jsonld.py         # Export CSV data to JSON-LD
-├── tests/
-│   └── test_database_integrity.py  # DB integrity & data quality checks
-├── database/                       # Generated SQLite database (gitignored)
-├── main.py                         # CSV → SQLite import script
-├── pyproject.toml                  # Python project metadata
-├── CHANGELOG.md                    # Version history
-├── CITATION.cff                    # Citation metadata for academics
-├── LICENSE-CODE                    # MIT (code)
-├── LICENSE-DATA                    # CC BY 4.0 (dataset)
-└── README.md
-```
 
 ## Contributing
 
