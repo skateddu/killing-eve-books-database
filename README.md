@@ -102,7 +102,7 @@ python main.py --db path/to/my_database.db
 
 The full dataset is available on Kaggle with an interactive Quickstart notebook:
 
-📊 [**Dataset**](https://www.kaggle.com/datasets/skateddu/killing-eve-books-database)                   
+📊 [**Dataset**](https://www.kaggle.com/datasets/skateddu/killing-eve-books-database)
 📓 [**Quickstart Notebook**](https://www.kaggle.com/code/skateddu/quickstart-exploring-the-killing-eve-universe)
 
 ## Dataset Structure
