@@ -1,5 +1,11 @@
 # Killing Eve Books Database
 
+[![Build SQLite Database](https://github.com/skateddu/killing-eve-books-database/actions/workflows/build-database.yml/badge.svg)](https://github.com/skateddu/killing-eve-books-database/actions/workflows/build-database.yml)
+[![License: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE-CODE)
+[![License: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)](LICENSE-DATA)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776AB.svg?logo=python&logoColor=white)](https://www.python.org/)
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-dataset-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/skateddu/killing-eve-books-database)
+
 > **[Unofficial]** A comprehensive structured database & Knowledge Graph of the complete Killing Eve literary universe by Luke Jennings.
 
 Covers all published novels plus the upcoming *Medusa* and *Blueblood*, with **characters**, **locations**, **organizations**, **relationships**, **glossary terms**, and chapter-level appearance tracking — all manually curated for accuracy.
