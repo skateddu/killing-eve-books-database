@@ -18,7 +18,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 - **56 organizations** with type classification
 - **811 knowledge-graph relationships** (books 1–5)
 - **334 glossary terms** with categories
-- **122 chapters** with number and title per book
+- **172 chapters** with number and title per book
 - **731 character appearances** and **562 location appearances** at chapter level
 - SQLite schema with full DDL, foreign keys, indexes, and constraints
 - Mermaid ER diagram
