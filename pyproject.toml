@@ -5,5 +5,30 @@ description = "A comprehensive structured database & Knowledge Graph of the comp
 readme = "README.md"
 license = "MIT AND CC-BY-4.0"
 requires-python = ">=3.10"
+authors = [
+    { name = "Andrea Cadeddu", email = "skateddu@users.noreply.github.com" },
+]
 keywords = ["killing-eve", "dataset", "knowledge-graph", "books", "literary-database"]
 dependencies = []
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Education",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Database",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Topic :: Text Processing :: Linguistic",
+    "Typing :: Typed",
+]
+
+[project.urls]
+Homepage = "https://github.com/skateddu/killing-eve-books-database"
+Repository = "https://github.com/skateddu/killing-eve-books-database"
+Issues = "https://github.com/skateddu/killing-eve-books-database/issues"
+Changelog = "https://github.com/skateddu/killing-eve-books-database/blob/main/CHANGELOG.md"
+"Kaggle Dataset" = "https://www.kaggle.com/datasets/skateddu/killing-eve-books-database"
