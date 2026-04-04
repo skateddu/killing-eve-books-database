@@ -3,14 +3,14 @@ id,book_id,chapter,name
 2,1,2,Hollowpoint
 3,1,3,Shanghai
 4,1,4,Odessa
-5,2,1,1
-6,2,2,2
-7,2,3,3
-8,2,4,4
-9,2,5,5
-10,2,6,6
-11,2,7,7
-12,2,8,8
+5,2,1,Chapter 1
+6,2,2,Chapter 2
+7,2,3,Chapter 3
+8,2,4,Chapter 4
+9,2,5,Chapter 5
+10,2,6,Chapter 6
+11,2,7,Chapter 7
+12,2,8,Chapter 8
 13,3,1,Chapter 1
 14,3,2,Chapter 2
 15,3,3,Chapter 3
@@ -25,99 +25,149 @@ id,book_id,chapter,name
 24,3,12,Chapter 12
 25,3,13,Chapter 13
 26,3,14,Chapter 14
-27,4,1,Part I - 1
-28,4,2,Part I - 2
-29,4,3,Part I - 3
-30,4,4,Part I - 4
-31,4,5,Part I - 5
-32,4,6,Part I - 6
-33,4,7,Part I - 7
-34,4,8,Part I - 8
-35,4,9,Part I - 9
-36,4,10,Part I - 10
-37,4,11,Part I - 11
-38,4,12,Part I - 12
-39,4,13,Part I - 13
-40,4,14,Part I - 14
-41,4,15,Part I - 15
-42,4,16,Part I - 16
-43,4,17,Part I - 17
-44,4,18,Part I - 18
-45,4,19,Part I - 19
-46,4,20,Part I - 20
-47,4,21,Part I - 21
-48,4,22,Part II - 22
-49,4,23,Part II - 23
-50,4,24,Part II - 24
-51,4,25,Part II - 25
-52,4,26,Part II - 26
-53,4,27,Part II - 27
-54,4,28,Part II - 28
-55,4,29,Part II - 29
-56,4,30,Part II - 30
-57,4,31,Part II - 31
-58,4,32,Part II - 32
-59,4,33,Part II - 33
-60,4,34,Part II - 34
-61,4,35,Part II - 35
-62,4,36,Part II - 36
-63,4,37,Part II - 37
-64,4,38,Part II - 38
-65,4,39,Part II - 39
-66,4,40,Part II - 40
-67,4,41,Part II - 41
-68,4,42,Part II - 42
-69,4,43,Part II - 43
-70,4,44,Part II - 44
-71,4,45,Part II - 45
-72,4,46,Part II - 46
-73,5,1,1
-74,5,2,2
-75,5,3,3
-76,5,4,4
-77,5,5,5
-78,5,6,6
-79,5,7,7
-80,5,8,8
-81,5,9,9
-82,5,10,10
-83,5,11,11
-84,5,12,12
-85,5,13,13
-86,5,14,14
-87,5,15,15
-88,5,16,16
-89,5,17,17
-90,5,18,18
-91,5,19,19
-92,5,20,20
-93,5,21,21
-94,5,22,22
-95,5,23,23
-96,5,24,24
-97,5,25,25
-98,5,26,26
-99,5,27,27
-100,5,28,28
-101,5,29,29
-102,5,30,30
-103,5,31,31
-104,5,32,32
-105,5,33,33
-106,5,34,34
-107,5,35,35
-108,5,36,36
-109,5,37,37
-110,5,38,38
-111,5,39,39
-112,5,40,40
-113,5,41,41
-114,5,42,42
-115,5,43,43
-116,5,44,44
-117,5,45,45
-118,5,46,46
-119,5,47,47
-120,5,48,48
-121,5,49,49
-122,5,50,50
+27,4,1,Part I - Chapter 1
+28,4,2,Part I - Chapter 2
+29,4,3,Part I - Chapter 3
+30,4,4,Part I - Chapter 4
+31,4,5,Part I - Chapter 5
+32,4,6,Part I - Chapter 6
+33,4,7,Part I - Chapter 7
+34,4,8,Part I - Chapter 8
+35,4,9,Part I - Chapter 9
+36,4,10,Part I - Chapter 10
+37,4,11,Part I - Chapter 11
+38,4,12,Part I - Chapter 12
+39,4,13,Part I - Chapter 13
+40,4,14,Part I - Chapter 14
+41,4,15,Part I - Chapter 15
+42,4,16,Part I - Chapter 16
+43,4,17,Part I - Chapter 17
+44,4,18,Part I - Chapter 18
+45,4,19,Part I - Chapter 19
+46,4,20,Part I - Chapter 20
+47,4,21,Part I - Chapter 21
+48,4,22,Part I - Chapter 22
+49,4,23,Part I - Chapter 23
+50,4,24,Part I - Chapter 24
+51,4,25,Part I - Chapter 25
+52,4,26,Part I - Chapter 26
+53,4,27,Part I - Chapter 27
+54,4,28,Part I - Chapter 28
+55,4,29,Part I - Chapter 29
+56,4,30,Part I - Chapter 30
+57,4,31,Part I - Chapter 31
+58,4,32,Part I - Chapter 32
+59,4,33,Part I - Chapter 33
+60,4,34,Part I - Chapter 34
+61,4,35,Part I - Chapter 35
+62,4,36,Part I - Chapter 36
+63,4,37,Part I - Chapter 37
+64,4,38,Part I - Chapter 38
+65,4,39,Part I - Chapter 39
+66,4,40,Part I - Chapter 40
+67,4,41,Part I - Chapter 41
+68,4,42,Part I - Chapter 42
+69,4,43,Part I - Chapter 43
+70,4,44,Part I - Chapter 44
+71,4,45,Part I - Chapter 45
+72,4,46,Part I - Chapter 46
+73,5,1,Chapter 1
+74,5,2,Chapter 2
+75,5,3,Chapter 3
+76,5,4,Chapter 4
+77,5,5,Chapter 5
+78,5,6,Chapter 6
+79,5,7,Chapter 7
+80,5,8,Chapter 8
+81,5,9,Chapter 9
+82,5,10,Chapter 10
+83,5,11,Chapter 11
+84,5,12,Chapter 12
+85,5,13,Chapter 13
+86,5,14,Chapter 14
+87,5,15,Chapter 15
+88,5,16,Chapter 16
+89,5,17,Chapter 17
+90,5,18,Chapter 18
+91,5,19,Chapter 19
+92,5,20,Chapter 20
+93,5,21,Chapter 21
+94,5,22,Chapter 22
+95,5,23,Chapter 23
+96,5,24,Chapter 24
+97,5,25,Chapter 25
+98,5,26,Chapter 26
+99,5,27,Chapter 27
+100,5,28,Chapter 28
+101,5,29,Chapter 29
+102,5,30,Chapter 30
+103,5,31,Chapter 31
+104,5,32,Chapter 32
+105,5,33,Chapter 33
+106,5,34,Chapter 34
+107,5,35,Chapter 35
+108,5,36,Chapter 36
+109,5,37,Chapter 37
+110,5,38,Chapter 38
+111,5,39,Chapter 39
+112,5,40,Chapter 40
+113,5,41,Chapter 41
+114,5,42,Chapter 42
+115,5,43,Chapter 43
+116,5,44,Chapter 44
+117,5,45,Chapter 45
+118,5,46,Chapter 46
+119,5,47,Chapter 47
+120,5,48,Chapter 48
+121,5,49,Chapter 49
+122,5,50,Chapter 50
+123,6,0,Prologue
+124,6,1,Part I - Chapter 1
+125,6,2,Part I - Chapter 2
+126,6,3,Part I - Chapter 3
+127,6,4,Part I - Chapter 4
+128,6,5,Part I - Chapter 5
+129,6,6,Part I - Chapter 6
+130,6,7,Part I - Chapter 7
+131,6,8,Part I - Chapter 8
+132,6,9,Part I - Chapter 9
+133,6,10,Part I - Chapter 10
+134,6,11,Part I - Chapter 11
+135,6,12,Part I - Chapter 12
+136,6,13,Part I - Chapter 13
+137,6,14,Part I - Chapter 14
+138,6,15,Part I - Chapter 15
+139,6,16,Part I - Chapter 16
+140,6,17,Part I - Chapter 17
+141,6,18,Part II - Chapter 18
+142,6,19,Part II - Chapter 19
+143,6,20,Part II - Chapter 20
+144,6,21,Part II - Chapter 21
+145,6,22,Part II - Chapter 22
+146,6,23,Part II - Chapter 23
+147,6,24,Part II - Chapter 24
+148,6,25,Part II - Chapter 25
+149,6,26,Part II - Chapter 26
+150,6,27,Part II - Chapter 27
+151,6,28,Part II - Chapter 28
+152,6,29,Part II - Chapter 29
+153,6,30,Part II - Chapter 30
+154,6,31,Part II - Chapter 31
+155,6,32,Part II - Chapter 32
+156,6,33,Part II - Chapter 33
+157,6,34,Part II - Chapter 34
+158,6,35,Part II - Chapter 35
+159,6,36,Part II - Chapter 36
+160,6,37,Part II - Chapter 37
+161,6,38,Part II - Chapter 38
+162,6,39,Part II - Chapter 39
+163,6,40,Part II - Chapter 40
+164,6,41,Part II - Chapter 41
+165,6,42,Part II - Chapter 42
+166,6,43,Part II - Chapter 43
+167,6,44,Part II - Chapter 44
+168,6,45,Part II - Chapter 45
+169,6,46,Part II - Chapter 46
+170,6,47,Part II - Chapter 47
+171,6,48,Part II - Chapter 48
+172,6,49,Part II - Chapter 49
